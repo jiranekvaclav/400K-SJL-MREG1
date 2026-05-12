@@ -2175,545 +2175,296 @@
   ],
   "schuzky": [
     {
-      "datum": "2026-04-29",
+      "datum": "2026-05-06",
       "ucastnici": [
-        "Filip Mežibridskij",
         "Václav Jiránek",
         "David Kupec",
-        "Martin Kiss",
-        "Tereza Šrámková",
-        "Lukáš Krejčí",
-        "Tomáš Lanzendörfer",
-        "Michal Tomek",
-        "[nejasné - osoba označená jako @1]",
-        "Michael Gottwald",
-        "Martin Čech",
+        "Filip Mežibridskij",
         "Ondra Kreml",
-        "[nejasné další]",
         "Martina Medlenová",
-        "Lucie Brejchová",
-        "[nejasné - @1, @3, @4]",
-        "Lukáš Smetana",
-        "[nejasné - @1, @2, @3 nejsou jasně identifikováni]"
+        "Michael Gottwald",
+        "Michal Tomek",
+        "Tereza Šrámková",
+        "[další účastníci nejsou v přepisu jasně identifikováni]"
       ],
       "projekty": [
         {
-          "nazev": "Vratné palety a RFID komunikace",
-          "pm": "Filip Mežibridskij",
-          "stav_ze_schuzky": "Palety jsou na místě, otagované a připravené. Čekají na zahájení testování. Go-live je plánován na 15. května.",
-          "klicove_body": [
-            "Palety dodány od českého dodavatele",
-            "Jsou otagované a štítkovány",
-            "Testování se má zahájit příští týden",
-            "Go-live 15. května"
-          ],
-          "akce": [
-            {
-              "co": "Ověření dodání brán a zahájení kontroly stavební přípravy",
-              "kdo": "Filip Mežibridskij",
-              "do": "2026-04-30"
-            },
-            {
-              "co": "Objednání brán na základě stavební přípravy",
-              "kdo": "Václav Jiránek",
-              "do": null
-            },
-            {
-              "co": "Informovat o výsledcích zahájení testování",
-              "kdo": "Filip Mežibridskij",
-              "do": null
-            }
-          ],
-          "rizika": [],
-          "podarilo_se": [
-            "Palety jsou připraveny a štítkovány",
-            "Stavební příprava postupuje"
-          ],
-          "sledovat": [
-            "Zahájení testování příští týden",
-            "Instalace a zprovoznění do 15. května"
-          ]
-        },
-        {
-          "nazev": "Dopravníková síť v CZLC4",
-          "pm": "Filip Mežibridskij",
-          "stav_ze_schuzky": "Stavební příprava proběhla hladce, materiál je připraven. V pondělí zahájila společnost Innotech stavbu dopravníků. Jsou identifikovány některé rizika související s kapacitami a otevíráním TC.",
-          "klicove_body": [
-            "Inventura materiálu hotova",
-            "Materiál seřazen a metodizován",
-            "Stavba zahájena v pondělí s Innotech",
-            "Stavební příprava proběhla dle plánu",
-            "Identifikované riziko s kapacitami TC"
-          ],
-          "akce": [
-            {
-              "co": "Příprava extra regálu na posledním patře",
-              "kdo": "David Kupec",
-              "do": null
-            },
-            {
-              "co": "Kontrola a případné úpravy nastavení tras",
-              "kdo": "[nejasné]",
-              "do": null
-            }
-          ],
-          "rizika": [
-            "Riziko s kapacitami při otevírání TC",
-            "Potenciální dopad na gol-live, pokud se neřeší do začátku příštího týdne",
-            "Problém s kompatibilitou a napojením jižního sjezdu"
-          ],
-          "podarilo_se": [
-            "Stavební příprava proběhla hladce",
-            "Materiál je připraven a seřazen",
-            "Stavba zahájena Innotech v termínu"
-          ],
-          "sledovat": [
-            "Řešení problému s TC kapacitami",
-            "Nastavení tras",
-            "Připravit se na budoucí režim",
-            "Pravidelné checky běhu stavby"
-          ]
-        },
-        {
           "nazev": "Robopick CZLC4 2025",
           "pm": "Filip Mežibridskij",
-          "stav_ze_schuzky": "Řeší se finální ladění stanic a příprava na go-live v pondělí. Diskutuje se o funkcionalitě robota, přesunech mezi porty a zabezpečení zboží při selhání.",
+          "stav_ze_schuzky": "V testovacím období dosahoval kapacity 230 SJL/den, v provozu poklesl na 185 SJL/den. Kvalita byla měřena na 93% pickability. Rychlost pohybu robota není omezující faktor, hlavním úzkým místem jsou záseky.",
           "klicove_body": [
-            "Go-live plánován na pondělí",
-            "Finální ladění technologických funkcí stanic",
-            "Řešení otevírání/zavírání portů přes VMS",
-            "Ochrana zboží při pohybu robota mezi porty",
-            "Přístup k datům a reportingu - zatím pouze pro Filipa Mežibridského a Martina Kisse"
+            "Pickability 93% není započítávána do konečné kapacity",
+            "Testovací versus provozní kapacita se liší (230 vs 185 SJL/den)",
+            "Záseky jsou hlavním problémem pro zvýšení efektivity",
+            "Doba opravy a příchodu manažera jsou měřené metriky"
           ],
           "akce": [
             {
-              "co": "Dokončit finální ladění stanic a validovat funkcionalitu před go-live",
-              "kdo": "Filip Mežibridskij",
-              "do": null
-            },
-            {
-              "co": "Domluvit termín spuštění operace a zajistit připravenost procesu",
-              "kdo": "Filip Mežibridskij",
-              "do": null
-            },
-            {
-              "co": "Řešit automatizaci přístupu k datům a reportingu pro budoucnost",
-              "kdo": "Filip Mežibridskij",
+              "co": "Analyzovat rozdíl mezi testovací a provozní kapacitou robota",
+              "kdo": "David Kupec",
               "do": null
             }
           ],
           "rizika": [
-            "Robot může selhat nebo zničit zboží během pohybu mezi porty",
-            "VMS funkce otevírání/zavírání portů zatím nefunguje",
-            "Možné zpoždění go-live pokud se nedokončí kritické úkoly"
+            "Nižší než očekávaná kapacita v provozu",
+            "Časté záseky snižují efektivitu",
+            "Nejasné metriky pro měření pickability"
           ],
           "podarilo_se": [
-            "Stanice jsou připraveny a fungují"
+            "Robot v testovacím období dosahoval 230 SJL/den"
           ],
           "sledovat": [
-            "Stav přípravy na pondělní go-live",
-            "Funkčnost VMS pro správu portů",
-            "Ochrana zboží při selhání robota"
-          ]
-        },
-        {
-          "nazev": "Provoz LCU 24/7",
-          "pm": "Tereza Šrámková",
-          "stav_ze_schuzky": "Řeší se vyklízení plochy a nákup tiskáren s pikem. Schválení dodatečného nákupu retrospektivně. Schůzka plánována na příští týden ve středu odpoledne.",
-          "klicove_body": [
-            "Plocha je vyklízena, postupně se odvážejí věci",
-            "Nákup tiskáren s pikem je aktuální téma",
-            "Schválení retrospektivní - bylo posláno 4 miliony",
-            "Schůzka na řešení rizik a kapacity plánována ve středu"
-          ],
-          "akce": [
-            {
-              "co": "Dobit věci z prostoru postupně, koordinovat dopravu mezi Chrášťany a Zdibicemi",
-              "kdo": "Tereza Šrámková",
-              "do": null
-            },
-            {
-              "co": "Zajistit dodání konců do 14. [data]",
-              "kdo": "Tereza Šrámková",
-              "do": null
-            },
-            {
-              "co": "Zrevidovat datum milníku na konec června pokud bude potřeba",
-              "kdo": "Tereza Šrámková",
-              "do": null
-            }
-          ],
-          "rizika": [
-            "Zpoždění projektu kvůli vyklízení plochy",
-            "Zvýšené náklady na dopravu",
-            "Rizika popsaná v projektu budou řešena na další schůzce"
-          ],
-          "podarilo_se": [
-            "Plocha je kompletně vyklízena"
-          ],
-          "sledovat": [
-            "Pokrok v odvážení zbývajícího materiálu",
-            "Nákup a dodání tiskáren s pikem",
-            "Výsledky schůzky o řešení rizik příští týden"
+            "Aktuální kapacitu v provozu",
+            "Frekvenci a příčiny zásek",
+            "Dobu opravy a příchodu manažera"
           ]
         },
         {
           "nazev": "Destrukce technologií a materiálu",
           "pm": "Michal Tomek",
-          "stav_ze_schuzky": "Probíhá příprava na aukci se Surplex. Chystá se seznam položek k prodeji, včetně obalového materiálu.",
+          "stav_ze_schuzky": "Probíhá příprava aukce použitých strojů a materiálu. Smlouva se společností Surplex je připravena, čekají se finální připomínky. Harmonogram: fotodokumentace do 31. 5., zahájení aukce do 16. 6., vyklizení do 18. 8.",
           "klicove_body": [
-            "Smlouva se Surplex se připravuje",
-            "Seznam položek k aukci je částečně připraven",
-            "Plánuje se zahrnout obalový materiál",
-            "Nechceme dávat věci k vyhození do aukce",
-            "Převážná část materiálu je ve Zdibicích",
-            "Hledá se místo pro skladování a možnosti prodeje",
-            "Termín vyčištění skladu do 18.5.",
-            "Audit obalů a jejich zhodnocení",
-            "Pronájmy techniky v Chrášťanech",
-            "Diskuse o rentabilitě pronájmu vs. nový požadavek",
-            "Ušetření na pronájmu - jednotlivé škodní události"
+            "Aukce strojů a obchodního materiálu skrze Surplex",
+            "Německá smlouva má českou verzi připravenou",
+            "Termín vyklizení: do 18. srpna",
+            "Fotodokumentace skrze profesionální fotografa"
           ],
           "akce": [
             {
-              "co": "Finalizovat seznam položek k aukci a připravit smlouvu se Surplex",
-              "kdo": "Michal Tomek",
-              "do": null
-            },
-            {
-              "co": "Vyčíslit, co skutečně jde do aukce a co zůstane",
+              "co": "Finalizace smlouvy a připomínek k německé verzi",
               "kdo": "[nejasné]",
-              "do": "2026-04-30"
+              "do": "2026-05-15"
             },
             {
-              "co": "Podepsat novou smlouvu s dodavatelem aukcí ohledně obalového materiálu",
-              "kdo": "[nejasné]",
-              "do": null
-            },
-            {
-              "co": "Provést audit na to, co všechno se chce dát do aukce",
-              "kdo": "David Kupec",
-              "do": null
-            },
-            {
-              "co": "Rozhodnout, zda se provede sběr zpětného toku z Alza Box poboček do Chrášťan",
+              "co": "Profesionální fotodokumentace všech položek",
               "kdo": "[nejasné]",
               "do": "2026-05-31"
             },
             {
-              "co": "[nejasné] - řešit pronájmy techniky",
+              "co": "Zahájení aukce",
+              "kdo": "Surplex",
+              "do": "2026-06-16"
+            },
+            {
+              "co": "Vyklizení skladu",
               "kdo": "[nejasné]",
-              "do": null
+              "do": "2026-08-18"
             }
           ],
           "rizika": [
-            "[nejasné] - přepis se přerušuje, není jasné jaké konkrétní rizika byla zmíněna",
-            "Vysoké finanční ztráty na některých prvcích",
-            "Není místo na pobočkové síti pro uložení materiálu",
-            "Nejasné, kolik věcí se skutečně podaří prodat v aukci",
-            "Administrativní vypořádání jednotlivých položek"
+            "Nejasnost ohledně vyvolávacích cen a maximálních cen",
+            "Složitost odhadu ceny bez znalosti původní hodnoty strojů",
+            "Nutnost vyřadit některé položky jako nevhodné k prodeji"
           ],
           "podarilo_se": [
-            "Ušetření na pronájmu techniky"
+            "Připravena německá smlouva se Surplex",
+            "Identifikován obsah k prodeji i k vyhození"
           ],
           "sledovat": [
-            "Příprava podmínek ve smlouvě se Surplex",
-            "Termín 17.5. pro rozhodnutí o aukci",
-            "Vyčistění skladu do 18.5.",
-            "Možnosti distribuce a umístění zbytkového materiálu",
-            "Rozhodnutí o novém požadavku vs. stávající pronájmy"
+            "Podpis finální verze smlouvy",
+            "Timing fotodokumentace",
+            "Průběh aukce a realizace výběru"
           ]
         },
         {
           "nazev": "RMAHQCZ do LCZ",
           "pm": "Michael Gottwald",
-          "stav_ze_schuzky": "Řeší se infrastruktura - zajištění elektřiny a datové sítě na pracovištích. Některé detaily nejsou zcela jasné.",
+          "stav_ze_schuzky": "Příprava infrastruktury téměř hotova, schválený rozpočet. Miricom připravuje datové sítě. Klíčový termín pro start instalace 17. května. Diskuse o trasách a způsobu pokládky kabelů (pod podlahou bez rušení provozu).",
           "klicove_body": [
-            "Zajištění elektřiny a datové sítě",
-            "Nyní řeší se s provozovci ze Zdibic a Chrášťan",
-            "Některé věci se řeší přes právní kanály"
+            "Infrastruktura schválena a financována",
+            "Miricom je dodavatel datových sítí",
+            "Start instalace cílově 17. května",
+            "Kabely budou vedeny pod podlahou",
+            "Koordinace s provozem - avoid přerušení"
           ],
           "akce": [
             {
-              "co": "Nafotit stoly a počty zásuvek na elektřinu a data",
+              "co": "Schválení rozpočtu infrastruktury",
               "kdo": "[nejasné]",
-              "do": "2026-04-30"
+              "do": null
             },
             {
-              "co": "Získat nabídku na elektřinu a datové sítě od Miricom",
-              "kdo": "Martin Čech",
-              "do": "14 dnů"
+              "co": "Domluva s Miricom na instalaci a plánování tras",
+              "kdo": "[nejasné]",
+              "do": "2026-05-17"
             },
             {
-              "co": "Finalizovat rozhovory s provozovci",
-              "kdo": "[nejasné]",
+              "co": "Příprava podlahy a vyznačení míst pro kabely",
+              "kdo": "Miricom",
+              "do": "2026-05-17"
+            },
+            {
+              "co": "Instalace infrastruktury",
+              "kdo": "Miricom",
               "do": null
             }
           ],
           "rizika": [
-            "Nejasnost ohledně přesného počtu a umístění zásuvek",
-            "Personální záležitosti nutné řešit skrz právní kanály"
+            "Složitost pokládky kabelů bez rušení provozu",
+            "Nutnost koordinace s probíhajícím provozem v areálu",
+            "Požadavek na připravenost podlahy na správný čas"
           ],
+          "podarilo_se": [
+            "Rozpočet schválený",
+            "HR zajistily zaměstnance (jednotky osob)",
+            "Infrastruktura schválena"
+          ],
+          "sledovat": [
+            "Potvrdzení startu Miricom na 17. května",
+            "Příprava všech tras a kolaudace",
+            "Koordinace s reverskou"
+          ]
+        },
+        {
+          "nazev": "REV LOG mimo CZLC4",
+          "pm": "Michael Gottwald",
+          "stav_ze_schuzky": "[nejasné] - zmínka o reversce v kontextu infrastruktury a DPD, ale konkrétní detaily projektu nejsou jasné",
+          "klicove_body": [
+            "DPD jezdí do lokality",
+            "Diskuse o zpětném toku a servisu"
+          ],
+          "akce": [],
+          "rizika": [],
           "podarilo_se": [],
           "sledovat": [
-            "Nabídka od Miricom",
-            "Rozhovory s provozovci",
-            "Schvalovací proces - nejpozději 11. května"
+            "Zpětný tok - nastavení adresy pro DPD"
+          ]
+        },
+        {
+          "nazev": "Provoz LCU 24/7",
+          "pm": "Tereza Šrámková",
+          "stav_ze_schuzky": "Zmínka o tom, že se tam nic neděje nebo je stav blokovaný. Nejasné detaily.",
+          "klicove_body": [
+            "[nejasné]"
+          ],
+          "akce": [],
+          "rizika": [],
+          "podarilo_se": [],
+          "sledovat": []
+        },
+        {
+          "nazev": "Systémové pokrytí třídících dep",
+          "pm": "Martina Medlenová",
+          "stav_ze_schuzky": "Příští týden spuštění Hosína, nasazení life kvalicrosmu. Nový Bydžov již spuštěn. Plánuje se spuštění Vratimova.",
+          "klicove_body": [
+            "Spuštění třídění v Hosíně příští týden",
+            "Pokrytí v Novém Bydžově slabé - bylo pouze na XLA",
+            "Vratimov - stejný problém s AP pokrytím",
+            "Trasy byly špatně nastaveny",
+            "Milníky posunuly se na příští měsíc"
+          ],
+          "akce": [
+            {
+              "co": "Spustit třídění v Hosíně",
+              "kdo": "Martina Medlenová",
+              "do": null
+            },
+            {
+              "co": "Spustit třídění ve Vratimově",
+              "kdo": "Martina Medlenová",
+              "do": null
+            },
+            {
+              "co": "Vyřešit nastavení tras a pokrytí v lokalitách",
+              "kdo": "Václav Jiránek",
+              "do": null
+            }
+          ],
+          "rizika": [
+            "Slabé pokrytí signálem v Novém Bydžově a Vratimově",
+            "Chybně nastavené trasy"
+          ],
+          "podarilo_se": [
+            "Spuštění nového life kvalicrosmu",
+            "Ověření funkčnosti v Novém Bydžově"
+          ],
+          "sledovat": [
+            "Pokrytí v Hosíně a Vratimově",
+            "Funkčnost tras"
           ]
         },
         {
           "nazev": "Depo Plzeň",
           "pm": "Martina Medlenová",
-          "stav_ze_schuzky": "Smlouva ještě není podepsána, má být podepsána tento týden. Probíhají testy v Hosíně, Nový Bydžov má být na testy příští týden, následně spuštění Plzeň. Vrátimov není ideální, pro Brno GEM se hledá větší depo.",
+          "stav_ze_schuzky": "Layout odsouhlasený. Připravuje se spuštění testovacího provozu v květnu. Stavební příprava - stihneme do 20. května. Demoliční práce mohou začít 16. května.",
           "klicove_body": [
-            "Podpis smlouvy tento týden",
-            "14denní lhůta na nahlášení úřadům",
-            "Testy v Hosíně a Nový Bydžov",
-            "Start Miricom plánován na 11.5",
-            "Strategie řešení Chrášťany - Vratimov problém",
-            "Slovenská část zatím nejasná"
+            "Layout budovy odsouhlasený",
+            "Testovací provoz spuštění v květnu",
+            "Stavební příprava do 20. května",
+            "Demoliční práce od 16. května",
+            "Příprava prostoru tunelu na prostupy",
+            "Rozpočet stavební přípravy k schválení"
           ],
           "akce": [
             {
-              "co": "Podepsat smlouvu",
-              "kdo": "[nejasné]",
-              "do": "2026-05-09"
-            },
-            {
-              "co": "Sjednat cenovku od Miricom a získat schválení konzole",
+              "co": "Schválit rozpočet pro stavební přípravu",
               "kdo": "Martina Medlenová",
               "do": null
             },
             {
-              "co": "Kontaktovat dodavatele týkající se doby nasazení na 11.5",
-              "kdo": "Martina Medlenová",
-              "do": "2026-05-11"
+              "co": "Dokončit stavební přípravu",
+              "kdo": "AVAPS",
+              "do": "2026-05-20"
             },
             {
-              "co": "Spojit se ohledně milníků",
+              "co": "Připravit prostor tunelu na prostupy",
               "kdo": "Martina Medlenová",
-              "do": "2026-04-30"
-            },
-            {
-              "co": "Projednat slovenskou část na VR",
-              "kdo": "[nejasné]",
               "do": null
-            }
-          ],
-          "rizika": [
-            "Smlouva není podepsána",
-            "Krátký časový limit pro nasazení (11.5)",
-            "Vrátimov není ideální lokace",
-            "Nedostatek prostoru v Brno GEM",
-            "Dopad přesunu directů z Chrášťany na Vratimov na harmonogram",
-            "Slovenská část – nejasnost v řešení a termín"
-          ],
-          "podarilo_se": [
-            "Domluveno s dopravami na strategii pro Českou republiku",
-            "Kontakt na dodavatele (pan Vrána od Honzy)"
-          ],
-          "sledovat": [
-            "Podpis smlouvy",
-            "Cenovka Miricom",
-            "Testy v Hosíně a Nový Bydžov",
-            "Start 11.5",
-            "Řešení Chrášťany-Vratimov-Brno GEM",
-            "Slovenská část"
-          ]
-        },
-        {
-          "nazev": "Systémové pokrytí třídících dep",
-          "pm": "Martina Medlenová",
-          "stav_ze_schuzky": "Vývoj storky je zpožděný. IT infrastruktura v Hosíně je zlepšená. Otázka, zda lze systémové řešení zavést bez schopnosti vyhodnocování.",
-          "klicove_body": [
-            "Vývoj storky zpožděný",
-            "IT infra v Hosíně částečně lepší",
-            "Systémové DPS se posunuje",
-            "Testování a tracking/trasování se budou probírat"
-          ],
-          "akce": [
+            },
             {
-              "co": "Projednat společně systémové řešení a jeho dopad na harmonogram",
+              "co": "Harmonogram jednotlivých prací - čekají se cenovky",
               "kdo": "Martina Medlenová",
               "do": null
             }
           ],
           "rizika": [
-            "Vývoj storky zpožděný",
-            "Nejasnost, zda lze zavést systémové třídění bez vyhodnocování",
-            "Dopad na celkový harmonogram"
+            "Rozpočet stavební přípravy - Václav Jiránek považuje za riziko",
+            "Harmonogram prací čeká na cenovky od dodavatelů"
           ],
           "podarilo_se": [
-            "IT infrastruktura v Hosíně je zlepšená"
+            "Odsouhlasení layoutu budovy",
+            "Příprava testovacího provozu"
           ],
           "sledovat": [
-            "Vývoj storky",
-            "Řešení vyhodnocování systémového třídění",
-            "Harmonogram DPS"
-          ]
-        },
-        {
-          "nazev": "Výtlak 310k SJL z AS",
-          "pm": "Lucie Brejchová",
-          "stav_ze_schuzky": "Na aplikaci zatím žádný update. Možné riziko spočívá v tom, že frontu částečně řídí Martin Kiss.",
-          "klicove_body": [
-            "Bez updateu na aplikaci",
-            "Fronta částečně řízena Martinem Kissem",
-            "Stavební příprava zahájena",
-            "Zadání od Elementu na elektro a valožení AS",
-            "Riziko s umístěním portů - zítřejší jednání s Ondrou",
-            "Problém s kapacitou personálu na směnách",
-            "Hardware 2 - testování skeneru v Chrášťanech",
-            "Příjmová stanice - ergonomické úpravy trojportu",
-            "Logování: log příjem, rozdělení, AE stanice"
-          ],
-          "akce": [
-            {
-              "co": "Probrat umístění portů na místě",
-              "kdo": "Lucie Brejchová, Ondra Kreml",
-              "do": "2026-04-30"
-            },
-            {
-              "co": "Otestovat skener v Chrášťanech (připravit adaptér pro připojení k počítači)",
-              "kdo": "Lucie Brejchová",
-              "do": "2026-04-30"
-            },
-            {
-              "co": "Probrat ergonomické úpravy trojportu a mobilní prvky s Ondrou na místě",
-              "kdo": "Lucie Brejchová, Ondra Kreml",
-              "do": "2026-04-30"
-            },
-            {
-              "co": "Řešit sloučení pod jednu jednotku s Filipem Mežibridským",
-              "kdo": "Lucie Brejchová, Filip Mežibridskij",
-              "do": null
-            },
-            {
-              "co": "Zjistit ceníky otočení výtahu směrem k nové budově s Davidem Kupcem a Mírou",
-              "kdo": "Lucie Brejchová, David Kupec",
-              "do": null
-            }
-          ],
-          "rizika": [
-            "Žádný update na aplikaci",
-            "Závislost na Martinovi Kissovi v řízení fronty",
-            "Kapacita personálu na směnách - musí být dostatečný počet lidí",
-            "Umístění portů a jejich funkčnost",
-            "Layout s DIP - v procesu potvrzování"
-          ],
-          "podarilo_se": [
-            "Stavební příprava zahájena",
-            "Eliminováno riziko s robotiku",
-            "Jedeme podle plánu"
-          ],
-          "sledovat": [
-            "Update aplikace",
-            "Stav fronty",
-            "Kapacita personálu - řešit s Davidem Kupcem",
-            "Layout s DIP - finální potvrzení",
-            "Skenery - zatím neřešeno, zítra na místě"
-          ]
-        },
-        {
-          "nazev": "Nákup manipulační techniky a drobného HW 2026",
-          "pm": "Lucie Brejchová",
-          "stav_ze_schuzky": "Hardware kontrola běží denně/týdně. Probíhá příprava nákupního seznamu. Řeší se čtečky a tiskárny pro sklady.",
-          "klicove_body": [
-            "Nákup pro Depo Plzeň - potřebuje relativně rychle",
-            "Investice do Depo Plzeň již schválena",
-            "Nákupní seznam je otevřeným bodem",
-            "Hardware kontrola probíhá denně/týdně",
-            "Čtečky a tiskárny - nejasní požadavky na sklady",
-            "Inventura čteček a tiskáren na jednotlivých skladech",
-            "Specifikace potřebných kusů (čtečky, tiskárny, spotřební díly)",
-            "Zbyt v tabulce není jasný - potřeba ověření dat ze skladů",
-            "Loňský projekt obsahoval informace, které nejsou dostupné v tomto roce"
-          ],
-          "akce": [
-            {
-              "co": "Objednat manipulační techniku do Depo Plzeň",
-              "kdo": "Lucie Brejchová",
-              "do": null
-            },
-            {
-              "co": "Zjistit přesné požadavky na čtečky a tiskárny pro jednotlivé sklady",
-              "kdo": "Lucie Brejchová",
-              "do": null
-            },
-            {
-              "co": "Připravit a potvrdit finální nákupní seznam",
-              "kdo": "Lucie Brejchová",
-              "do": null
-            },
-            {
-              "co": "Klarifikovat počty potřebných čteček, tiskáren a spotřebního materiálu se sklady",
-              "kdo": "Lucie Brejchová",
-              "do": null
-            },
-            {
-              "co": "Získat zpětnou vazbu od skladů (zejména Chrášťany a Zdibice) na množství nefunkčních zařízení a potřeby nákupu",
-              "kdo": "Lucie Brejchová",
-              "do": null
-            },
-            {
-              "co": "Dojednat kontakt na osobu řešící inventuru v jednotlivých skladech",
-              "kdo": "[nejasné]",
-              "do": null
-            }
-          ],
-          "rizika": [
-            "Nejasné požadavky na počet čteček a tiskáren pro jednotlivé sklady",
-            "Neúplná nebo nejasná data o stavu čteček a tiskáren v jednotlivých skladech",
-            "Rozdíl mezi údaji v systému a skutečným stavem na skladech",
-            "Ztráta historických dat z loňského projektu",
-            "Nejasnost v tom, co má být v tomto roce objednáno"
-          ],
-          "podarilo_se": [
-            "Investice do Depo Plzeň schválena",
-            "Identifikace potřeby inventury čteček a tiskáren"
-          ],
-          "sledovat": [
-            "Nákupní seznam - finalizace",
-            "Čtečky a tiskárny - upřesnění požadavků",
-            "Termín objednávky do Depo Plzeň",
-            "Dodání aktuálních čísel od jednotlivých skladů",
-            "Klarifikace specifikace nákupu (počty kusů)",
-            "Status komunikace s Lukášem Smetanou a jinými stakeholdery"
+            "Cenovky od dodavatelů",
+            "Harmonogram stavebních prací",
+            "Spuštění testovacího provozu"
           ]
         },
         {
           "nazev": "Navýšení kapacity příjmu 2026",
           "pm": "Lucie Brejchová",
-          "stav_ze_schuzky": "Náklady na přesun schváleny. Řeší se otočení výtahu směrem k nové budově. Diskuse o tom, zda dává smysl technický návrh.",
+          "stav_ze_schuzky": "Probíhají práce na layoutech pro příjmové stanice. Diskuse o kapacitách a počtu stanic potřebných pro posun procesu.",
           "klicove_body": [
-            "Náklady na přesun míra schválil",
-            "Diskuse o otočení výtahu k nové budově",
-            "Potřeba zjistit, zda je přesun smysluplný"
+            "Layouty pro příjmové stanice",
+            "Počet stanic – aktuálně 6, diskuse o potřebném množství",
+            "Délka trvání – 3 měsíce kvůli 5 stanicím a 5 lidem",
+            "Rozhodnutí do 20. května",
+            "Konec května jako cílový termín"
           ],
           "akce": [
             {
-              "co": "Zjistit cenu otočení výtahu s Mírou a Davidem Kupcem",
-              "kdo": "Lucie Brejchová, David Kupec",
-              "do": null
+              "co": "Přislíbeny layouty pro příjmové stanice",
+              "kdo": "[nejasné]",
+              "do": "2026-05-07"
             },
             {
-              "co": "Rozhodnout, zda přesun dává smysl",
-              "kdo": "Lucie Brejchová",
-              "do": null
-            },
-            {
-              "co": "Zahájit přesun po schválení",
-              "kdo": "Lucie Brejchová",
-              "do": null
+              "co": "Rozhodnutí ohledně nákupu hardware a řešení ergonomie",
+              "kdo": "[nejasné]",
+              "do": "2026-05-20"
             }
           ],
-          "rizika": [],
-          "podarilo_se": [
-            "Náklady na přesun schváleny"
+          "rizika": [
+            "Inventura a solidace nemohou být vypnuty na dlouho",
+            "Nejasnost ohledně pevných pracovišť vs. portů na západě",
+            "Néjaké věci se stále posouvají v plánu"
           ],
+          "podarilo_se": [],
           "sledovat": [
-            "Cena otočení výtahu",
-            "Rozhodnutí o přesunu"
+            "Dodání layoutů",
+            "IT vývoj řešení ergonomie",
+            "Rozhodnutí na hardwaru do 20. května",
+            "Realizace do konce května"
           ]
         }
       ]
