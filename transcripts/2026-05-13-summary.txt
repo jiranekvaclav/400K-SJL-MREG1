@@ -1,0 +1,56 @@
+400K SJL MREG1 - Týdenní review projektů
+13.5.2026:
+	•	Přesun zásob na Slovensko a související problémy: Tereza informovala Václava a tým o rozběhnutém projektu přesunu nadzásob (zejména z Číny a privátních značek) na Slovensko, přičemž diskutovali překážky jako náklady na převozy, rozdíly v DPH a termíny rozhodnutí, které je třeba učinit do konce června.
+	•	Zahájení projektu: Tereza uvedla, že projekt přesunu nadzásob na Slovensko byl zahájen, proběhla úvodní schůzka ve větší skupině a byly rozděleny úkoly. Aktuálně se zkoumá možnost realizace projektu a analyzují se překážky.
+	•	Identifikace překážek: Mezi hlavní překážky patří nutnost vyčíslit náklady na převozy, protože by se změnil poměr zásob mezi ČR a Slovenskem, dále rozdíly v DPH (21 % v ČR, 23 % na Slovensku) a časové posuny v odvodech DPH, což by ovlivnilo cash flow.
+	•	Alternativní řešení: Pokud by přesun na Slovensko nebyl možný, zvažuje se možnost využití nové haly u Brna, ale prioritně se řeší slovenská varianta.
+	•	Termíny a rozhodnutí: Definitivní rozhodnutí o přesunu musí padnout do konce června, protože většina objednávek na privátní značky je již zadána a je třeba včas reagovat na sezónní potřeby.
+	•	Provoz LCO 24/7 a řízení distribuce: Tereza, Tomáš a Václav diskutovali aktuální rizika v provozu LCO 24/7, zejména nárůst distribuce expedic, příčiny chyb v objednávkách a návrhy na úpravu sledovaných KPI, přičemž Miroslav doplnil informace o vícenákladech za manipulaci.
+	•	Rizika a closování: Tereza informovala o probíhajícím closování a čekání na cenové nabídky od GEMu, které by měly být k dispozici do konce týdne. Proběhla schůzka s dopravci a řeší se návrhy řešení.
+	•	Nárůst distribuce a příčiny: Dochází k nárůstu distribuce expedic z příjmu a převozů mezi sklady. Příčiny jsou identifikovány jako špatně zadané objednávky ze strany SPD a chybné zalistování od kvalitářů, což vede k nesprávnému směrování objednávek.
+	•	Sledování KPI a návrhy na změny: Diskutovalo se, zda je reálné sledovat nulovou chybovost, nebo zda nastavit jiný, dosažitelnější cíl. Zvažuje se sledování parametrů na základě nákladů na dopravu a extra transporty.
+	•	Vícenáklady a doporučení: Miroslav upozornil na vícenáklady za manipulaci ve skladech, které vznikají při přesunech zboží mezi sklady, a doporučil tyto náklady vyčíslit a evidovat.
+	•	Destrukce technologií a materiálů – smlouvy a aukce: Michal informoval Václava a tým o stavu podpisu smlouvy na destrukci technologií a materiálů, změnách v seznamu položek k prodeji a vyhození, a harmonogramu aukce, přičemž spolupracuje s Inotechem a Suplexem.
+	•	Stav smlouvy a připomínkování: Smlouva na destrukci technologií je ve fázi připomínkování, podpis je plánován do konce týdne. Inotech změnil seznam materiálu určeného k prodeji a vyhození.
+	•	Role Suplexu a harmonogram: Po podpisu smlouvy Suplex určí pracovníka, který nafotí a popíše položky pro aukci. Cílem je, aby aukce začala kolem 1. 6., ale termín závisí na rychlosti přípravy.
+	•	Cílový stav a termíny: Cílem je mít většinu materiálu pryč do 1. 8. a vyhnout se zpoždění kvůli rozsahu aukce. Michal upozornil na nutnost efektivního nafocení a popisu položek.
+	•	Nákup a instalace Autostore – harmonogram a rizika: Lucie a Martin informovali Václava o aktuálním stavu projektu Autostore, včetně harmonogramu prací, tendru na dodavatele, rizika pozdního nástupu Promanu a opatření k minimalizaci dopadů, přičemž Václav doporučil riziko dále sledovat.
+	•	Harmonogram a milníky: Harmonogram prací s Elementem byl odsouhlasen, milník z 11. 5. je splněn. Probíhá sběr cenových nabídek na stavební úpravy a čeká se na nabídky na elektro a data.
+	•	Tendr na dodavatele: Na základě informací z pondělní schůzky bude vypsán tendr, protože spolupráce s Mirico není doporučena jako jediná možnost. Ceny od Mirico budou použity jako referenční.
+	•	Riziko pozdního nástupu Promanu: Proman může nastoupit až na konci června kvůli nedostatku kapacit, což by mohlo ohrozit stavební připravenost. Lucie však uvedla, že je zde časový buffer a práce lze přeorganizovat, ale Václav doporučil riziko dále evidovat.
+	•	Schvalování cen a termíny: Všechny ceny budou schvalovány s Pavlou, včetně porovnání s loňskými a slovenskými dodavateli. Proman požaduje 5 týdnů na dodání materiálu, což ovlivňuje harmonogram.
+	•	Kapacity příjmu a layout BPO stanic: Lucie informovala Václava o finalizaci layoutu DIP a BPO stanic, potřebě navýšit počet BPO stanic a diskusi ohledně otočení výtahu, přičemž David a Vítek doporučili investovat spíše do vybavení stanic než do otočení výtahu.
+	•	Finalizace layoutu: Layout DIP je ve finále, stejně tak layout pro BPO stanice. Aktuálně je 6 BPO stanic, cílem je navýšit na 10, což vyžaduje schválení hardwaru a přípravu infrastruktury.
+	•	Otočení výtahu: Lucie získala cenovou nabídku na otočení výtahu, která je výrazně vyšší než loňská nabídka. Po konzultaci s vítkem a Davidem se přiklání k tomu, že otočení výtahu není prioritou a je lepší investovat do vybavení BPO stanic.
+	•	Další postup: Rozhodnutí o otočení výtahu bude přijato 25. 5. a Vítek připraví varianty layoutu s i bez otočení. Lucie doplní status do dashboardu a bude informovat o dalším vývoji.
+	•	Trapné palety a AD FI komunikace: Tomáš informoval Václava o stavu projektu trapných palet a AD FI komunikace, kde Filip připravuje tendr a čeká se na upřesnění odpovědných osob, přičemž Václav přepošle kontakty na nové osoby pro řešení.
+	•	Stav projektu a další kroky: Projekt je momentálně pozastaven, čeká se na vyjasnění odpovědných osob a Filip připravuje tendr. Václav přepošle kontakty na nové osoby, které mohou s řešením pomoci.
+	•	Dopravníková síť v Chrášťanech: Lukáš informoval Václava o průběhu stavby dopravníkové sítě v Chrášťanech, plánovaných odstávkách, přípravě softwarové integrace a řešení komplikovaného propojení (tzv. vánočka), které bude řešeno v další fázi projektu.
+	•	Stav stavby a odstávky: Stavba dopravníkové sítě probíhá podle plánu, nejsou hlášeny zásadní komplikace. Proběhla jedna odstávka a další jsou plánovány kvůli napojení na SPL a další části.
+	•	Softwarová integrace: Lukáš připravuje zadání pro softwarovou integraci, která bude následovat po dokončení fyzické části stavby. S Martinem je domluvena spolupráce na této části.
+	•	Komplikované propojení (vánočka): Propojení na AlzaBoxy a tzv. vánočka je komplikované a nákladné, proto se zvažují alternativní řešení. Rozhodnutí bude přijato po vyčíslení nákladů a přínosů.
+	•	Termíny a další fáze: Dokončení vánočky bude řešeno až po hlavním golive dopravníků (19. 6.), protože jde o samostatnou fázi projektu.
+	•	Robotika – předání do provozu a podpora: Martin informoval Václava o předání robotiky do provozu pod vedením Davida a Filipa, zaučení procesáků, tvorbě procesní dokumentace a nastavení podpory pro řešení incidentů.
+	•	Předání do provozu: Robotika byla předána do provozu, proběhlo zaučení provozních pracovníků a procesáků, včetně nastavení struktury řízení a aktuálního flow.
+	•	Procesní dokumentace: Martin připravil kompletní procesní dokumentaci včetně postupů pro troubleshooting, reportování a řešení tiketů, která je dostupná pro procesáky i provozní tým.
+	•	Podpora a další vývoj: Podpora je zajištěna 24/7 prostřednictvím ticketovacího systému, reakční doba je velmi krátká. Martin přebírá další vývoj produktu, Filip se přesouvá na nové projekty.
+	•	Externí obrazovky: Probíhá řešení dodání externích obrazovek pro obsluhu robotiky, Martin ověří stav u Filipa a zajistí dokončení.
+	•	Přesun RMA a reverzní logistiky do Zdib: Michael informoval tým o přípravě přesunu RMA a reverzní logistiky do Zdib, včetně řešení infrastruktury, rozvodu stlačeného vzduchu, harmonogramu přesunu a úprav layoutu, přičemž spolupracuje s Honzou Šimáčkem a dalšími kolegy.
+	•	Infrastruktura a tendr: Honza Šimáček převzal řešení infrastruktury, připravil zadání tendru a čeká se na nacenění. Miricom zůstává ve hře, ale vše půjde oficiálně přes tendr.
+	•	Rozvod stlačeného vzduchu: Rozvod stlačeného vzduchu řeší Honza Šimáček se svými kolegy, kompresor je již k dispozici, nyní se řeší roztažení rozvodů na pracoviště.
+	•	Dopravy a BOZP: DPD svozy budou řešeny v rámci nové verze Alza Trade 3.0, Michael zjišťuje detaily u Kačky Kosťové. Ve Zdibech byla vyznačena nová trasa pro BOZP, kterou schvaluje Verča Vigris.
+	•	Harmonogram přesunu: V příštím týdnu proběhne schůzka s Tomášem Houdou a dalšími, kde bude sestaven harmonogram přesunu RMA a reverzní logistiky, aby nedošlo k backlogu a poklesu kvality služeb.
+	•	Layout a kamerový systém: Layout pro reversku je připraven, čeká se na vyznačení kamerového systému, které dodá Franta Srdečný. Honza Šimáček potřebuje tyto informace pro doplnění datových zásuvek do tendru.
+	•	Využití uvolněných prostor po přesunu RMA: Václav otevřel diskusi o využití uvolněných prostor po přesunu RMA, přičemž David, Tomáš a další upozornili na nutnost koordinace s Hynkem a dalšími zainteresovanými, aby nedošlo k duplicitním rozhodnutím.
+	•	Diskuse o využití prostor: Václav navrhl setkání širší skupiny k diskusi o využití uvolněných prostor, ale David a Tomáš upozornili, že již proběhla schůzka s Hynkem a dalšími, kde byl dohodnut základní koncept. Doporučují počkat na návrat Hynka, aby byla zajištěna kontinuita rozhodování.
+Follow-up tasks:
+	•	Vyčíslení nákladů a analýza přesunu zásob na Slovensko: Vyčíslit náklady na převozy a DPH a připravit podklady pro rozhodnutí o přesunu zásob na Slovensko nebo alternativní řešení u Brna. (Tereza)
+	•	Nabídky GEM pro closování LCO 24/7: Získat a vyhodnotit cenové nabídky od GEM pro closování LCO 24/7 a informovat tým o výsledku. (Tereza)
+	•	Vyčištění systému objednávek SSPD: Zajistit, aby SSPD do 18. 5. vyčistilo systém objednávek, případně aby Honza Horáček provedl dočištění v pondělí. (Tereza)
+	•	Analýza příčin nárůstu XPD objednávek: Vytáhnout a analyzovat data o počtu objednávek SXPO a určit podíl způsobený kvalitou vs. SPD, včetně vyčíslení nákladů za manipulaci v Chrášťanech. (Tereza, Miroslav)
+	•	Zamyslet se nad cílovým číslem XPD objednávek: Zhodnotit, zda je cílové číslo XPD objednávek realistické, a případně navrhnout novou únosnou mez nebo jiný sledovaný parametr (např. náklady na dopravu). (Tereza, Tomáš)
+	•	Podepsání smlouvy s Duplexem a příprava aukce materiálu: Dokončit podpis smlouvy s Duplexem a připravit seznam materiálu pro aukci, včetně domluvy s Inotechem a Suplexem ohledně nafocení a popisu položek. (Michal)
+	•	Schválení stavební přípravy pro autostore a komunikace s Pavlou: Zajistit schválení stavební přípravy pro autostore, komunikovat ceny s Pavlou a informovat tým o výsledku v pondělí nebo nejpozději ve středu na statusu. (Lucie)
+	•	Eskalace a sledování rizika pozdního nástupu Promanu: Evidovat a sledovat riziko pozdního nástupu Promanu, včetně případného dopadu na harmonogram stavební připravenosti, a pravidelně informovat tým. (Lucie)
+	•	Vymazání hotových úkolů ze statusu autostore: Odmazat z příštího statusu autostore všechny již hotové úkoly a ponechat pouze aktuální změny od poslední schůzky. (Lucie)
+
