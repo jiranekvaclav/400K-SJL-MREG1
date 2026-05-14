@@ -1,1 +1,3182 @@
-{"meta":{"updated_at":"2026-05-14T10:14:17.931Z","pocet_projektu":13},"projekty":[{"nazev":"RMAHQCZ do LCZ","gid":"1212632482718252","stav":"on_track","posledni_update":"13. 5.","pm":"Gottwald","status_text":"Summary:\n\nV oblasti dopravního nastavení byly připraveny objemy reklamací zasílaných do servisů prostřednictvím dopravců. Na jejich základě nyní Adam Kysilka ověřuje dostupné varianty řešení a jejich cenovou náročnost. Finální rozhodnutí o nastavení doprav musí být přijato do konce měsíce, aby nebyl ohrožen další harmonogram projektu.\nV oblasti infrastruktury proběhla společná návštěva LCZ za účasti Martina Čecha a společnosti Miricom. Na základě výstupů bylo rozhodnuto upravit přístup k realizaci infrastruktury – kompletní koordinaci nyní přebírá Jan Šimáček a realizace bude probíhat formou standardního tenderu s více dodavateli. Veškeré potřebné podklady jsou již připravené pro zahájení výběrového řízení.\nSoučasně proběhla on-site konzultace zaměřená na BOZP. Pracoviště bylo vyhodnoceno jako vyhovující, identifikovány byly pouze drobné úpravy v podobě posunu některých únikových uliček, bez dopadu na výsledný layout pracoviště.\n\nNext steps:\n\nInfrastruktura (LCZ RMA)\n    zahájení standardního tenderu na infrastrukturu pod vedením Jana Šimáčka,\n    oslovení více dodavatelů a příprava vyhodnocení nabídek,\n    návazná příprava rozpočtu a schválení realizace.\nDopravy\n    dokončení analýzy variant dopravního řešení (Adam Kysilka),\n    vyhodnocení nákladů a možností:\n        zpětné adresy u balíkářů\n        DPD svozy z LCZ\n    finální rozhodnutí o nastavení doprav do konce měsíce.\nBOZP\n    zapracování drobných úprav únikových tras do layoutu,\n    finální potvrzení souladu pracoviště s požadavky BOZP.\nProvoz / HR\n    pokračující stabilní provoz AVRA bez zásadních změn,\n    dořešení jednotlivých otevřených personálních situací,\n    pokračování realizace drobných úkolů v rámci work packages.","status_date":"2026-05-13T05:56:17.102Z","tasky":{"aktivni":40,"zpozdelne":8,"hotove":18,"bez_data":9},"nazvy_tasku":{"aktivni":["Připraven návrh nových tras pro komplet zpětný tok","Infrastruktura - schválený rozpočet a zahájena realizace","Go-Live","Stabilizace a uzavření projektu","Od 1. 7. 2026 jsou 100 % RMA toků (příjem, zpracování, rozhodnutí) realizovány výhradně v LCZ (žádný fallback do CZLC4).","Od 1. 7. 2026 CZLC4 neobsahuje žádná RMA pracoviště, procesy ani zásoby určené ke zpracování reklamací.","Od 1. 7. 2026 je backlog RMA (balíky čekající na zpracování) ≤ X dnů průměrného denního příjmu (konkrétní číslo doplnit dle dohody).","Od 1. 7. 2026 je dodržováno RMA SLA (doplnit hodnotu SLA) bez systematických výpadků během provozu v LCZ."],"zpozdelne":["RL vs. XPO/XL + MSADy","Realizace sítě + LAN + silnoproud","Vyčíslení objemů práce CZ vs SK","LAN pokrytí RMAHQCZ","Elektřina  RMAHQCZ","Stlačený vzduch RMAHQCZ","Kamery RMAHQCZ LCZ","počet zaměstnanců, které budeme mít na provozech"],"hotove":["Layout RMAHQ LCZ","BDQ (must have IT úpravy)","Přesun zpracování AVRA od 7.4.","Shoda nad harmonogramem přesunu procesů","Harmonogram přesunu procesů (od 1.4 a dále)"],"bez_data":["Zajištění pracoviště LCZ","Fyzická relokace","Samosvoz / Balíkovka","Nastavení třídících lokací LOG","vyznačení kamer + Zajištění kamer "]}},{"nazev":"Depo Plzeň","gid":"1212676561526890","stav":"on_track","posledni_update":"13. 5.","pm":"Medlenova","status_text":"Depo Plzeň \n\nPřipravenost depa\n    IT & technologie\n    instalace od 6/5 do 14/5 - v procesu\n    K1 - vytvorená Pob, nákladové stredisko, učtovná kniha, user ID \n   2. Dopravy – tendr\n    Dopravci vytendrovaní, probíha zasmluvnení\n    6 tras nastaveno \n    Ridiči školení - v procesu\n  3. Layout \n    odsúhlasený, od 15/5 fyzická príprava na depe\n    prevoz stolov, čtečiek, židlí, manipulačky, vybavenia pre odpočinkovú miestnost etc. \n  4. Odpadové hospodárstvo \n    od 18/5 plast, papír, směs - domluveno, chýba dodať pouze IČP\n    od 8/6 elektro odpad - v procesu, reší dopravy\n  5. Organizačná struktura \n    od 18/5 zam z CZLC4, následne náhrada za vlastné zam od 20/5\n    počet stanovený na 4\n    provoz depa od 19:30 hod do 13 hod -2 smeny","status_date":"2026-05-13T14:34:06.355Z","tasky":{"aktivni":30,"zpozdelne":3,"hotove":23,"bez_data":0},"nazvy_tasku":{"aktivni":["Testovací provoz","Go Live","Organizačná štruktúra","Od 18.5. 2026 zahájení pilotního provozu depa (testovací třídění zásilek, ověření procesů).","Od 15. 6. 2026 je depo Plzeň v produkčním provozu a obsluhuje definovanou spádovou oblast AB.","Od 15. 6. 2026 je 100 % zásilek pro definovanou spádovou oblast AB tříděno a expedováno přes depo Plzeň.","Od 15. 6. 2026 dosahuje depo Plzeň min. 96 % EXP.","Od 15. 6. 2026 jsou v produkčním provozu minimálně 2 dopravci obsluhující stejnou spádovou oblast AB."],"zpozdelne":["Plán, nastavenie svozu","Systémové vytvorenie POB, Lokácie na Expedičný tok + Zpetný tok, XL","Organizačná štruktúra"],"hotove":["Předáni lokality","Layout a proces freeze","Připravený ramp-up spuštění depa a tras","Výber a zaistenie lokality","Ostraha "],"bez_data":[]}},{"nazev":"Vratné palety a RFID komunikace","gid":"1212626960346026","stav":"off_track","posledni_update":"13. 5.","pm":"Mežibridskij","status_text":"Summary\n\nCo se stalo:\n    ověřeny instalace datových zásavek / případně dotažení datových kabelů\nCo se bude dít:\n    nastavení a oživení datových sítí - FiMe\n    Aimtec dodání RFID bran \n    Alza instalace + připojení \n    zahájení testování \n    zahájení sledování dle ToLa datového nástroje \nRiziko: \n    fyzická instalace je zkontrolována, jelikož MaČe již není dostupný musíme si donastavení dořešit sami - nedokáži nyní definovat kdy budou sítě dostupné a nastavené, zatím nechávám s otázníkem a upřesním příští týden\nDopad:\n    posunutí Milestone:\n        Stavební příprava 04/05 → ?\n        Dodání a instalace bran 15/05 → ?","status_date":"2026-05-13T11:17:52.334Z","tasky":{"aktivni":1,"zpozdelne":1,"hotove":8,"bez_data":3},"nazvy_tasku":{"aktivni":["RFID Brány dodány a nainstalovány"],"zpozdelne":["Stavební příprava hotová"],"hotove":["Objednávka Plasgad","Palety objednány","Objednávka Aimtec RFID tagy","RFID tagy dodány","Plasgad palety dodány"],"bez_data":["Myšlenka: filtrování RFID kódů","Future ROI hint","Požadavky na sítě"]}},{"nazev":"Destrukce technologií a materiálu (PROJ26569)","gid":"1210009986504463","stav":"on_track","posledni_update":"13. 5.","pm":"Tomek","status_text":"Aukce Surplex\n        Probíhá připomínkování a podpis smlouvy.\n        Do aukce chceme zahrnout:\n            stroje - seznam připraven\n            obalový materiál - seznam připraven\n            díly od InnoTechu - seznam připraven\n                do aukce se dá materiál určený k vyhození\n        Ukončení aukce očekáváme do 31.7.2026.\n\n    Rizika\n        Přes aukci se neprodá vše\n            Návrh protiopatření - 1.7.2026 je potřeba rozhodnout, zda dává smysl pokračovat v dalších kolech aukce, nebo zbytek vyhodit.\n\nNext steps","status_date":"2026-05-13T12:07:07.345Z","tasky":{"aktivni":38,"zpozdelne":0,"hotove":15,"bez_data":0},"nazvy_tasku":{"aktivni":["Měsíční úkoly a milníky","Obalový materiál do aukce","InnoTech materiál do aukce","Stroje do aukce","Smlouva CON35731 podepsána","Aukce úspěšně ukončena","ALL - Staré, nepoužívané, demontované dopr avníky","ALL - Nepotřebný obalový materiál"],"zpozdelne":[],"hotove":["Nabídkový list","Firmy co projevily zájem ","Projektový tým","Prodejní portály","CZLC4 - Nůžková plošina Optimum žlutá"],"bez_data":[]}},{"nazev":"REV LOG mimo CZLC4","gid":"1212626960346005","stav":"on_track","posledni_update":"13. 5.","pm":"Gottwald","status_text":"Summary\n\nV oblasti doprav pokračuje analýza zpětných toků z LCZ. Stejně jako u projektu RMA byly připraveny podklady k objemům reklamací zasílaných do servisů a aktuálně probíhá ověřování variant řešení a jejich nákladovosti. Finální rozhodnutí o nastavení doprav musí být přijato do konce měsíce, aby nebyl ohrožen harmonogram projektu a podmínky go-live.\nV oblasti infrastruktury proběhl obdobný posun jako u projektu RMA. Po společné návštěvě LCZ bylo rozhodnuto, že kompletní koordinaci infrastruktury přebírá Jan Šimáček a realizace bude probíhat formou standardního tenderu s více dodavateli. Veškeré podklady pro zahájení výběrového řízení jsou připravené.\nZe strany provozu zároveň proběhla drobná úprava layoutu. Došlo pouze ke změně rozmístění jednotlivých pracovišť, bez dopadu na celkové kapacity, počty pracovišť nebo infrastrukturní požadavky.\nV oblasti IT pokračuje příprava BDQ pod vedením Tomáše Lanzendörfera. Finální zadání zatím není dokončeno, práce však pokračují dle aktuální priority projektu.\nDále proběhlo projektové review s provozem (Franta Srdečný), v rámci kterého byl potvrzen aktuální stav projektu, oblast HR a také finální umístění prostoru určeného pro předávání RMA servisům.\nPozitivní posun nastal také v oblasti kamerového systému – David Bečička aktuálně připravuje návrh rozmístění kamer, čímž dochází k částečnému mitigování jednoho z identifikovaných projektových rizik.\n\nNext steps:\n\nDopravy (DOP)\n    dokončení analýzy variant dopravního řešení a nákladů,\n    finální rozhodnutí o:\n        zpětných adresách u balíkářů\n        DPD svozech z CZTC1\n    návazná finalizace procesů a podmínek pro spuštění\nInfrastruktura\n    zahájení standardního tenderu pod vedením Jana Šimáčka\n    oslovení dodavatelů a příprava vyhodnocení nabídek\n    finalizace layoutových podkladů po provozních úpravách\n    pokračování přípravy nacenění:\n        LAN\n        silnoproud\n        kamerový systém\nRizika \n    zpoždění finalizace BDQ / IT zadání a návazné implementace,\n    neuzavřené nastavení doprav a závislost na výsledcích probíhajících analýz,\n    pokračující závislost infrastruktury na včasném dokončení tenderu a schválení rozpočtu.","status_date":"2026-05-13T06:37:49.002Z","tasky":{"aktivni":16,"zpozdelne":6,"hotove":10,"bez_data":12},"nazvy_tasku":{"aktivni":["Od 1. 7. 2026 jsou veškeré RevLog toky (LOG vratky, ASRE, SET) zpracovávány výhradně v CZTC1 a CZLC4 neobsahuje žádné RevLog procesy ani pracovní stanice RevLog.","Od 1. 7. 2026 je RevLog v CZTC1 v plném provozu bez paralelního zpracování v jiných lokalitách.","Od 1. 7. 2026 je lead time RevLog na cílové úrovni (stabilní, bez nárůstu oproti předstěhovacímu stavu).","Od 1. 7. 2026 nevzniká systematický backlog RevLog z důvodu kapacitních nebo personálních omezení.","Od 1. 7. 2026 je CZLC4 kapacitně uvolněno pro expediční provoz v souladu s plánem výkonu (380k SJL/den).","Centralizovaný RevLog provoz v CZTC1 a CZLC4 bez RevLog procesů","Provozní layout a pracoviště RevLog v CZTC1","Stabilní provoz RevLog po přesunu"],"zpozdelne":["Otestovat, jak se v CZTC1 chová naskladnění + distribuce","Prostor pro předávání RMA servisům","Nastavení distribuce z příjmu (REVLOG v CZTC1)","LAN pokrytí RLOG LCZ","Elektřina RLOG LCZ","ADMIN 1NP"],"hotove":["Hlavní systémová pobočka (LCZ vs CZTC1)","Definice a popsání jednotlivých procesů RLOG + RMA","Definice a popsání jednotlivých procesů RLOG RMA","Harmonogram přesunu procesů (od 1.4 a dále)","Dokončení layoutu pro realizační fázi"],"bez_data":["Příprava harmonogramu přesunu","Zaučení adminů","Zajištění pracoviště LCZ","Fyzická relokace","Příprava IT zadání (celek + úpravy jednotlivých procesů)"]}},{"nazev":"Dopravníková síť v CZLC4","gid":"1212626960345994","stav":"on_track","posledni_update":"13. 5.","pm":"Mežibridskij","status_text":"Summary\n\nCo se stalo:\n    Stavební příprava Avaps \n    vyklizení regálů za zdí 4F<>1F\n    stavba dopravníku v F4 3NP\n    definování varianty na zapojení \"vánočky\" - tzn. propojení Jižní TC s AB sorterem (potvrdíme cca za týden)\n\nCo se bude dít:\n    pokračování stavby dopravníku F1 3NP a napojení na BPO loop\n    nastavení TMS - zařazení do fronty RUR, check příští týden (syncneme se na přípravu trasování TMS -> FiMe:LuKr:Jokü:MiSa\n    zpracováváme (FiMe+LuKr) ještě alternativní variantu namísto \"vánočky\" - cílíme na dokončení příští týden\n\nRizika:\n    kapacity Innotech, s otevíráním nových TC využijeme kapacitu skoro až do konce sezóny  - ostatní práce budeme muset zařazovat dle možných kapacit v daném čase (bangladéš, bypass z SO08)\n\nNext steps","status_date":"2026-05-13T11:26:33.477Z","tasky":{"aktivni":5,"zpozdelne":1,"hotove":13,"bez_data":7},"nazvy_tasku":{"aktivni":["Stavba 3NP F1","Stavba 2NP","Stavba 1NP","CZLC4 TMS - Nové dopravníky do TMS","Palačinka"],"zpozdelne":["Stavba 3NP F4"],"hotove":["Zpracování dat","Datové zpracování - dopravníková síť","Aktuální layout","PBŘ - evakuační prostor v 3NP","rozměr průchodu zdí"],"bez_data":["Největší chybovost čtečky na dopravníkové síti <5%","CZLC4 TMS - Dynamické trasování s TMS","Nová křižovatka na plošině musí být zavedena do TMS","Požadavky na Facility (dopravníky CZLC4)","Požadavky na sítě"]}},{"nazev":"Oživení a zapojení JZ TC nebo conveyorů","gid":"1212626960345983","stav":"on_hold","posledni_update":"29. 4.","pm":"Mežibridskij","status_text":"Summary Monthly\n\n    krátký update, včera předány požadavky na stavební úpravy\n\nNext steps","status_date":"2026-04-29T10:30:56.482Z","tasky":{"aktivni":16,"zpozdelne":0,"hotove":0,"bez_data":2},"nazvy_tasku":{"aktivni":["Kvalita vytahování BINů vůči limitu balení = 97%","Počet / % AB v předpicku = 80%","Hodinová kapacita vytahování BINů na všech TC (1x server + 2x jih) = 1400","Oživení nových JV TC ","Oživení nových 2x 2D vytahováků","Napojení přítahů prázdných KLT","Zaškolení provozu","Dodání materiálu"],"zpozdelne":[],"hotove":[],"bez_data":["Požadavky na Facility (transfer cell CZLC4)","Příprava Innotech TC (čtečky + PLC)"]}},{"nazev":"Nákup manipulační techniky a drobného HW 2026","gid":"1212626960345970","stav":"on_track","posledni_update":"15. 4.","pm":"Brejchová","status_text":"Summary\n\nManipulační technika\n    sesbírány požadavky za všechny sklady\n    požadavek na odkup odstavené techniky z CZLC4\n    připravené dokumenty pro vykopnutí tendru\n    PROJ26491 - Nákup manipulační techniky 2026 = řešíme schválení \n\nDrobný HW\n    individuální požadavky prozatím sesbírány\n    centrální nákupy = probíhá analýza potřeby na sezonu (KLT bedny + HW)\n        aktuálně vyhodnoceno, že není potřeba kupovat bedny, přesnější update 05/2026\n        čtečky řešíme přednostně = konec prodeje WT6300, v dubnu si řekneme kolik případně potřebujeme kupovat \n\nNext steps\n\n    Pokračování diskuze s procurementem\n    Potvrzení termínů dodání MT dle požadavků skladů\n    Vyhodnocení potřeby centrálního nákupu čteček, KLT beden a dalšího HW","status_date":"2026-04-15T11:46:44.265Z","tasky":{"aktivni":15,"zpozdelne":9,"hotove":12,"bez_data":0},"nazvy_tasku":{"aktivni":["Přehled manipulační techniky po LC","PROJ26491 - Nákup manipulační techniky 2026","Čtečky - hledání levnějších alternativ","LCU, Elektrický nízkozdvižný vozík , 2, Miroslav Opát","Analýza potřeby nákupu KLT beden na sezónu 2026","Prodloužení SOTI licencí na rok 2026 - PROJ26526","CZLC4 má potřebný HW pro 2026","CZLC4 odprodej poškozené MT "],"zpozdelne":["CZTC1, Ruční paletový vozík, 2, František Srdečný","Definovat 2 termíny v roce pro nákup MT","Depo, Ruční paletový vozík, 20, Martina Medlenova","Výpočet potřeby čteček a tiskáren na sezónu 2026 ","Požadavky HW za LCZ","Požadavky HW za LCU","Požadavky HW za CZTC1","Požadavky HW za SKLC3","Požadavky HW za Depa"],"hotove":["Seznam MT pro nákup - 1.termín","Projektový tým","Revize metodiky výpočtu potřebných tiskáren","Požadavky MT za CZLC4 - 1.termín","Požadavky HW za CZLC4"],"bez_data":[]}},{"nazev":"Systémové pokrytí třídících dep","gid":"1211302143324440","stav":"at_risk","posledni_update":"13. 5.","pm":"Medlenova","status_text":"Next steps\n\n Hosín / ČB – 2. systémové depo\n    Live test proběhl 29.–30. 4., cca 5 tras.\n    Potvrzena procesní i technická připravenost.\n    Depo připraveno pro ostrý provoz (start po vyhodnocení testu). Stanoveno 14/5.\n    Trasy pre start nastaveny. \n\nNový Bydžov - 3. systémové depo\n    Live test proběhl 5.5-6.5, cca 5 tras.\n    Depo připraveno pro ostrý provoz (start po vyhodnocení testu). Stanoveno na 22/5 - risk kvoli nedoplnenej IT infra\n\nRiziko (klíčové) - niekoľko urgencí, nemáme stále definitívne stanovisko od doprav \n    SK depa = největší aktuální riziko projektu.\n    Nejasné priority, kapacita a readiness pro systémový režim.\n    Proběhl společný meeting LOG + dopravy (1. 4.).\nVýstup / rozhodnutí:\n    Buď jasný roadmap pro SK depa,\n    nebo nutnost vyjmout část SK dep ze systémového konceptu, aby neohrozily další rollout.","status_date":"2026-05-13T14:38:19.579Z","tasky":{"aktivni":37,"zpozdelne":2,"hotove":37,"bez_data":0},"nazvy_tasku":{"aktivni":["Rozšírený trackovací systém ","Integrace s BXB a AT2.0 Re-delivery, Reklamace, Returns","Měření a reporting kvality dep","Proškolení klíčových uživatelů a provozu","Všechny depa jsou pokrytá systémově všemi svozy","2. Depo je pokryté systémově všemi svozy"," 3.Depo je pokryté systémově všemi svozy ","4. Depo je pokryté systémově všemi svozy"],"zpozdelne":["Výber trasy/tras na live test 5.Depo  Vratimov/Drivecool","Vytvorit finalnu databazu stlpcov v balikojoboch"],"hotove":["PoC - první systémový svoz na depo","1. Depo je pokryté systémově všemi svozy","Project Charter","Technické vybavenie Depa","KPI - co chceme sledovat během projektu"],"bez_data":[]}},{"nazev":"Provoz LCU 24/7 (PROJ26328)","gid":"1212626960345937","stav":"on_track","posledni_update":"13. 5.","pm":"Šrámková","status_text":"Summary\n\nCo se událo od poslední schůzky?\n    schůzka s dopravami - čekáme na nabídky od GEMu (do 15.5.)\n\nCo vás čeká za práci do další schůzky?\n    nárůst distribuce XPO z příjmu v CZLC4 - SPD má termín na vyčištění do 18.5., nutno nastavit další postup \n\nOtevřené body\n    dokupy - tiskárny, pickovací klece, apod. \n    přesun světel v LCU - v řešení\n\nRizika?\n    od 1/2 roku nemůže být crossováno s aktuálním nastavením z důvodu kapacit CZLC4 (pokud nestihneme navýšit kapa GEMu, musíme vytvořit provizorní řešení)","status_date":"2026-05-13T10:48:23.695Z","tasky":{"aktivni":21,"zpozdelne":0,"hotove":52,"bez_data":7},"nazvy_tasku":{"aktivni":["LYO pro CZLC4","Řízení heavy palet","Jaká je kapacita LCU a CZLC4? Doplnit Layout","Přesunout PET + BAZAR z CZLC4 do LCU","Od 1. 9. 2026 funguje LCU v režimu 24/7 jako centrální sklad pro XPO.","Od 1. 9. 2026 jsou XPO zásilky z LCU doručovány v DPO režimu do AB, bez časových omezení způsobených provozní dobou skladu.","Od 23.3. 2026 je 100 % XPO expedice realizováno z LCU (bez paralelního odbavování z jiných lokalit)","Od 1. 9. 2026 je peakový výkon skladu dosažitelný i v sezónním zatížení bez vzniku backlogu v příjmu nebo expedici."],"zpozdelne":[],"hotove":["KPI - co chceme sledovat během projektu","Harmonogram projektu","Rozhodnutí co vše se bude stěhovat z LCU do LCZ - XPO aukro nebo i bazar? ","Rozhodnutí kdo bude zajišťovat proces Aukro v LCZ","Určení prostor pro toto zboží v LCZ (viz výše - bazar/ rozbaleno/ AUKRO.../"],"bez_data":["XL - příprava na full objemy XPO","Přesun XPO Aukro do Zdib + příprava ploch ve Zdibech","Přesun XPO bazaru do Zdib + příprava ploch ve Zdibech","Dokupy","Forecast výkonů na AlzaTrade"]}},{"nazev":"Navýšení kapacity příjmu 2026","gid":"1212626960345897","stav":"on_track","posledni_update":"13. 5.","pm":"Brejchová","status_text":"Summary\n\nProvoz\n    připravujeme layout BPO stanic v novém prostoru, poté zahájíme přesun \n    možnost otočení výtahu směrem k ploše BPO stanic (otočení o 180 stupňů) a související úprava layoutu pro BPO plochy - vyčísleno na 395k (o 30% víc než loňská nabídka)\n    napočítáno množství BPO stanic = celkem potřebujeme 10 BPO stanic (navýšení o další 4 stanice + vybavení HW)\n    zábalovka se nebude přesouvat k AS, zůstane v prostoru BPO příjmu \n\nHardware\n    změna na stávajících portech prozatím neschválena, není to finální standardizované řešení pro všechny stanice - řešíme finální podobu příjmové stanice \n    HW pro rozdělené pracoviště na trojportech je prozatím v řešení (mobilní stolek nebo pevné pracoviště) - probíhá analýza na základě dat, zda budeme využívat rozdělené pracoviště i po zprovoznění 11 nových příjmových single portů\n\nIT vývoj\n    \n    \n    \n\nNext steps\n    Dokončení a schválení layoutu LCZ\n    Nákupní seznam pro HW a schválení nákupu \n    Přesuny ploch podle layoutů","status_date":"2026-05-13T12:39:46.723Z","tasky":{"aktivni":31,"zpozdelne":6,"hotove":13,"bez_data":1},"nazvy_tasku":{"aktivni":["Prověřit otočení výtahu u BPO stanice ","Nevejdeme se do LCZ a LCU ","Do 01.06.2026 je řešení je připraveno k procesnímu testování","Do 15.06.2026 je řešení otestováno a změřeno ","Od 1.8.2026 je denní kapacita příjmu CZLC4 na hodnotě 1300 palet","Od 1.8.2026 je denní kapacita příjmu LCU na hodnotě 700 palet + 600 palet/den virtuální kapacity ","Od 1.8.2026 je denní kapacita příjmu LCZ na hodnotě 400 palet  ","Nasazené IT úpravy aplikací pro řízení příjmu "],"zpozdelne":["Do 22.04.2026 jsou vytvořeny kompletní layouty příjmu ","Schválené cílové layouty příjmu všech LC ","Layouty příjmu CZLC4, LCU a LCZ jsou hotové a schválené","LCZ layout je hotový a schválený","Layout BPO stanic po přesunu","Nákupní seznam HW pro nová pracoviště + porty"],"hotove":["CZLC4 layout je hotový a schválený","LCU layout je hotový a schválený","Velikost bufferu po vykládce a naskladnění","Počet gate pro příjem","Data - výkonnost baseline x cíl"],"bez_data":["LCU procesy"]}},{"nazev":"Výtlak 310k SJL z AS (PROJ26401)","gid":"1210225811427975","stav":"on_track","posledni_update":"13. 5.","pm":"Brejchová","status_text":"Summary\n\n    Intro:\n         V tomto projektu si klademe za cíl dosáhnout vyššího výkonu AS, viz s tím související níže uvedená KPI.\n        Projekt je rozdělen do šesti částí, tzv. Martinův Hexagon.\n\n    KPI:\n        Peak hodinový výtlak 14500 SJL\n        BIN wait time 4,5s\n        Operator handling time 6s\n        \n        \n\n    Rozpočet do PROJ26401:\n\n    Hexagon:\n        Aplikace\n            Úpravy UI a logiky app.\n            Je připravené zadání.\n            Zrušení vážení\n            Celkem nasazeny 3 ze 4 úprav.\n            Žádný update, další změnu očekáváme v průběhu června\n            Možné riziko = kapacita Pavla Růžičky\n\n        Facility\n            Vlastník tématu za FAC je Vašek Burger.\n            Řešené oblasti:\n                Manuál na výměnu baterií - jde o výměnu baterií za levnější a efektivnější = Připraveno.\n                Výpadky AS\n                    Zhotoven seznam nejčastějších závad\n                        Máme k dispozici report\n                    Binresq robot\n                        Proběhla referenční návštěva v Německu 21.4.\n                        ROI - hotová → BINResQ robot na zapůjčení \n                Packet loss \n                Notifikace pro klíčové uživatele při výpadcích \n                    aktuálně přes WhatsApp\n                    řeší se notifikace přímo přes Unify\n                Čištění predikovaných issue v rámci Unify \n            Aktuálně nevidíme žádné riziko u Facility\n\n        SW\n            Řešíme opravu dvou port to port chyb\n            Update SW AS na nejnovější verzi.\n                Jedeme bez BUGů.\n                    Port to port nasazeno v celém tunelu.\n            Úprava vnořených svozů - řešeno v Konzoli. - LOG33081\n                Čekáme na kapacity. Možné riziko \n            Optimalizace cest robotů přes AI společně s AutoStore \n            Úprava batchování předpicku - nasazeno \n            Schůzka s AutoStore ohledně API, domluveny další kroky na automatické stahování dat \n\n        Provoz\n            Navržen optimální layout pickování v tunelu.\n                In progress interaktivní mapy a modul Porty v Konzoli, což navazuje na tuto úpravu.\n            S vedoucími řešíme lepší využitelnost portů na příjmu - eliminace idle time \n                Vytvořen reportovací nástroj pro sledování idle timu pro SUP/vedoucí, máme report \n            Nasadili jsme možnost sledovat vedoucím počet picků za hodinu.\n                Máme zpětnou vazbu, je to OK. Proběhly finální úpravy\n            Možné riziko mimo tento projekt = dostatečný počet lidí na směnách \n\n        HW\n            Domlouváme s Lukášem Tomsou kontrolu a vybavení pracovišť.\n                Na bázi jednotlivých dnů kontrola probíhá.\n                Na bázi týdenní kontroly se připravuje kontrola údržbou, dohlíží na to Lukáš Tomsa, máme report, údržba pracuje na odstranění zjištěných nedostatků \n                \n            Máme schválen nákup HW - PROJ26401.\n                Komponenty pro porty v tunelu objednány\n            S Vladimírem Kučerou opravujeme nefunkční HW.\n            V rámci vybavení pracovišť jsme domluvili s provozem 5S. \n                zprovozníme po instalaci HW, cca za 2 měsíce.\n                    Připravit podklady pro používání pracovišť.\n                    Jak se kontroluje HW vybavení pracovišť.\n                    Jak se eskaluje problém.\n                    Kdo a jak řeší problém.\n                    Kdo kontroluje dodržování všech bodů.\n            Aktuálně nevidíme žádné riziko u HW\n\n        Nákup a instalace \n            Dokup portů\n                11 solo conveyor, které budou na západní straně\n                5 double portů do tunelu\n            Dokup robotů\n                80 robotů\n            Stavební připravenost\n                Proběhly koordinační schůzky na místě se všemi profesemi\n                Zadání Elektro + IT od Elementu máme - zkontrolováno s AlWa a MaČe\n                Odsouhlasený harmonogram prací s Elementem\n                Máme CN na vytvoření prostupů, úpravy SHZ a EPS, čekáme na elektro a na IT (nabídka Miricom + tendr)\n\nNext steps","status_date":"2026-05-13T06:28:38.491Z","tasky":{"aktivni":37,"zpozdelne":4,"hotove":49,"bez_data":0},"nazvy_tasku":{"aktivni":["Rozpočet","Měsíční úkoly a milníky","FAC příprava na sezónu 26 je dokončena","Výpadky AS jsou optimalizované a minimalizované","Václav školení AS maintanance - juan pablo","AutoStore ResQ Robot reference","MNT CZ - automatický report stavu baterií AS robotů","Predicted Issues checklist / čištění"],"zpozdelne":["CZLC4 AS APP - Pick 1ks znamená potvrzení picku u n = 1 až n - 1 picků","CZLC4 AS APP- Bezvýpadkový instalátor APP na AS","CZLC4 AS APP - Odebrat nutnost finálního potvrzení počtu kusů u single předpicku","CZLC4 AS - Řízení a Ovládání AS"],"hotove":["PickPack","StressTest domluvit zástup","Check příjmu pro filipa","Harmonogram projektu","AutoCase usecase"],"bez_data":[]}},{"nazev":"Robopick CZLC4 2025","gid":"1208836145447146","stav":"on_track","posledni_update":"13. 5.","pm":"Mežibridskij","status_text":"Co se stalo:\n    pondělí 11.5 zaškolení procesu (Kuba Láznička + Michal Sazshin) \n    úterý 12.5 zaškolení provozu (Valentýna)\n    sync a předání informací o zahájení go-live (Provoz + FAC + trenér)\n    13.5 zahájení provozního go-live (Robopick provozován operativou)\nCo se bude dít:\n    MaKi převzetí projektu pod sebe\n    Práce na seznamu optimalizačních úprav\n        Zrychlení robota\n        Dekantace zboží v BINu\n    Postupné předávání robota směrem k provozu\n        příští 2-3 týdny necháme provozovat roboty pouze přes den, než se s nimi pořádně naučíme pracovat a proškolíme ostatní směny → poté začneme na společné dohodě projekt/proces + provoz spouštět i na odpolední a noční\n    Stabilizace robota\n        Sereact bude příští 2-3 týdny v rámci \"hyper-care\" stále on-site a pracovat na doladění stanic a update SW","status_date":"2026-05-13T11:40:24.684Z","tasky":{"aktivni":2,"zpozdelne":3,"hotove":47,"bez_data":5},"nazvy_tasku":{"aktivni":["Připravit procesní dokumentaci","Předání Robopicku na údržbu"],"zpozdelne":["Dořešit externí obrazovky","Finální akceptace a předání (Go-live)","Vývoj K1"],"hotove":["připravit ROI pro robo-pick","připravit návrh smluv od všech dodavatelů","IT - definovat s dodavateli identifikovat \"pickable\" produkty","IT - umíme posílat data z cubiscanu?","Zjistit informace od Nomagicu ohledně jejich vlastního picking portu"],"bez_data":["Feedback: Go-live","Robopick - Vývoj pro Robopick","Meeting ohledně reportů","Meeting ohledně KPI ","Plánování SW aktualizací"]}}],"milniky":[{"projekt":"Depo Plzeň","milnik":"Začiatok inštalácií sietí/WiFi podľa dostupnosti objektu.","pm":"Medlenová Martina","deadline":"6. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Finalizácia layoutov procesov","pm":"Medlenová Martina","deadline":"13. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Finalizácia technických podmienok (nájazdy, sociály, úpravy priestorov).","pm":"Medlenová Martina","deadline":"15. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Spustenie tender procesu","pm":"Medlenová Martina","deadline":"15. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Schválenie budovy + podpis zmluvy","pm":"Medlenová Martina","deadline":"5. 5. 2026","originalTermin":"15. 3. 2026","posun1":"26. 3. 2026","posun2":"17. 4. 2026","posun3":"30. 4. 2026","posun4":"5. 5. 2026","shifted":true,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Personálne obsadenie (WFP + role)","pm":"Medlenová Martina","deadline":"31. 5. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"31. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Depo Plzeň","milnik":"Připravený layout depa (hotovo)","pm":"Medlenová Martina","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Nastavené provozní procesy a dokumentace","pm":"Medlenová Martina","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Připravený komplet model dopravců včetně zasmluvnění","pm":"Medlenová Martina","deadline":"18. 5. 2026","originalTermin":"30. 4. 2026","posun1":"18. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Depo Plzeň","milnik":"Fyzická příprava layoutu na depě","pm":"Medlenová Martina","deadline":"13.5.-31.5.2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Depo Plzeň","milnik":"Dopravy - reporting doprav spuštěn","pm":"Medlenová Martina","deadline":"15. 5. 2026","originalTermin":"30. 4. 2026","posun1":"15. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Depo Plzeň","milnik":"Instalace IT a technologie hotová","pm":"Medlenová Martina","deadline":"14. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Depo Plzeň","milnik":"Odpadové hospodářství - směs, papír, plast","pm":"Medlenová Martina","deadline":"15. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Depo Plzeň","milnik":"K1 - reporting nasazen","pm":"Medlenová Martina","deadline":"31. 5. 2026","originalTermin":"30. 4. 2026","posun1":"31. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Depo Plzeň","milnik":"Připravený ramp‑up spuštění depa a tras","pm":"Medlenová Martina","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Depo Plzeň","milnik":"Zaměstnanci z CZLC4 ready","pm":"Medlenová Martina","deadline":"18. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Depo Plzeň","milnik":"PILOT","pm":"Medlenová Martina","deadline":"18. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Depo Plzeň","milnik":"GO-LIVE","pm":"Medlenová Martina","deadline":"15. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Destrukce technologií a materiálu","milnik":"Rozhodnutí, co dál","pm":"Tomek Michal","deadline":"31. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Destrukce technologií a materiálu (PROJ26569)","milnik":"Nabídkové listy, aukce a administrace","pm":"Tomek Michal","deadline":"01.05.-31.05.2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Destrukce technologií a materiálu (PROJ26569)","milnik":"Podepsat smlouvu se Surplex","pm":"Tomek Michal","deadline":"15. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Destrukce technologií a materiálu (PROJ26569)","milnik":"Zahájení aukce","pm":"Tomek Michal","deadline":"1. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Destrukce technologií a materiálu (PROJ26569)","milnik":"Kompletní vyčištění skladů od materiálu apod.","pm":"Tomek Michal","deadline":"1. 8. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Destrukce technologií a materiálu (PROJ26569)","milnik":"GO-LIVE","pm":"Tomek Michal","deadline":"1. 9. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Dopravníková síť v CZLC4","milnik":"Potvrdit potřeby v rámci Bangladéše","pm":"Mežibridskij Filip","deadline":"22. 5. 2026","originalTermin":"14. 4. 2026","posun1":"24. 4. 2026","posun2":"22. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Dopravníková síť v CZLC4","milnik":"Zahájení stavby Innotech","pm":"Mežibridskij Filip","deadline":"27. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Dopravníková síť v CZLC4","milnik":"GO-LIVE","pm":"Mežibridskij Filip","deadline":"19. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Nákup manipulační techniky a drobného HW 2026","milnik":"Finalizace požadavků MT","pm":"Malák Miroslav","deadline":"20. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Nákup manipulační techniky a drobného HW 2026","milnik":"Potvrzení termínu dodání MT dle požadavků skladů","pm":"Malák Miroslav","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Nákup manipulační techniky a drobného HW 2026","milnik":"RMA dodat potřeby na MT","pm":"Malák Miroslav","deadline":"9. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Nákup manipulační techniky a drobného HW 2026","milnik":"Schválení investičního záměru","pm":"Malák Miroslav","deadline":"30. 4. 2026","originalTermin":"10. 4. 2026","posun1":"17. 4. 2026","posun2":"30. 4. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Nákup manipulační techniky a drobného HW 2026","milnik":"LCU - dodání požadované MT","pm":"Malák Miroslav","deadline":"30. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Nákup manipulační techniky a drobného HW 2026","milnik":"GO-LIVE","pm":"Malák Miroslav","deadline":"15. 9. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Výpočet ROI","pm":"Brejchová Lucie","deadline":"9. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Dokončení zadání pro IT ohledně úpravy aplikace pro příjem","pm":"Brejchová Lucie","deadline":"10. 4. 2026","originalTermin":"16. 3. 2026","posun1":"23. 3. 2026","posun2":"10. 4. 2026","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Dokončení layoutu přijmu CZLC4","pm":"Brejchová Lucie","deadline":"10. 4. 2026","originalTermin":"16. 3. 2026","posun1":"10. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Dokončení a schválení layoutu LCZ","pm":"Brejchová Lucie","deadline":"13. 5. 2026","originalTermin":"15. 4. 2026","posun1":"22. 4. 2026","posun2":"30. 4. 2026","posun3":"13. 5. 2026","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Vyčíslení nákladů na úpravu ploch podle schválených layoutů","pm":"Brejchová Lucie","deadline":"24. 4. 2026","originalTermin":"10. 4. 2026","posun1":"24. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Dokončení layoutu pro BPO stanice a dodání cílového počtu stanic + HW","pm":"Brejchová Lucie","deadline":"13. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Příprava infrastruktury a přesun BPO stanic","pm":"Brejchová Lucie","deadline":"31. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Rozhodnutí o potřebě pevného pracoviště u trojportů + případný HW","pm":"Brejchová Lucie","deadline":"20. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Rozhodnutí o řešení ergonomie na příjmových portech","pm":"Brejchová Lucie","deadline":"20. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Vyhodnocení testování RS scanneru","pm":"Brejchová Lucie","deadline":"10. 5. 2026","originalTermin":"30. 4. 2026","posun1":"10. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Nasazení IT úprav","pm":"Brejchová Lucie","deadline":"31. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Rozhodnutí posunu výtahu","pm":"Brejchová Lucie","deadline":"20. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"Vytvoření nákupního seznamu pro nový HW","pm":"Brejchová Lucie","deadline":"10. 5. 2026","originalTermin":"30. 4. 2026","posun1":"10. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Navýšení kapacity příjmu 2026","milnik":"GO-LIVE (příjem ready ve všech LC)","pm":"Brejchová Lucie","deadline":"31. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Stavební příprava hotovo (elektro, data…)","pm":"Mežibridskij Filip","deadline":"29. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Nákup materiálu HW (dopravníky, rollery…)","pm":"Mežibridskij Filip","deadline":"29. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Předmontáž HW hotovo","pm":"Mežibridskij Filip","deadline":"12. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Stavba TC (HW) hotovo","pm":"Mežibridskij Filip","deadline":"17. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Stavba přítah beden hotovo","pm":"Mežibridskij Filip","deadline":"24. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Stavba přítah beden hotovo","pm":"Mežibridskij Filip","deadline":"24. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Oživení TC + přítah beden + 2D stroje","pm":"Mežibridskij Filip","deadline":"28. 8. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"Testování dokončeno","pm":"Mežibridskij Filip","deadline":"25. 9. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Oživení a zapojení JZ TC nebo conveyorů","milnik":"GO-LIVE","pm":"Mežibridskij Filip","deadline":"28. 9. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Začátek přesunu AUKRA do LCZ","pm":"Šrámková Tereza","deadline":"4. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Poslední příjem XPO v CZLC4","pm":"Šrámková Tereza","deadline":"7. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"První příjem XPO v LCU","pm":"Šrámková Tereza","deadline":"9. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Kolaudace","pm":"Šrámková Tereza","deadline":"16. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Probíhá expedice XPO výhradně z CZLC4, cross z LCU do - není dořešeno DPO","pm":"Šrámková Tereza","deadline":"22. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Probíhá expedice XPO z CZLC3 i LCU = LCU 24/7, zároveň probíhá výprodej skladu XPO v CZLC4","pm":"Šrámková Tereza","deadline":"23. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"GO-LIVE","pm":"Šrámková Tereza","deadline":"23. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Expedice XPO již jen z LCU (tzn. přesun zbývající zásoby XPO z CZLC4)","pm":"Šrámková Tereza","deadline":"13. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Provoz LCU 24/7 (PROJ26328)","milnik":"Přesunuty PET + bazar z CZLC4 do LCU","pm":"Šrámková Tereza","deadline":"31. 5. 2026","originalTermin":"30. 4. 2026","posun1":"31. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"REV LOG mimo CZLC4","milnik":"Harmonogramu přesunu procesů RLOG","pm":"Gottwald Michael","deadline":"25. 3. 2026","originalTermin":"13. 3. 2026","posun1":"25. 3. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"REV LOG mimo CZLC4","milnik":"Layout RLOG CZTC1","pm":"Gottwald Michael","deadline":"31. 3. 2026","originalTermin":"20. 3. 2026","posun1":"31. 3. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"REV LOG mimo CZLC4","milnik":"Finální infrastruktura - schválení rozpočtu","pm":"Gottwald Michael","deadline":"31. 5. 2026","originalTermin":"25. 3. 2026","posun1":"30. 4. 2026","posun2":"31. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"REV LOG mimo CZLC4","milnik":"BDQ (must have IT úpravy)","pm":"Gottwald Michael","deadline":"31. 5. 2026","originalTermin":"31. 3. 2026","posun1":"17. 4. 2026","posun2":"30. 4. 2026","posun3":"31. 5. 2026","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"REV LOG mimo CZLC4","milnik":"Připraven návrh nastavení nových tras zpětného toku (redelivery zůstává v CZLC4)","pm":"Gottwald Michael","deadline":"31. 5. 2026","originalTermin":"31. 3. 2026","posun1":"22. 4. 2026","posun2":"24. 4. 2026","posun3":"31. 5. 2026","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"REV LOG mimo CZLC4","milnik":"Příprava harmonogramu přesunu","pm":"Gottwald Michael","deadline":"1.5.-31.5.2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"REV LOG mimo CZLC4","milnik":"Zaučení adminů","pm":"Gottwald Michael","deadline":"1.5.-31.5.2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"REV LOG mimo CZLC4","milnik":"Dokončení DWG dokumentace pro REVLOG layout","pm":"Gottwald Michael","deadline":"13. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"REV LOG mimo CZLC4","milnik":"GO-LIVE","pm":"Gottwald Michael","deadline":"1. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"RMAHQCZ do LCZ","milnik":"Dokončení harmonogramu přesunu","pm":"Gottwald Michael","deadline":"13. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"RMAHQCZ do LCZ","milnik":"Příprava layoutu RMAHQ LCZ","pm":"Gottwald Michael","deadline":"20. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"RMAHQCZ do LCZ","milnik":"Finální infrastruktura - schválení rozpočtu a známý DOD","pm":"Gottwald Michael","deadline":"31. 5. 2026","originalTermin":"25. 3. 2026","posun1":"30. 4. 2026","posun2":"31. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"RMAHQCZ do LCZ","milnik":"Spuštění zpracování AVRA v LCZ (ukončení crossování do CZLC4 pro tuto část)","pm":"Gottwald Michael","deadline":"8. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"RMAHQCZ do LCZ","milnik":"Dokončení DWG dokumentace pro RMA layout","pm":"Gottwald Michael","deadline":"13. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"RMAHQCZ do LCZ","milnik":"Připraven návrh nastavení nových tras zpětného toku (redelivery zůstává v CZLC4)","pm":"Gottwald Michael","deadline":"31. 5. 2026","originalTermin":"31. 3. 2026","posun1":"22. 4. 2026","posun2":"24. 4. 2026","posun3":"31. 5. 2026","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"RMAHQCZ do LCZ","milnik":"Finál FTE, kdo se přesune do LCZ","pm":"Gottwald Michael","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"RMAHQCZ do LCZ","milnik":"Příprava harmonogramu přesunu","pm":"Gottwald Michael","deadline":"1.5.-31.5.2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"RMAHQCZ do LCZ","milnik":"Vybavování pracovišť","pm":"Gottwald Michael","deadline":"1.5.-30.5.2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"RMAHQCZ do LCZ","milnik":"GO-LIVE","pm":"Gottwald Michael","deadline":"1. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"RMAHQCZ do LCZ","milnik":"Stabilizace a uzavření projektu","pm":"Gottwald Michael","deadline":"31. 7. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Robopick CZLC4 2025","milnik":"Potvrzení potřebného objemu do SKLC3","pm":"Mežibridskij Filip","deadline":"6. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Robopick CZLC4 2025","milnik":"Výkon jednoho robota 280 ks/hod (220 SJL/hod).","pm":"Mežibridskij Filip","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Robopick CZLC4 2025","milnik":"Kvalita dokončení picku robotem 99%.","pm":"Mežibridskij Filip","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Robopick CZLC4 2025","milnik":"Availabilita 99%","pm":"Mežibridskij Filip","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Robopick CZLC4 2025","milnik":"Výkon 100% (231 SJL/hod)","pm":"Mežibridskij Filip","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Robopick CZLC4 2025","milnik":"80% všech SKU skladovatelných v AS je robotpickable","pm":"Mežibridskij Filip","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Robopick CZLC4 2025","milnik":"GO-LIVE","pm":"Mežibridskij Filip","deadline":"tbd","originalTermin":"31. 3. 2026","posun1":"4. 5. 2026","posun2":"tbd","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Robopick CZLC4 2025","milnik":"Potvrzení nákupů dalších ramen","pm":"Mežibridskij Filip","deadline":"7. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Systémová příprava 2. depa Vratimov (lokace, role, gates).","pm":"Medlenová Martina","deadline":"10. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Delivery Matrix: generování tras LC → depo → AB.","pm":"Medlenová Martina","deadline":"30. 6. 2026","originalTermin":"13. 3. 2026","posun1":"30. 6. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Systémové pokrytí třídících dep","milnik":"GEM Brno musí být plně technicky připraveno (AP + konektivita + rack).","pm":"Medlenová Martina","deadline":"15. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Systémové pokrytí třídících dep","milnik":"PoC: první systémový svoz na depo + LIVE TEST depo Brno–Slatina.","pm":"Medlenová Martina","deadline":"18. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Systémové pokrytí třídících dep","milnik":"SK podklady (varianty, objemy, trasy, školení) → pro výběr varianty.","pm":"Medlenová Martina","deadline":"15. 5. 2026","originalTermin":"27. 3. 2026","posun1":"17. 4. 2026","posun2":"15. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Systémové pokrytí třídících dep","milnik":"GEM Brno - 1. depo v produkci jako systémový logistický uzel (vč. trasování, trackingu a základního reportingu)","pm":"Medlenová Martina","deadline":"30. 6. 2026","originalTermin":"31. 3. 2026","posun1":"8. 4. 2026","posun2":"30. 4. 2026","posun3":"14. 5. 2026","posun4":"30. 6. 2026","shifted":true,"stav":"Posun"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Live Test – 2. Systémové Depo Hosín","pm":"Medlenová Martina","deadline":"30. 4. 2026","originalTermin":"16. 4. 2026","posun1":"30. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Vratimov - 4. systémové depo live test (plán)","pm":"Medlenová Martina","deadline":"29. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Nový Bydžov - 3. depo připraven k produkčnímu provozu","pm":"Medlenová Martina","deadline":"22. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Hosín / ČB - 2. depo  je v produkčním provozu","pm":"Medlenová Martina","deadline":"14. 5. 2026","originalTermin":"21. 4. 2026","posun1":"30. 4. 2026","posun2":"14. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Výběr trasy/tras pro připravovaný live test 4. depa (Nový Bydžov / Drivecool)","pm":"Medlenová Martina","deadline":"21. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Systémové pokrytí třídících dep","milnik":"Depo Rakovník - konec - go Live depa 30/09","pm":"Medlenová Martina","deadline":"30. 9. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Systémové pokrytí třídících dep","milnik":"GO-LIVE","pm":"Medlenová Martina","deadline":"30. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Vratné palety a RFID komunikace","milnik":"Dodání RFID tagů od Aimtecu + jejich přeposlání výrobcům palet (Stabilplastik a Plasgad)","pm":"Mežibridskij Filip","deadline":"6. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Vratné palety a RFID komunikace","milnik":"Matice tagů vs palety","pm":"Mežibridskij Filip","deadline":"11. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Vratné palety a RFID komunikace","milnik":"Příprava nástroje k datovému zpracování (tag vs. info z konzole).","pm":"Mežibridskij Filip","deadline":"4. 5. 2026","originalTermin":"20. 3. 2026","posun1":"4. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Vratné palety a RFID komunikace","milnik":"Hotová stavební příprava","pm":"Mežibridskij Filip","deadline":"4. 5. 2026","originalTermin":"31. 3. 2026","posun1":"4. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Vratné palety a RFID komunikace","milnik":"Výroba + dodání zkompletovaných palet","pm":"Mežibridskij Filip","deadline":"2. 4. 2026","originalTermin":"31. 3. 2026","posun1":"2. 4. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Vratné palety a RFID komunikace","milnik":"RFID brány dodány a nainstalovány","pm":"Mežibridskij Filip","deadline":"15. 5. 2026","originalTermin":"1. 4. 2026","posun1":"4. 5. 2026","posun2":"15. 5. 2026","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Vratné palety a RFID komunikace","milnik":"GO-LIVE","pm":"Mežibridskij Filip","deadline":"18. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Schválit si nákup robotů a portů AS","pm":"Brejchová Lucie","deadline":"6. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Stabilizovat servisní podmínky s Elementem","pm":"Brejchová Lucie","deadline":"15. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Zpracovat ROI pro BINResQ robota","pm":"Brejchová Lucie","deadline":"30. 4. 2026","originalTermin":"31. 3. 2026","posun1":"15. 4. 2026","posun2":"30. 4. 2026","posun3":"","posun4":"","shifted":true,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Dokončení nového UI modulu porty - continuous","pm":"Brejchová Lucie","deadline":"31. 5. 2026","originalTermin":"31. 3. 2026","posun1":"31. 5. 2026","posun2":"","posun3":"","posun4":"","shifted":true,"stav":"Posun"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Dokončit analýzu počtu baterek k nákupu pro rok 2026","pm":"Brejchová Lucie","deadline":"31. 3. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Provoz kontroluje HW","pm":"Brejchová Lucie","deadline":"17. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Referenční návštěva v Německu - BINresQ","pm":"Brejchová Lucie","deadline":"21. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Zhodnocení posunu z hlediska výpadků AS","pm":"Brejchová Lucie","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Objednán HW na pracoviště portů","pm":"Brejchová Lucie","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Zahájena příprava stavební připravenosti pro porty","pm":"Brejchová Lucie","deadline":"30. 4. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Doladění harmonogramu a parametrů prací s Elementem","pm":"Brejchová Lucie","deadline":"11. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Hotovo"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"BINResQ robot zapůjčení kickoff","pm":"Brejchová Lucie","deadline":"31. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"První nákupy HW a umisťování HW","pm":"Brejchová Lucie","deadline":"31. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Schválení rozpočtu pro stavební přípravu","pm":"Brejchová Lucie","deadline":"18. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Odstraňovací práce v tunelu","pm":"Brejchová Lucie","deadline":"31. 5. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Předání připraveného prostoru Promanu pro vytvoření prostupů","pm":"Brejchová Lucie","deadline":"1. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"Stavební práce hotovo","pm":"Brejchová Lucie","deadline":"29. 6. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"},{"projekt":"Výtlak 310k SJL z AS (PROJ26401)","milnik":"GO-LIVE","pm":"Brejchová Lucie","deadline":"1. 9. 2026","originalTermin":"","posun1":"","posun2":"","posun3":"","posun4":"","shifted":false,"stav":"Probíhá"}],"kpi":[{"name":"Kvalita doručení [%]","target":0.99,"value":0.9534,"unit":"","cw":"CW18","trend":0.016,"history":[{"cw":"CW6","value":0.9491},{"cw":"CW7","value":0.9336},{"cw":"CW8","value":0.9399},{"cw":"CW9","value":0.9243},{"cw":"CW10","value":0.9552},{"cw":"CW11","value":0.9596},{"cw":"CW12","value":0.9674},{"cw":"CW13","value":0.9629},{"cw":"CW14","value":0.9575},{"cw":"CW15","value":0.9054},{"cw":"CW16","value":0.8965},{"cw":"CW17","value":0.937},{"cw":"CW18","value":0.9534}]},{"name":"Kvalita expedice na čas svozu [%]","target":0.98,"value":0.9403,"unit":"","cw":"CW18","trend":-0.008,"history":[{"cw":"CW6","value":0.9375},{"cw":"CW7","value":0.9125},{"cw":"CW8","value":0.9278},{"cw":"CW9","value":0.9068},{"cw":"CW10","value":0.9155},{"cw":"CW11","value":0.9343},{"cw":"CW12","value":0.9562},{"cw":"CW13","value":0.9042},{"cw":"CW14","value":0.9462},{"cw":"CW15","value":0.8907},{"cw":"CW16","value":0.8784},{"cw":"CW17","value":0.9481},{"cw":"CW18","value":0.9403}]},{"name":"CZLC4 - Produktivita [SJL/hod]","target":43,"value":38.54,"unit":"","cw":"CW18","trend":-2.09,"history":[{"cw":"CW6","value":39.49},{"cw":"CW7","value":40.14},{"cw":"CW8","value":39.11},{"cw":"CW9","value":37.5},{"cw":"CW10","value":38.39},{"cw":"CW11","value":40.88},{"cw":"CW12","value":39.92},{"cw":"CW13","value":39.17},{"cw":"CW14","value":39.63},{"cw":"CW15","value":43.46},{"cw":"CW16","value":42.28},{"cw":"CW17","value":40.63},{"cw":"CW18","value":38.54}]},{"name":"LCU Produktivita [SJL/hod]","target":13,"value":10.57,"unit":"","cw":"CW18","trend":-1.83,"history":[{"cw":"CW6","value":10.91},{"cw":"CW7","value":10.72},{"cw":"CW8","value":10.92},{"cw":"CW9","value":10.47},{"cw":"CW10","value":10.57},{"cw":"CW11","value":11.63},{"cw":"CW12","value":11.06},{"cw":"CW13","value":10.54},{"cw":"CW14","value":10.18},{"cw":"CW15","value":11.51},{"cw":"CW16","value":12.42},{"cw":"CW17","value":12.4},{"cw":"CW18","value":10.57}]}],"schuzky":[{"datum":"2026-05-06","ucastnici":["Václav Jiránek","Martina Medlenová","Filip Mežibridskij","Ondra Kreml","Michael Gottwald","Michal Tomek","Tereza Šrámková","David Kupec"],"projekty":[{"nazev":"Systémové pokrytí dep","pm":"Martina Medlenová","stav_ze_schuzky":"Diskuse o kvalitě expedice, problémech s GPS záznamem, výkonem v distribučních linkách. Zmínka o lokalitách Chrášťany (LCU) - kapacita kolísá mezi 51-57%, poslední měsíc kolísavý. Hovoříno o expedičních jogech na 89-90%.","klicove_body":["Kvalita expedice - problém s GPS záznamy","Výkon distribučních linek - 4% trvání","Chrášťany/LCU - kapacita kolem 55-57%","Expediční výkony na 89-90%","Hosín spuštění příští týden","Nový Bydžov: slabé pokrytí třídit, nutna lepší cenovka","Vratimov: plán na příští měsíc, slabé pokrytí","Byly nastavené špatně trasy","Milníky posunuly se na příští měsíc"],"akce":[{"co":"Zajistit odpovědnost za kontrolu Chrášťan - přeřadit z Martiny Drábé na [nejasné] nebo Horáčka","kdo":"[nejasné]","do":null},{"co":"Spustit Hosín","kdo":"[nejasné]","do":"příští týden"},{"co":"Spustit Vratimov","kdo":"[nejasné]","do":"příští měsíc"},{"co":"Vyřešit nastavení tras v depech","kdo":"[nejasné]","do":null}],"rizika":["Kvalita expedice - nejednotné procesy","Kapacita v Chrášťanech je kolísavá","Slabé pokrytí v Novém Bydžově a Vratimově"],"podarilo_se":[],"sledovat":["Kapacita Chrášťan/LCU","Kvalita expedice","Spuštění Hosína","Spuštění Vratimova"]},{"nazev":"Provoz LCU 24/7","pm":"Tereza Šrámková","stav_ze_schuzky":"Projekt je nasazený, probíhá provoz. Byla diskuse o cloudovém řešení a rizicích.","klicove_body":[],"akce":[],"rizika":["Nejasná opatření ohledně cloudového řešení"],"podarilo_se":["Nasazení provozu 24/7"],"sledovat":[]},{"nazev":"Destrukce technologií a materiálu","pm":"Michal Tomek","stav_ze_schuzky":"Stroje a materiál se dávají do aukce. Pracuje se se společností Surplex na smlouvě. Probíhá fotografování zboží profesionálním způsobem. Termín spuštění aukce je cíleně v polovině května s vyprázdněním do konce července.","klicove_body":["Smlouva se Surplex má připomínky, čeká se na podpis","Fotografie materiálu na aukci","Cena vyvolávací a garance","Určení co se bude prodávat vs. vyhazovat"],"akce":[{"co":"Podpis smlouvy se Surplex (německá verze/česká verze)","kdo":"Michal Tomek","do":"2026-05-15"},{"co":"Zahájení aukce","kdo":"Michal Tomek / Surplex","do":"2026-06-01"},{"co":"Vyprázdnění skladu","kdo":"Michal Tomek","do":"2026-07-31"}],"rizika":["Nejasná vyvolávací cena a garantovaný rozsah","Potřeba odhadnout cenu pro aukci","Materiál roztroušený po více lokacích"],"podarilo_se":[],"sledovat":[]},{"nazev":"RMAHQCZ do LCZ","pm":"Michael Gottwald","stav_ze_schuzky":"Probíhá příprava infrastruktury (elektřina, internet, kamery). HR personál je zajištěn (jednotky zaměstnanců, podepsáno). Zpětný tok je částečně vyřešen (DPD v Zdibicích). Rozpočet schválený. Příprava tras pro Miricom. Diskuse o instalaci kabeláže (spodní vedení) a harmonogramu kolidující s reverzem. Start instalace náročný - čeká se na potvrzení termínu 17.5.","klicove_body":["Infrastruktura: elektřina, internet, kamery schváleny","HR zajištěno (jednotky zaměstnanců)","Zpětný tok: DPD bude v Zdibicích, ostatní volné","Rozpočet schválený, Miricom schválí trasy","Kabeláž vedena spodem pod podlahou","Připravenost bez I (bez infrastruktury během instalace)","Kolize s reverzem - rozplánování potřebné"],"akce":[{"co":"Potvrzení termínu startu instalace od dodavatele/Miricom","kdo":"Michael Gottwald","do":"2026-05-17"},{"co":"Příprava tras a označení podlahy pro Miricom","kdo":"Michael Gottwald / Miricom","do":[null]},{"co":"Rozplánování instalace s ohledem na kolize s reverzem","kdo":"Michael Gottwald / Miricom","do":[null]}],"rizika":["Kolize s instalací reverzu - oba projekty potřebují prostory současně","Nejasný přesný start instalace","Potřeba zastavení provozu během prací","Složitost vedení kabeláže bez přerušení provozu"],"podarilo_se":["Schválení infrastruktury","Zabezpečení HR","Schválení rozpočtu"],"sledovat":["Termín startu instalace","Harmonogram prací vs. reverz","Vedení kabeláže"]},{"nazev":"REV LOG mimo CZLC4","pm":"Michael Gottwald","stav_ze_schuzky":"[Nejasné - část textu velmi těžko rozumět. Zmiňuje se v kontextu RMA, kolize s instalací, ale konkrétní detaily nejsou jasné.]","klicove_body":[],"akce":[],"rizika":["Kolize s instalací RMA - oba projekty se překrývají časově a prostorově"],"podarilo_se":[],"sledovat":[]},{"nazev":"Depo Plzeň","pm":"Martina Medlenová","stav_ze_schuzky":"Layout odsouhlasený, spuštění testovacího provozu plánováno na 18. května. Všechno je v procesu. Vyskytla se otázka ohledně rozpočtu a rizika.","klicove_body":["Layout odsouhlasený","Testovací provoz plánován na 18. května","Rozpočtové riziko k diskusi s Ondrou"],"akce":[{"co":"Prodiskutovat řešení rozpočtového rizika","kdo":"Vasil, Ondra","do":null}],"rizika":["Rozpočtové riziko"],"podarilo_se":[],"sledovat":[]}]},{"datum":"2026-04-22","ucastnici":["David Kupec","Tereza Šrámková","Michal Tomek","Lucie Brejchová","Martin Kiss","Václav Jiránek","Michael Gottwald","Filip Mežibridskij","Ondra Kreml","Martina Medlenová","Martin Čech","Lukáš Smetana"],"projekty":[{"nazev":"Destrukce technologií a materiálu","pm":"Michal Tomek","stav_ze_schuzky":"Informován Surplex o akci. Řeší se s právníky. Materiál od Inotechu — velké množství. Zítra schůzka se Surpexem. Cíl: posun na začátek příjmové sezóny (do 24. 4.).","klicove_body":["Surplex bude akci řešit","Právní koordinace probíhá","Materiál od Inotechu — definice kvantum","Schůzka se Surpexem zítra (23. 4.)","Deadline: začátek příjmové sezóny","Zařízení ze Zdibic dostupná a lze je využít","Potřeba elektřiny pro provoz - kritické","Požadavky na vodu a odpad v lokalitě"],"akce":[{"co":"Schůzka se Surpexem — posunutí termínu na začátek příjmové sezóny","kdo":"Michal Tomek","do":"2026-04-23"},{"co":"Převzetí zařízení ze Zdibic","kdo":"Michal Tomek","do":"2026-07-01"}],"rizika":[],"podarilo_se":[],"sledovat":[]},{"nazev":"Výtlak 310k SJL z AS","pm":"Lucie Brejchová","stav_ze_schuzky":"Bez změny oproti minulému statusu. Schůzka s Václavem Burgerem — dávají dohromady výstup. 3 kusy nasazeny, čeká se uvolnění místa u Pavla. Element měl vyznačit prostory minulý týden, pokud nestihli — příští pondělí. Schůzka s Element a AV — všechny profese na místě. Možné riziko: nedostatek prostoru pro robota. Filip se bude podívat na další podrobnosti.","klicove_body":["Bez změny vs minulý status","Koordinace s Václavem Burgerem","3 kusy nasazeny","Čekání na uvolnění místa","Element — vyznačení prostorů (selhání minulý týden)","Schůzka s Element + AV — kapacita elektra a data","Possibilní nedostatek prostoru pro robota","Filip zjišťuje podrobnosti","Harvester hotov ke zkoušce","Posun termínů - nyní 29. 6.","Finální termín 1. 9."],"akce":[{"co":"Schůzka s Václavem Burgerem — příprava výstupu","kdo":"Lucie Brejchová","do":null},{"co":"Element: vyznačení prostorů (pokud nestihli minulý týden)","kdo":"Element","do":"2026-04-28"},{"co":"Schůzka s Element a AV — všechny profese na místě, řešení prostoru","kdo":"Lucie Brejchová","do":null},{"co":"Zjišťování podrobností — prostor pro robota","kdo":"Filip (Mežibridskij)","do":null},{"co":"Doladění harvesterového výpadů","kdo":"[nejasné]","do":"2026-06-29"}],"rizika":["Nedostatek prostoru pro robota — zatím possibilita, ne potvrzeno"],"podarilo_se":[],"sledovat":["Uvolnění místa u Pavla","Výsledek schůzky Element + AV","Prostor pro robota"]},{"nazev":"Robopick CZLC4 2025","pm":"Filip Mežibridskij","stav_ze_schuzky":"[nejasné — zmínka ve spojení s Německem, návštěvou robota, strukturou binu a gripper problematikou; diskuse o chybách, které robot neumí řešit, speciální gripper, optimalizace layoutu]. Návštěva Německa — robot v provozu. Výstupy: report z návštěvy. Rozhodnutí: bude-li se vyplatit implementace vzhledem ke chybám. Možnost posunout port — lepší dostupnost na 100%. Schůzka s Martin Kiss o APIA a softwaru pro automatické stahování dat.","klicove_body":["Návštěva robota v Německu — inspirace","Struktura gridu: nemají dovolené biny, nemají transsely","Naše chyby vs jejich chyby — jiné struktury","Hlavní problém: robot neumí nabrat bin, když je ohnutý nebo přečuhuje","Speciální gripper — který umí řešit naše chyby","Možnost posunout port — lepší dostupnost","Výpočet ROI — vyplatí se či ne","API — domluveny další kroky","Software: automatické stahování dat na příjmových portech","Pokračuje dle plánu","Poslední vlna ladění","Vyřešeny falešné shortpicky","Velká alfa testace příští týden 24h","Testování úterý-středa","Finální sezení pátek","Kvalita robotu 80%","Data cyklů jsou validní","Oficiální golive potvrzeno","Termín: pondělí až čtvrtek"],"akce":[{"co":"Návštěva Německa — report z návštěvy robota","kdo":"Lucie Brejchová (zmíněno)","do":null},{"co":"Rozhodnutí o ROI — posouzení vyplatitelnosti","kdo":"Martin Kiss, Lucie Brejchová","do":null},{"co":"Posun portu — analýza dostupnosti na 100%","kdo":"Martin Kiss","do":null},{"co":"API — další kroky pro automatické stahování dat","kdo":"Lucie Brejchová","do":null},{"co":"Provoz — údržba pracuje na odstranění zjištěných nedostatků","kdo":"[nejasné]","do":null},{"co":"Sledování — extrémy na kamerách, kde trvá nejdéle","kdo":"Martin Kiss","do":null},{"co":"Provést velkou alfa testaci obou stanic 24h","kdo":"Filip Mežibridskij","do":null},{"co":"Testování robotu","kdo":"Filip Mežibridskij","do":"2026-04-30"},{"co":"Finální sezení a srovnání výsledků se SKPIA","kdo":"Filip Mežibridskij + Honza Linhardt","do":"2026-05-01"},{"co":"Oficiální spuštění robota","kdo":"Filip Mežibridskij","do":"2026-04-05"}],"rizika":["Nedostatečná dostupnost na některých pozicích v gridu","Možnost, že přínos nebude stojící za změny layoutu","Kvalita robotu 80% - výsledky ovlivněny testem","Nervozita účastníků ohledně průběhu spuštění"],"podarilo_se":["Report z návštěvy Německa — inspirace pro optimalizaci","Vyřešeny falešné shortpicky"],"sledovat":["ROI analýza","Dostupnost po posunu portu","Chyby řešené gripperem","API stahování dat","Údržba — odstranění nedostatků","Extrémní časy operací","Velká alfa testace","Výkon robotu při spuštění v provozu"]},{"nazev":"Provoz LCU 24/7","pm":"Tereza Šrámková","stav_ze_schuzky":"Probíhá přesun — XPO small ~64%, ostatní ~89% přibližně do 30. 4. Jediný zaznamenán milník. Aktuální stav doplněn. Rizika: zatím se řeší — kdo bude pozván na schůzku (Honza, Hynek, inka, AA — hledají řešení). Fyzika — hledá se řešení.","klicove_body":["Přesun probíhá — XPO small ~64%","Ostatní ~89%","Deadline: 30. 4.","Jediný zaznamenán milník","Aktuální stav doplněn","Rizika — identifikován problém (fyzika)","Hledání řešení — Honza, Hynek, inka, AA"],"akce":[{"co":"Schůzka — řešení problémů (fyzika) — svolat: Honza, Hynek, inka, AA","kdo":"Tereza Šrámková","do":null}],"rizika":["Fyzika — zatím se řeší"],"podarilo_se":[],"sledovat":["Postup přesunu XPO small","Postup přesunu ostatních","Řešení fyziky"]},{"nazev":"REV LOG mimo CZLC4","pm":"Michael Gottwald","stav_ze_schuzky":"Infrastruktura reverse logistiky - diskuse o připravě lokality, procesu přesunu, testování na třídírně, optimalizace procesů returns a reverse flow v Chrášťanech","klicove_body":["Infrastruktura téměř hotová","Testování na třídírně probíhá","Diskuse o reverse flow v Chrášťanech - bezpečnost otáčení kamionu","Optimalizace procesů returns - identifikace problémů s doklady a balíky","Připrava na přesun od 1. 7."],"akce":[{"co":"Finální návrh procesu reverse flow v Chrášťanech","kdo":"[nejasné]","do":null},{"co":"Testování pilota vrácení balíků","kdo":"[nejasné]","do":null},{"co":"Příprava infrastruktury na funkčnost","kdo":"[nejasné]","do":"2026-07-01"}],"rizika":["Bezpečnost otáčení kamionu v Chrášťanech","Procesy returns bez dokladů - efektivita","Personální zajištění - riziko zaměření se na agentury namísto interních lidí"],"podarilo_se":["Potvrzení s Michalem Tomkem ohledně dostupnosti zařízení ze Zdibic"],"sledovat":[]},{"nazev":"Vratné palety a RFID komunikace","pm":"Filip Mežibridskij","stav_ze_schuzky":"Testování párování vratek na přepravní obaly - distribuce na třídírně - testy funkcionality","klicove_body":["Testování na třídírně probíhá","Testování párování vratek na obaly","Optimalizace distribuce v testovacím prostředí"],"akce":[],"rizika":[],"podarilo_se":[],"sledovat":[]},{"nazev":"Depo Plzeň","pm":"Martina Medlenová","stav_ze_schuzky":"Čeká se na smlouvu, která je kritická pro 2 důležité akce (nová provozovna a nahlášení kvůli lidem). Zajištěn papír AA na XL odpad a potvrzená doprava. Harmonogram spuštění: otevření depa plánována na začátek června (6.5. spuštění, 16.6. spuštění se zaměřením na XL). IT běh připraven. Čekáme na Miricom na cenovku za kamerový systém (měli doručit tento týden). Instalace ASRO bude v depu. Plán na 4.-5. května pro finální ladění před 18.5. spuštěním. Martin Čech má doinstalovat do 8.5. Termín obsazení v pořádku do 30. dubna.","klicove_body":["Smlouva je kritická pro project progress","Doprava zajištěna (papír AA, XL odpad)","Čekání na Miricom - kamerový systém","Instalace ASRO v plánu","IT instalace - běh připraven","Finální ladění naplánováno na 4.-5.5.","Doinstalace do 8.5."],"akce":[{"co":"Doručit cenovku za kamerový systém","kdo":"Miricom","do":"2026-04-22"},{"co":"Finální ladění depa (řešit lokace, připojení čtečky, koordinace s IT)","kdo":"Martina Medlenová a tým","do":"2026-05-05"},{"co":"Doinstalovat AP a systém","kdo":"Martin Čech","do":"2026-05-08"},{"co":"Spustit depo","kdo":"[nejasné]","do":"2026-05-18"}],"rizika":["Čekání na smlouvu zpomaluje progress","Instalace ASRO musí být zkoordinována s ostatními pracemi","Termín obsazení kritický - bez řádného nahlášení nelze zaměstnávat"],"podarilo_se":[],"sledovat":["Smlouva - kdy bude připravena","Miricom - dodání kamerového systému","Harmonogram se dodržuje"]},{"nazev":"Systémové pokrytí dep","pm":"Martina Medlenová","stav_ze_schuzky":"Infrastruktura v Hosíně stále není hotová, projekt se posunuje. Na retestem se počítá na příští týden. Čeští potřebují 2-3 dny na přípravu. Signal čtečky byl testován - Ondra Kreml měřil signál v hale, je slabý, ale přítomný. Potřeba vylepšit infrastrukturu (vysílače). Strategie pro Slovensko (Košice, direkty) není ještě vyřešena - čeká se na vypracování variant.","klicove_body":["Infrastruktura v Hosíně není hotová - projekt se posunuje","Retest plánován na příští týden","Signal čtečky potřebuje zlepšení (infrastruktura/vysílače)","Martin Čech má doplnit AP","Ondra Kreml měřil signál - výsledky známy","Trasy budou nastaveny po zlepšení infrastruktury","Slovenská strategie (Košice, direkty) se řeší, nejsou varianty"],"akce":[{"co":"Vylepšit infrastrukturu (vysílače) v Hosíně","kdo":"[nejasné - tým infrastruktury]","do":null},{"co":"Potvrdit připojení čtečky - ověřit signál","kdo":"Ondra Kreml / tým","do":"2026-04-29"},{"co":"Doplnit AP v systému","kdo":"Martin Čech","do":null},{"co":"Nastavit trasy v systému","kdo":"Systémoví technici a dopravci","do":"2026-04-29"},{"co":"Zpracovat varianty pro Slovensko (Košice strategie)","kdo":"Martina Medlenová / Michal Tomek","do":null}],"rizika":["Infrastruktura v Hosíně kriticky zpoždující","Signal čtečky slabý - může být problém v provozu","Slovenská strategie není řešena, čeká se na varianty","Výrazné zpoždění - možné další posuny"],"podarilo_se":["Signal čtečky potvrzen (slabý, ale přítomný)"],"sledovat":["Infrastruktura Hosín - hotovost","Slovenská strategie - varianty od dopravy","Retest příští týden"]},{"nazev":"Nákup MT a HW 2026","pm":"Lucie Brejchová","stav_ze_schuzky":"Míra vrátil nákup 3 zpět ve čtvrtek - nelíbí se mu. Z nabídnutých 3 variant se předpokládá schválení maximálně 1-2. Některé stroje jsou zastaralé (např. převodovka vyžaduje výměnu). Řešení: vyřadit starší stroje, případně je recyklovat. Ambice je nechat proschválit do konce měsíce dubna. Pro Plzeň je kritické stihout finalizaci co nejdřív (do 10.5. orientačně).","klicove_body":["Míra vrátil nákup 3 - nejsou všechny stroje vhodné","Očekáváno schválení 1-2 variant maximálně","Některé stroje vyžadují výměnu součástí (převodovka)","Řešení - vyřazení starších strojů","Termín schválení: konec dubna"],"akce":[{"co":"Finalizovat nákup a nechat schválení","kdo":"Lucie Brejchová","do":"2026-04-30"},{"co":"Vykopat finalizaci nákupu - kritické pro Plzeň","kdo":"Lucie Brejchová","do":"2026-05-10"}],"rizika":["Vrácení nákupu od Míry - neshoda na kvalitě/vhodnosti","Některé stroje zastaralé, vyžadují výměnu","Kritické pro harmonogram Depa Plzeň"],"podarilo_se":[],"sledovat":["Schválení variant - do 30.4.","Finalizace pro Plzeň - do 10.5."]},{"nazev":"Navýšení kapacity příjmu 2026","pm":"Lucie Brejchová","stav_ze_schuzky":"Probíhá příprava na přesun; zbourány regály, připravují se baterie; potřeba dotáhnout infrastrukturu. Dodání skeneru od Inteku zpožděno, dnes odeslán, má být dovezen v pátek. Zdi v procesu, update spíš na další týden. Testování hardwaru provede Lucie v pátek. Připravují se přesuny. Stres test kapacit příjmů vyhodnocován - týká se organizace práce, počtu personálu a výkonu. Příjmová sezóna začíná 1.8.","klicove_body":["Skener od Inteku dovezen v pátek","Testování hardwaru v pátek","Výtlak možný posunem do 15.8.","Stres test na příjmech není stejný jako na expedici","Příjmová sezóna 1.8."],"akce":[{"co":"Dovézt skener z Inteku a zahájit testování","kdo":"Lucie Brejchová","do":"2026-04-25"},{"co":"Definovat metriky a metodiku stres testu příjmů","kdo":"Lucie Brejchová","do":null},{"co":"Vyhodnotit testování RS scanneru","kdo":"Lucie Brejchová","do":"2026-04-25"}],"rizika":["Dodání skeneru bylo zpožděno"],"podarilo_se":[],"sledovat":["Čas na zhotovení zdí","Testování a jejich dopady na výběr hardwaru"]},{"nazev":"Dopravníková síť v CZLC4","pm":"Filip Mežibridskij","stav_ze_schuzky":"Status je AT RISK. Stavební příprava běží dle plánu. Úprava plošin probíhá dle plánu - původní termín plošiny na levé lodi. Nový jižní sjezd se táhne. Kapacity soutů se liší od původních předpokladů - potečou v jiných číslech. Přidávají se noví členové týmu na nasazení v třídění Ropase a Intraluxu. Pozastavují úpravy třídění bangladéš do příštího měsíce - vrátí se později. Posun bude drastický, nový termín cílový je 22.5. Termín 27.4 stále platí. Termín 19.6 stále platí i přes drastický posun.","klicove_body":["Stavební příprava běží dle plánu","Kapacity soutů se liší od plánu","Přidávání nových členů na třídění Ropase a Intralux","Bangladéš pozastaven do příštího měsíce","Drastický posun termínů","Předání kapacit - role se mění"],"akce":[{"co":"Potvrzit si potřeby a data pro instalaci brány","kdo":"Filip Mežibridskij","do":null}],"rizika":["AT RISK - stihnutí stavební přípravy a testování provozu příští týden","Kapacity soutů nižší než očekáváno","Posun termínu na 22.5 místo 4.5-5.5"],"podarilo_se":[],"sledovat":["Termín stavební přípravy","Instalace brány","Kapacity soutů"]}]}]}
+{
+  "meta": {
+    "updated_at": "2026-05-14T10:14:17.931Z",
+    "pocet_projektu": 13
+  },
+  "projekty": [
+    {
+      "nazev": "RMAHQCZ do LCZ",
+      "gid": "1212632482718252",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Gottwald",
+      "status_text": "Summary:\n\nV oblasti dopravního nastavení byly připraveny objemy reklamací zasílaných do servisů prostřednictvím dopravců. Na jejich základě nyní Adam Kysilka ověřuje dostupné varianty řešení a jejich cenovou náročnost. Finální rozhodnutí o nastavení doprav musí být přijato do konce měsíce, aby nebyl ohrožen další harmonogram projektu.\nV oblasti infrastruktury proběhla společná návštěva LCZ za účasti Martina Čecha a společnosti Miricom. Na základě výstupů bylo rozhodnuto upravit přístup k realizaci infrastruktury – kompletní koordinaci nyní přebírá Jan Šimáček a realizace bude probíhat formou standardního tenderu s více dodavateli. Veškeré potřebné podklady jsou již připravené pro zahájení výběrového řízení.\nSoučasně proběhla on-site konzultace zaměřená na BOZP. Pracoviště bylo vyhodnoceno jako vyhovující, identifikovány byly pouze drobné úpravy v podobě posunu některých únikových uliček, bez dopadu na výsledný layout pracoviště.\n\nNext steps:\n\nInfrastruktura (LCZ RMA)\n    zahájení standardního tenderu na infrastrukturu pod vedením Jana Šimáčka,\n    oslovení více dodavatelů a příprava vyhodnocení nabídek,\n    návazná příprava rozpočtu a schválení realizace.\nDopravy\n    dokončení analýzy variant dopravního řešení (Adam Kysilka),\n    vyhodnocení nákladů a možností:\n        zpětné adresy u balíkářů\n        DPD svozy z LCZ\n    finální rozhodnutí o nastavení doprav do konce měsíce.\nBOZP\n    zapracování drobných úprav únikových tras do layoutu,\n    finální potvrzení souladu pracoviště s požadavky BOZP.\nProvoz / HR\n    pokračující stabilní provoz AVRA bez zásadních změn,\n    dořešení jednotlivých otevřených personálních situací,\n    pokračování realizace drobných úkolů v rámci work packages.",
+      "status_date": "2026-05-13T05:56:17.102Z",
+      "tasky": {
+        "aktivni": 40,
+        "zpozdelne": 8,
+        "hotove": 18,
+        "bez_data": 9
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Připraven návrh nových tras pro komplet zpětný tok",
+          "Infrastruktura - schválený rozpočet a zahájena realizace",
+          "Go-Live",
+          "Stabilizace a uzavření projektu",
+          "Od 1. 7. 2026 jsou 100 % RMA toků (příjem, zpracování, rozhodnutí) realizovány výhradně v LCZ (žádný fallback do CZLC4).",
+          "Od 1. 7. 2026 CZLC4 neobsahuje žádná RMA pracoviště, procesy ani zásoby určené ke zpracování reklamací.",
+          "Od 1. 7. 2026 je backlog RMA (balíky čekající na zpracování) ≤ X dnů průměrného denního příjmu (konkrétní číslo doplnit dle dohody).",
+          "Od 1. 7. 2026 je dodržováno RMA SLA (doplnit hodnotu SLA) bez systematických výpadků během provozu v LCZ."
+        ],
+        "zpozdelne": [
+          "RL vs. XPO/XL + MSADy",
+          "Realizace sítě + LAN + silnoproud",
+          "Vyčíslení objemů práce CZ vs SK",
+          "LAN pokrytí RMAHQCZ",
+          "Elektřina  RMAHQCZ",
+          "Stlačený vzduch RMAHQCZ",
+          "Kamery RMAHQCZ LCZ",
+          "počet zaměstnanců, které budeme mít na provozech"
+        ],
+        "hotove": [
+          "Layout RMAHQ LCZ",
+          "BDQ (must have IT úpravy)",
+          "Přesun zpracování AVRA od 7.4.",
+          "Shoda nad harmonogramem přesunu procesů",
+          "Harmonogram přesunu procesů (od 1.4 a dále)"
+        ],
+        "bez_data": [
+          "Zajištění pracoviště LCZ",
+          "Fyzická relokace",
+          "Samosvoz / Balíkovka",
+          "Nastavení třídících lokací LOG",
+          "vyznačení kamer + Zajištění kamer "
+        ]
+      }
+    },
+    {
+      "nazev": "Depo Plzeň",
+      "gid": "1212676561526890",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Medlenova",
+      "status_text": "Depo Plzeň \n\nPřipravenost depa\n    IT & technologie\n    instalace od 6/5 do 14/5 - v procesu\n    K1 - vytvorená Pob, nákladové stredisko, učtovná kniha, user ID \n   2. Dopravy – tendr\n    Dopravci vytendrovaní, probíha zasmluvnení\n    6 tras nastaveno \n    Ridiči školení - v procesu\n  3. Layout \n    odsúhlasený, od 15/5 fyzická príprava na depe\n    prevoz stolov, čtečiek, židlí, manipulačky, vybavenia pre odpočinkovú miestnost etc. \n  4. Odpadové hospodárstvo \n    od 18/5 plast, papír, směs - domluveno, chýba dodať pouze IČP\n    od 8/6 elektro odpad - v procesu, reší dopravy\n  5. Organizačná struktura \n    od 18/5 zam z CZLC4, následne náhrada za vlastné zam od 20/5\n    počet stanovený na 4\n    provoz depa od 19:30 hod do 13 hod -2 smeny",
+      "status_date": "2026-05-13T14:34:06.355Z",
+      "tasky": {
+        "aktivni": 30,
+        "zpozdelne": 3,
+        "hotove": 23,
+        "bez_data": 0
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Testovací provoz",
+          "Go Live",
+          "Organizačná štruktúra",
+          "Od 18.5. 2026 zahájení pilotního provozu depa (testovací třídění zásilek, ověření procesů).",
+          "Od 15. 6. 2026 je depo Plzeň v produkčním provozu a obsluhuje definovanou spádovou oblast AB.",
+          "Od 15. 6. 2026 je 100 % zásilek pro definovanou spádovou oblast AB tříděno a expedováno přes depo Plzeň.",
+          "Od 15. 6. 2026 dosahuje depo Plzeň min. 96 % EXP.",
+          "Od 15. 6. 2026 jsou v produkčním provozu minimálně 2 dopravci obsluhující stejnou spádovou oblast AB."
+        ],
+        "zpozdelne": [
+          "Plán, nastavenie svozu",
+          "Systémové vytvorenie POB, Lokácie na Expedičný tok + Zpetný tok, XL",
+          "Organizačná štruktúra"
+        ],
+        "hotove": [
+          "Předáni lokality",
+          "Layout a proces freeze",
+          "Připravený ramp-up spuštění depa a tras",
+          "Výber a zaistenie lokality",
+          "Ostraha "
+        ],
+        "bez_data": []
+      }
+    },
+    {
+      "nazev": "Vratné palety a RFID komunikace",
+      "gid": "1212626960346026",
+      "stav": "off_track",
+      "posledni_update": "13. 5.",
+      "pm": "Mežibridskij",
+      "status_text": "Summary\n\nCo se stalo:\n    ověřeny instalace datových zásavek / případně dotažení datových kabelů\nCo se bude dít:\n    nastavení a oživení datových sítí - FiMe\n    Aimtec dodání RFID bran \n    Alza instalace + připojení \n    zahájení testování \n    zahájení sledování dle ToLa datového nástroje \nRiziko: \n    fyzická instalace je zkontrolována, jelikož MaČe již není dostupný musíme si donastavení dořešit sami - nedokáži nyní definovat kdy budou sítě dostupné a nastavené, zatím nechávám s otázníkem a upřesním příští týden\nDopad:\n    posunutí Milestone:\n        Stavební příprava 04/05 → ?\n        Dodání a instalace bran 15/05 → ?",
+      "status_date": "2026-05-13T11:17:52.334Z",
+      "tasky": {
+        "aktivni": 1,
+        "zpozdelne": 1,
+        "hotove": 8,
+        "bez_data": 3
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "RFID Brány dodány a nainstalovány"
+        ],
+        "zpozdelne": [
+          "Stavební příprava hotová"
+        ],
+        "hotove": [
+          "Objednávka Plasgad",
+          "Palety objednány",
+          "Objednávka Aimtec RFID tagy",
+          "RFID tagy dodány",
+          "Plasgad palety dodány"
+        ],
+        "bez_data": [
+          "Myšlenka: filtrování RFID kódů",
+          "Future ROI hint",
+          "Požadavky na sítě"
+        ]
+      }
+    },
+    {
+      "nazev": "Destrukce technologií a materiálu (PROJ26569)",
+      "gid": "1210009986504463",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Tomek",
+      "status_text": "Aukce Surplex\n        Probíhá připomínkování a podpis smlouvy.\n        Do aukce chceme zahrnout:\n            stroje - seznam připraven\n            obalový materiál - seznam připraven\n            díly od InnoTechu - seznam připraven\n                do aukce se dá materiál určený k vyhození\n        Ukončení aukce očekáváme do 31.7.2026.\n\n    Rizika\n        Přes aukci se neprodá vše\n            Návrh protiopatření - 1.7.2026 je potřeba rozhodnout, zda dává smysl pokračovat v dalších kolech aukce, nebo zbytek vyhodit.\n\nNext steps",
+      "status_date": "2026-05-13T12:07:07.345Z",
+      "tasky": {
+        "aktivni": 38,
+        "zpozdelne": 0,
+        "hotove": 15,
+        "bez_data": 0
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Měsíční úkoly a milníky",
+          "Obalový materiál do aukce",
+          "InnoTech materiál do aukce",
+          "Stroje do aukce",
+          "Smlouva CON35731 podepsána",
+          "Aukce úspěšně ukončena",
+          "ALL - Staré, nepoužívané, demontované dopr avníky",
+          "ALL - Nepotřebný obalový materiál"
+        ],
+        "zpozdelne": [],
+        "hotove": [
+          "Nabídkový list",
+          "Firmy co projevily zájem ",
+          "Projektový tým",
+          "Prodejní portály",
+          "CZLC4 - Nůžková plošina Optimum žlutá"
+        ],
+        "bez_data": []
+      }
+    },
+    {
+      "nazev": "REV LOG mimo CZLC4",
+      "gid": "1212626960346005",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Gottwald",
+      "status_text": "Summary\n\nV oblasti doprav pokračuje analýza zpětných toků z LCZ. Stejně jako u projektu RMA byly připraveny podklady k objemům reklamací zasílaných do servisů a aktuálně probíhá ověřování variant řešení a jejich nákladovosti. Finální rozhodnutí o nastavení doprav musí být přijato do konce měsíce, aby nebyl ohrožen harmonogram projektu a podmínky go-live.\nV oblasti infrastruktury proběhl obdobný posun jako u projektu RMA. Po společné návštěvě LCZ bylo rozhodnuto, že kompletní koordinaci infrastruktury přebírá Jan Šimáček a realizace bude probíhat formou standardního tenderu s více dodavateli. Veškeré podklady pro zahájení výběrového řízení jsou připravené.\nZe strany provozu zároveň proběhla drobná úprava layoutu. Došlo pouze ke změně rozmístění jednotlivých pracovišť, bez dopadu na celkové kapacity, počty pracovišť nebo infrastrukturní požadavky.\nV oblasti IT pokračuje příprava BDQ pod vedením Tomáše Lanzendörfera. Finální zadání zatím není dokončeno, práce však pokračují dle aktuální priority projektu.\nDále proběhlo projektové review s provozem (Franta Srdečný), v rámci kterého byl potvrzen aktuální stav projektu, oblast HR a také finální umístění prostoru určeného pro předávání RMA servisům.\nPozitivní posun nastal také v oblasti kamerového systému – David Bečička aktuálně připravuje návrh rozmístění kamer, čímž dochází k částečnému mitigování jednoho z identifikovaných projektových rizik.\n\nNext steps:\n\nDopravy (DOP)\n    dokončení analýzy variant dopravního řešení a nákladů,\n    finální rozhodnutí o:\n        zpětných adresách u balíkářů\n        DPD svozech z CZTC1\n    návazná finalizace procesů a podmínek pro spuštění\nInfrastruktura\n    zahájení standardního tenderu pod vedením Jana Šimáčka\n    oslovení dodavatelů a příprava vyhodnocení nabídek\n    finalizace layoutových podkladů po provozních úpravách\n    pokračování přípravy nacenění:\n        LAN\n        silnoproud\n        kamerový systém\nRizika \n    zpoždění finalizace BDQ / IT zadání a návazné implementace,\n    neuzavřené nastavení doprav a závislost na výsledcích probíhajících analýz,\n    pokračující závislost infrastruktury na včasném dokončení tenderu a schválení rozpočtu.",
+      "status_date": "2026-05-13T06:37:49.002Z",
+      "tasky": {
+        "aktivni": 16,
+        "zpozdelne": 6,
+        "hotove": 10,
+        "bez_data": 12
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Od 1. 7. 2026 jsou veškeré RevLog toky (LOG vratky, ASRE, SET) zpracovávány výhradně v CZTC1 a CZLC4 neobsahuje žádné RevLog procesy ani pracovní stanice RevLog.",
+          "Od 1. 7. 2026 je RevLog v CZTC1 v plném provozu bez paralelního zpracování v jiných lokalitách.",
+          "Od 1. 7. 2026 je lead time RevLog na cílové úrovni (stabilní, bez nárůstu oproti předstěhovacímu stavu).",
+          "Od 1. 7. 2026 nevzniká systematický backlog RevLog z důvodu kapacitních nebo personálních omezení.",
+          "Od 1. 7. 2026 je CZLC4 kapacitně uvolněno pro expediční provoz v souladu s plánem výkonu (380k SJL/den).",
+          "Centralizovaný RevLog provoz v CZTC1 a CZLC4 bez RevLog procesů",
+          "Provozní layout a pracoviště RevLog v CZTC1",
+          "Stabilní provoz RevLog po přesunu"
+        ],
+        "zpozdelne": [
+          "Otestovat, jak se v CZTC1 chová naskladnění + distribuce",
+          "Prostor pro předávání RMA servisům",
+          "Nastavení distribuce z příjmu (REVLOG v CZTC1)",
+          "LAN pokrytí RLOG LCZ",
+          "Elektřina RLOG LCZ",
+          "ADMIN 1NP"
+        ],
+        "hotove": [
+          "Hlavní systémová pobočka (LCZ vs CZTC1)",
+          "Definice a popsání jednotlivých procesů RLOG + RMA",
+          "Definice a popsání jednotlivých procesů RLOG RMA",
+          "Harmonogram přesunu procesů (od 1.4 a dále)",
+          "Dokončení layoutu pro realizační fázi"
+        ],
+        "bez_data": [
+          "Příprava harmonogramu přesunu",
+          "Zaučení adminů",
+          "Zajištění pracoviště LCZ",
+          "Fyzická relokace",
+          "Příprava IT zadání (celek + úpravy jednotlivých procesů)"
+        ]
+      }
+    },
+    {
+      "nazev": "Dopravníková síť v CZLC4",
+      "gid": "1212626960345994",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Mežibridskij",
+      "status_text": "Summary\n\nCo se stalo:\n    Stavební příprava Avaps \n    vyklizení regálů za zdí 4F<>1F\n    stavba dopravníku v F4 3NP\n    definování varianty na zapojení \"vánočky\" - tzn. propojení Jižní TC s AB sorterem (potvrdíme cca za týden)\n\nCo se bude dít:\n    pokračování stavby dopravníku F1 3NP a napojení na BPO loop\n    nastavení TMS - zařazení do fronty RUR, check příští týden (syncneme se na přípravu trasování TMS -> FiMe:LuKr:Jokü:MiSa\n    zpracováváme (FiMe+LuKr) ještě alternativní variantu namísto \"vánočky\" - cílíme na dokončení příští týden\n\nRizika:\n    kapacity Innotech, s otevíráním nových TC využijeme kapacitu skoro až do konce sezóny  - ostatní práce budeme muset zařazovat dle možných kapacit v daném čase (bangladéš, bypass z SO08)\n\nNext steps",
+      "status_date": "2026-05-13T11:26:33.477Z",
+      "tasky": {
+        "aktivni": 5,
+        "zpozdelne": 1,
+        "hotove": 13,
+        "bez_data": 7
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Stavba 3NP F1",
+          "Stavba 2NP",
+          "Stavba 1NP",
+          "CZLC4 TMS - Nové dopravníky do TMS",
+          "Palačinka"
+        ],
+        "zpozdelne": [
+          "Stavba 3NP F4"
+        ],
+        "hotove": [
+          "Zpracování dat",
+          "Datové zpracování - dopravníková síť",
+          "Aktuální layout",
+          "PBŘ - evakuační prostor v 3NP",
+          "rozměr průchodu zdí"
+        ],
+        "bez_data": [
+          "Největší chybovost čtečky na dopravníkové síti <5%",
+          "CZLC4 TMS - Dynamické trasování s TMS",
+          "Nová křižovatka na plošině musí být zavedena do TMS",
+          "Požadavky na Facility (dopravníky CZLC4)",
+          "Požadavky na sítě"
+        ]
+      }
+    },
+    {
+      "nazev": "Oživení a zapojení JZ TC nebo conveyorů",
+      "gid": "1212626960345983",
+      "stav": "on_hold",
+      "posledni_update": "29. 4.",
+      "pm": "Mežibridskij",
+      "status_text": "Summary Monthly\n\n    krátký update, včera předány požadavky na stavební úpravy\n\nNext steps",
+      "status_date": "2026-04-29T10:30:56.482Z",
+      "tasky": {
+        "aktivni": 16,
+        "zpozdelne": 0,
+        "hotove": 0,
+        "bez_data": 2
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Kvalita vytahování BINů vůči limitu balení = 97%",
+          "Počet / % AB v předpicku = 80%",
+          "Hodinová kapacita vytahování BINů na všech TC (1x server + 2x jih) = 1400",
+          "Oživení nových JV TC ",
+          "Oživení nových 2x 2D vytahováků",
+          "Napojení přítahů prázdných KLT",
+          "Zaškolení provozu",
+          "Dodání materiálu"
+        ],
+        "zpozdelne": [],
+        "hotove": [],
+        "bez_data": [
+          "Požadavky na Facility (transfer cell CZLC4)",
+          "Příprava Innotech TC (čtečky + PLC)"
+        ]
+      }
+    },
+    {
+      "nazev": "Nákup manipulační techniky a drobného HW 2026",
+      "gid": "1212626960345970",
+      "stav": "on_track",
+      "posledni_update": "15. 4.",
+      "pm": "Brejchová",
+      "status_text": "Summary\n\nManipulační technika\n    sesbírány požadavky za všechny sklady\n    požadavek na odkup odstavené techniky z CZLC4\n    připravené dokumenty pro vykopnutí tendru\n    PROJ26491 - Nákup manipulační techniky 2026 = řešíme schválení \n\nDrobný HW\n    individuální požadavky prozatím sesbírány\n    centrální nákupy = probíhá analýza potřeby na sezonu (KLT bedny + HW)\n        aktuálně vyhodnoceno, že není potřeba kupovat bedny, přesnější update 05/2026\n        čtečky řešíme přednostně = konec prodeje WT6300, v dubnu si řekneme kolik případně potřebujeme kupovat \n\nNext steps\n\n    Pokračování diskuze s procurementem\n    Potvrzení termínů dodání MT dle požadavků skladů\n    Vyhodnocení potřeby centrálního nákupu čteček, KLT beden a dalšího HW",
+      "status_date": "2026-04-15T11:46:44.265Z",
+      "tasky": {
+        "aktivni": 15,
+        "zpozdelne": 9,
+        "hotove": 12,
+        "bez_data": 0
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Přehled manipulační techniky po LC",
+          "PROJ26491 - Nákup manipulační techniky 2026",
+          "Čtečky - hledání levnějších alternativ",
+          "LCU, Elektrický nízkozdvižný vozík , 2, Miroslav Opát",
+          "Analýza potřeby nákupu KLT beden na sezónu 2026",
+          "Prodloužení SOTI licencí na rok 2026 - PROJ26526",
+          "CZLC4 má potřebný HW pro 2026",
+          "CZLC4 odprodej poškozené MT "
+        ],
+        "zpozdelne": [
+          "CZTC1, Ruční paletový vozík, 2, František Srdečný",
+          "Definovat 2 termíny v roce pro nákup MT",
+          "Depo, Ruční paletový vozík, 20, Martina Medlenova",
+          "Výpočet potřeby čteček a tiskáren na sezónu 2026 ",
+          "Požadavky HW za LCZ",
+          "Požadavky HW za LCU",
+          "Požadavky HW za CZTC1",
+          "Požadavky HW za SKLC3",
+          "Požadavky HW za Depa"
+        ],
+        "hotove": [
+          "Seznam MT pro nákup - 1.termín",
+          "Projektový tým",
+          "Revize metodiky výpočtu potřebných tiskáren",
+          "Požadavky MT za CZLC4 - 1.termín",
+          "Požadavky HW za CZLC4"
+        ],
+        "bez_data": []
+      }
+    },
+    {
+      "nazev": "Systémové pokrytí třídících dep",
+      "gid": "1211302143324440",
+      "stav": "at_risk",
+      "posledni_update": "13. 5.",
+      "pm": "Medlenova",
+      "status_text": "Next steps\n\n Hosín / ČB – 2. systémové depo\n    Live test proběhl 29.–30. 4., cca 5 tras.\n    Potvrzena procesní i technická připravenost.\n    Depo připraveno pro ostrý provoz (start po vyhodnocení testu). Stanoveno 14/5.\n    Trasy pre start nastaveny. \n\nNový Bydžov - 3. systémové depo\n    Live test proběhl 5.5-6.5, cca 5 tras.\n    Depo připraveno pro ostrý provoz (start po vyhodnocení testu). Stanoveno na 22/5 - risk kvoli nedoplnenej IT infra\n\nRiziko (klíčové) - niekoľko urgencí, nemáme stále definitívne stanovisko od doprav \n    SK depa = největší aktuální riziko projektu.\n    Nejasné priority, kapacita a readiness pro systémový režim.\n    Proběhl společný meeting LOG + dopravy (1. 4.).\nVýstup / rozhodnutí:\n    Buď jasný roadmap pro SK depa,\n    nebo nutnost vyjmout část SK dep ze systémového konceptu, aby neohrozily další rollout.",
+      "status_date": "2026-05-13T14:38:19.579Z",
+      "tasky": {
+        "aktivni": 37,
+        "zpozdelne": 2,
+        "hotove": 37,
+        "bez_data": 0
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Rozšírený trackovací systém ",
+          "Integrace s BXB a AT2.0 Re-delivery, Reklamace, Returns",
+          "Měření a reporting kvality dep",
+          "Proškolení klíčových uživatelů a provozu",
+          "Všechny depa jsou pokrytá systémově všemi svozy",
+          "2. Depo je pokryté systémově všemi svozy",
+          " 3.Depo je pokryté systémově všemi svozy ",
+          "4. Depo je pokryté systémově všemi svozy"
+        ],
+        "zpozdelne": [
+          "Výber trasy/tras na live test 5.Depo  Vratimov/Drivecool",
+          "Vytvorit finalnu databazu stlpcov v balikojoboch"
+        ],
+        "hotove": [
+          "PoC - první systémový svoz na depo",
+          "1. Depo je pokryté systémově všemi svozy",
+          "Project Charter",
+          "Technické vybavenie Depa",
+          "KPI - co chceme sledovat během projektu"
+        ],
+        "bez_data": []
+      }
+    },
+    {
+      "nazev": "Provoz LCU 24/7 (PROJ26328)",
+      "gid": "1212626960345937",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Šrámková",
+      "status_text": "Summary\n\nCo se událo od poslední schůzky?\n    schůzka s dopravami - čekáme na nabídky od GEMu (do 15.5.)\n\nCo vás čeká za práci do další schůzky?\n    nárůst distribuce XPO z příjmu v CZLC4 - SPD má termín na vyčištění do 18.5., nutno nastavit další postup \n\nOtevřené body\n    dokupy - tiskárny, pickovací klece, apod. \n    přesun světel v LCU - v řešení\n\nRizika?\n    od 1/2 roku nemůže být crossováno s aktuálním nastavením z důvodu kapacit CZLC4 (pokud nestihneme navýšit kapa GEMu, musíme vytvořit provizorní řešení)",
+      "status_date": "2026-05-13T10:48:23.695Z",
+      "tasky": {
+        "aktivni": 21,
+        "zpozdelne": 0,
+        "hotove": 52,
+        "bez_data": 7
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "LYO pro CZLC4",
+          "Řízení heavy palet",
+          "Jaká je kapacita LCU a CZLC4? Doplnit Layout",
+          "Přesunout PET + BAZAR z CZLC4 do LCU",
+          "Od 1. 9. 2026 funguje LCU v režimu 24/7 jako centrální sklad pro XPO.",
+          "Od 1. 9. 2026 jsou XPO zásilky z LCU doručovány v DPO režimu do AB, bez časových omezení způsobených provozní dobou skladu.",
+          "Od 23.3. 2026 je 100 % XPO expedice realizováno z LCU (bez paralelního odbavování z jiných lokalit)",
+          "Od 1. 9. 2026 je peakový výkon skladu dosažitelný i v sezónním zatížení bez vzniku backlogu v příjmu nebo expedici."
+        ],
+        "zpozdelne": [],
+        "hotove": [
+          "KPI - co chceme sledovat během projektu",
+          "Harmonogram projektu",
+          "Rozhodnutí co vše se bude stěhovat z LCU do LCZ - XPO aukro nebo i bazar? ",
+          "Rozhodnutí kdo bude zajišťovat proces Aukro v LCZ",
+          "Určení prostor pro toto zboží v LCZ (viz výše - bazar/ rozbaleno/ AUKRO.../"
+        ],
+        "bez_data": [
+          "XL - příprava na full objemy XPO",
+          "Přesun XPO Aukro do Zdib + příprava ploch ve Zdibech",
+          "Přesun XPO bazaru do Zdib + příprava ploch ve Zdibech",
+          "Dokupy",
+          "Forecast výkonů na AlzaTrade"
+        ]
+      }
+    },
+    {
+      "nazev": "Navýšení kapacity příjmu 2026",
+      "gid": "1212626960345897",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Brejchová",
+      "status_text": "Summary\n\nProvoz\n    připravujeme layout BPO stanic v novém prostoru, poté zahájíme přesun \n    možnost otočení výtahu směrem k ploše BPO stanic (otočení o 180 stupňů) a související úprava layoutu pro BPO plochy - vyčísleno na 395k (o 30% víc než loňská nabídka)\n    napočítáno množství BPO stanic = celkem potřebujeme 10 BPO stanic (navýšení o další 4 stanice + vybavení HW)\n    zábalovka se nebude přesouvat k AS, zůstane v prostoru BPO příjmu \n\nHardware\n    změna na stávajících portech prozatím neschválena, není to finální standardizované řešení pro všechny stanice - řešíme finální podobu příjmové stanice \n    HW pro rozdělené pracoviště na trojportech je prozatím v řešení (mobilní stolek nebo pevné pracoviště) - probíhá analýza na základě dat, zda budeme využívat rozdělené pracoviště i po zprovoznění 11 nových příjmových single portů\n\nIT vývoj\n    \n    \n    \n\nNext steps\n    Dokončení a schválení layoutu LCZ\n    Nákupní seznam pro HW a schválení nákupu \n    Přesuny ploch podle layoutů",
+      "status_date": "2026-05-13T12:39:46.723Z",
+      "tasky": {
+        "aktivni": 31,
+        "zpozdelne": 6,
+        "hotove": 13,
+        "bez_data": 1
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Prověřit otočení výtahu u BPO stanice ",
+          "Nevejdeme se do LCZ a LCU ",
+          "Do 01.06.2026 je řešení je připraveno k procesnímu testování",
+          "Do 15.06.2026 je řešení otestováno a změřeno ",
+          "Od 1.8.2026 je denní kapacita příjmu CZLC4 na hodnotě 1300 palet",
+          "Od 1.8.2026 je denní kapacita příjmu LCU na hodnotě 700 palet + 600 palet/den virtuální kapacity ",
+          "Od 1.8.2026 je denní kapacita příjmu LCZ na hodnotě 400 palet  ",
+          "Nasazené IT úpravy aplikací pro řízení příjmu "
+        ],
+        "zpozdelne": [
+          "Do 22.04.2026 jsou vytvořeny kompletní layouty příjmu ",
+          "Schválené cílové layouty příjmu všech LC ",
+          "Layouty příjmu CZLC4, LCU a LCZ jsou hotové a schválené",
+          "LCZ layout je hotový a schválený",
+          "Layout BPO stanic po přesunu",
+          "Nákupní seznam HW pro nová pracoviště + porty"
+        ],
+        "hotove": [
+          "CZLC4 layout je hotový a schválený",
+          "LCU layout je hotový a schválený",
+          "Velikost bufferu po vykládce a naskladnění",
+          "Počet gate pro příjem",
+          "Data - výkonnost baseline x cíl"
+        ],
+        "bez_data": [
+          "LCU procesy"
+        ]
+      }
+    },
+    {
+      "nazev": "Výtlak 310k SJL z AS (PROJ26401)",
+      "gid": "1210225811427975",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Brejchová",
+      "status_text": "Summary\n\n    Intro:\n         V tomto projektu si klademe za cíl dosáhnout vyššího výkonu AS, viz s tím související níže uvedená KPI.\n        Projekt je rozdělen do šesti částí, tzv. Martinův Hexagon.\n\n    KPI:\n        Peak hodinový výtlak 14500 SJL\n        BIN wait time 4,5s\n        Operator handling time 6s\n        \n        \n\n    Rozpočet do PROJ26401:\n\n    Hexagon:\n        Aplikace\n            Úpravy UI a logiky app.\n            Je připravené zadání.\n            Zrušení vážení\n            Celkem nasazeny 3 ze 4 úprav.\n            Žádný update, další změnu očekáváme v průběhu června\n            Možné riziko = kapacita Pavla Růžičky\n\n        Facility\n            Vlastník tématu za FAC je Vašek Burger.\n            Řešené oblasti:\n                Manuál na výměnu baterií - jde o výměnu baterií za levnější a efektivnější = Připraveno.\n                Výpadky AS\n                    Zhotoven seznam nejčastějších závad\n                        Máme k dispozici report\n                    Binresq robot\n                        Proběhla referenční návštěva v Německu 21.4.\n                        ROI - hotová → BINResQ robot na zapůjčení \n                Packet loss \n                Notifikace pro klíčové uživatele při výpadcích \n                    aktuálně přes WhatsApp\n                    řeší se notifikace přímo přes Unify\n                Čištění predikovaných issue v rámci Unify \n            Aktuálně nevidíme žádné riziko u Facility\n\n        SW\n            Řešíme opravu dvou port to port chyb\n            Update SW AS na nejnovější verzi.\n                Jedeme bez BUGů.\n                    Port to port nasazeno v celém tunelu.\n            Úprava vnořených svozů - řešeno v Konzoli. - LOG33081\n                Čekáme na kapacity. Možné riziko \n            Optimalizace cest robotů přes AI společně s AutoStore \n            Úprava batchování předpicku - nasazeno \n            Schůzka s AutoStore ohledně API, domluveny další kroky na automatické stahování dat \n\n        Provoz\n            Navržen optimální layout pickování v tunelu.\n                In progress interaktivní mapy a modul Porty v Konzoli, což navazuje na tuto úpravu.\n            S vedoucími řešíme lepší využitelnost portů na příjmu - eliminace idle time \n                Vytvořen reportovací nástroj pro sledování idle timu pro SUP/vedoucí, máme report \n            Nasadili jsme možnost sledovat vedoucím počet picků za hodinu.\n                Máme zpětnou vazbu, je to OK. Proběhly finální úpravy\n            Možné riziko mimo tento projekt = dostatečný počet lidí na směnách \n\n        HW\n            Domlouváme s Lukášem Tomsou kontrolu a vybavení pracovišť.\n                Na bázi jednotlivých dnů kontrola probíhá.\n                Na bázi týdenní kontroly se připravuje kontrola údržbou, dohlíží na to Lukáš Tomsa, máme report, údržba pracuje na odstranění zjištěných nedostatků \n                \n            Máme schválen nákup HW - PROJ26401.\n                Komponenty pro porty v tunelu objednány\n            S Vladimírem Kučerou opravujeme nefunkční HW.\n            V rámci vybavení pracovišť jsme domluvili s provozem 5S. \n                zprovozníme po instalaci HW, cca za 2 měsíce.\n                    Připravit podklady pro používání pracovišť.\n                    Jak se kontroluje HW vybavení pracovišť.\n                    Jak se eskaluje problém.\n                    Kdo a jak řeší problém.\n                    Kdo kontroluje dodržování všech bodů.\n            Aktuálně nevidíme žádné riziko u HW\n\n        Nákup a instalace \n            Dokup portů\n                11 solo conveyor, které budou na západní straně\n                5 double portů do tunelu\n            Dokup robotů\n                80 robotů\n            Stavební připravenost\n                Proběhly koordinační schůzky na místě se všemi profesemi\n                Zadání Elektro + IT od Elementu máme - zkontrolováno s AlWa a MaČe\n                Odsouhlasený harmonogram prací s Elementem\n                Máme CN na vytvoření prostupů, úpravy SHZ a EPS, čekáme na elektro a na IT (nabídka Miricom + tendr)\n\nNext steps",
+      "status_date": "2026-05-13T06:28:38.491Z",
+      "tasky": {
+        "aktivni": 37,
+        "zpozdelne": 4,
+        "hotove": 49,
+        "bez_data": 0
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Rozpočet",
+          "Měsíční úkoly a milníky",
+          "FAC příprava na sezónu 26 je dokončena",
+          "Výpadky AS jsou optimalizované a minimalizované",
+          "Václav školení AS maintanance - juan pablo",
+          "AutoStore ResQ Robot reference",
+          "MNT CZ - automatický report stavu baterií AS robotů",
+          "Predicted Issues checklist / čištění"
+        ],
+        "zpozdelne": [
+          "CZLC4 AS APP - Pick 1ks znamená potvrzení picku u n = 1 až n - 1 picků",
+          "CZLC4 AS APP- Bezvýpadkový instalátor APP na AS",
+          "CZLC4 AS APP - Odebrat nutnost finálního potvrzení počtu kusů u single předpicku",
+          "CZLC4 AS - Řízení a Ovládání AS"
+        ],
+        "hotove": [
+          "PickPack",
+          "StressTest domluvit zástup",
+          "Check příjmu pro filipa",
+          "Harmonogram projektu",
+          "AutoCase usecase"
+        ],
+        "bez_data": []
+      }
+    },
+    {
+      "nazev": "Robopick CZLC4 2025",
+      "gid": "1208836145447146",
+      "stav": "on_track",
+      "posledni_update": "13. 5.",
+      "pm": "Mežibridskij",
+      "status_text": "Co se stalo:\n    pondělí 11.5 zaškolení procesu (Kuba Láznička + Michal Sazshin) \n    úterý 12.5 zaškolení provozu (Valentýna)\n    sync a předání informací o zahájení go-live (Provoz + FAC + trenér)\n    13.5 zahájení provozního go-live (Robopick provozován operativou)\nCo se bude dít:\n    MaKi převzetí projektu pod sebe\n    Práce na seznamu optimalizačních úprav\n        Zrychlení robota\n        Dekantace zboží v BINu\n    Postupné předávání robota směrem k provozu\n        příští 2-3 týdny necháme provozovat roboty pouze přes den, než se s nimi pořádně naučíme pracovat a proškolíme ostatní směny → poté začneme na společné dohodě projekt/proces + provoz spouštět i na odpolední a noční\n    Stabilizace robota\n        Sereact bude příští 2-3 týdny v rámci \"hyper-care\" stále on-site a pracovat na doladění stanic a update SW",
+      "status_date": "2026-05-13T11:40:24.684Z",
+      "tasky": {
+        "aktivni": 2,
+        "zpozdelne": 3,
+        "hotove": 47,
+        "bez_data": 5
+      },
+      "nazvy_tasku": {
+        "aktivni": [
+          "Připravit procesní dokumentaci",
+          "Předání Robopicku na údržbu"
+        ],
+        "zpozdelne": [
+          "Dořešit externí obrazovky",
+          "Finální akceptace a předání (Go-live)",
+          "Vývoj K1"
+        ],
+        "hotove": [
+          "připravit ROI pro robo-pick",
+          "připravit návrh smluv od všech dodavatelů",
+          "IT - definovat s dodavateli identifikovat \"pickable\" produkty",
+          "IT - umíme posílat data z cubiscanu?",
+          "Zjistit informace od Nomagicu ohledně jejich vlastního picking portu"
+        ],
+        "bez_data": [
+          "Feedback: Go-live",
+          "Robopick - Vývoj pro Robopick",
+          "Meeting ohledně reportů",
+          "Meeting ohledně KPI ",
+          "Plánování SW aktualizací"
+        ]
+      }
+    }
+  ],
+  "milniky": [
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Začiatok inštalácií sietí/WiFi podľa dostupnosti objektu.",
+      "pm": "Medlenová Martina",
+      "deadline": "6. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Finalizácia layoutov procesov",
+      "pm": "Medlenová Martina",
+      "deadline": "13. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Finalizácia technických podmienok (nájazdy, sociály, úpravy priestorov).",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Spustenie tender procesu",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Schválenie budovy + podpis zmluvy",
+      "pm": "Medlenová Martina",
+      "deadline": "5. 5. 2026",
+      "originalTermin": "15. 3. 2026",
+      "posun1": "26. 3. 2026",
+      "posun2": "17. 4. 2026",
+      "posun3": "30. 4. 2026",
+      "posun4": "5. 5. 2026",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Personálne obsadenie (WFP + role)",
+      "pm": "Medlenová Martina",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "31. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Připravený layout depa (hotovo)",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Nastavené provozní procesy a dokumentace",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Připravený komplet model dopravců včetně zasmluvnění",
+      "pm": "Medlenová Martina",
+      "deadline": "18. 5. 2026",
+      "originalTermin": "30. 4. 2026",
+      "posun1": "18. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Fyzická příprava layoutu na depě",
+      "pm": "Medlenová Martina",
+      "deadline": "13.5.-31.5.2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Dopravy - reporting doprav spuštěn",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 5. 2026",
+      "originalTermin": "30. 4. 2026",
+      "posun1": "15. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Instalace IT a technologie hotová",
+      "pm": "Medlenová Martina",
+      "deadline": "14. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Odpadové hospodářství - směs, papír, plast",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "K1 - reporting nasazen",
+      "pm": "Medlenová Martina",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "30. 4. 2026",
+      "posun1": "31. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Připravený ramp‑up spuštění depa a tras",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "Zaměstnanci z CZLC4 ready",
+      "pm": "Medlenová Martina",
+      "deadline": "18. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "PILOT",
+      "pm": "Medlenová Martina",
+      "deadline": "18. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Depo Plzeň",
+      "milnik": "GO-LIVE",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Destrukce technologií a materiálu",
+      "milnik": "Rozhodnutí, co dál",
+      "pm": "Tomek Michal",
+      "deadline": "31. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Destrukce technologií a materiálu (PROJ26569)",
+      "milnik": "Nabídkové listy, aukce a administrace",
+      "pm": "Tomek Michal",
+      "deadline": "01.05.-31.05.2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Destrukce technologií a materiálu (PROJ26569)",
+      "milnik": "Podepsat smlouvu se Surplex",
+      "pm": "Tomek Michal",
+      "deadline": "15. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Destrukce technologií a materiálu (PROJ26569)",
+      "milnik": "Zahájení aukce",
+      "pm": "Tomek Michal",
+      "deadline": "1. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Destrukce technologií a materiálu (PROJ26569)",
+      "milnik": "Kompletní vyčištění skladů od materiálu apod.",
+      "pm": "Tomek Michal",
+      "deadline": "1. 8. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Destrukce technologií a materiálu (PROJ26569)",
+      "milnik": "GO-LIVE",
+      "pm": "Tomek Michal",
+      "deadline": "1. 9. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Dopravníková síť v CZLC4",
+      "milnik": "Potvrdit potřeby v rámci Bangladéše",
+      "pm": "Mežibridskij Filip",
+      "deadline": "22. 5. 2026",
+      "originalTermin": "14. 4. 2026",
+      "posun1": "24. 4. 2026",
+      "posun2": "22. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Dopravníková síť v CZLC4",
+      "milnik": "Zahájení stavby Innotech",
+      "pm": "Mežibridskij Filip",
+      "deadline": "27. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Dopravníková síť v CZLC4",
+      "milnik": "GO-LIVE",
+      "pm": "Mežibridskij Filip",
+      "deadline": "19. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Nákup manipulační techniky a drobného HW 2026",
+      "milnik": "Finalizace požadavků MT",
+      "pm": "Malák Miroslav",
+      "deadline": "20. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Nákup manipulační techniky a drobného HW 2026",
+      "milnik": "Potvrzení termínu dodání MT dle požadavků skladů",
+      "pm": "Malák Miroslav",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Nákup manipulační techniky a drobného HW 2026",
+      "milnik": "RMA dodat potřeby na MT",
+      "pm": "Malák Miroslav",
+      "deadline": "9. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Nákup manipulační techniky a drobného HW 2026",
+      "milnik": "Schválení investičního záměru",
+      "pm": "Malák Miroslav",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "10. 4. 2026",
+      "posun1": "17. 4. 2026",
+      "posun2": "30. 4. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Nákup manipulační techniky a drobného HW 2026",
+      "milnik": "LCU - dodání požadované MT",
+      "pm": "Malák Miroslav",
+      "deadline": "30. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Nákup manipulační techniky a drobného HW 2026",
+      "milnik": "GO-LIVE",
+      "pm": "Malák Miroslav",
+      "deadline": "15. 9. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Výpočet ROI",
+      "pm": "Brejchová Lucie",
+      "deadline": "9. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Dokončení zadání pro IT ohledně úpravy aplikace pro příjem",
+      "pm": "Brejchová Lucie",
+      "deadline": "10. 4. 2026",
+      "originalTermin": "16. 3. 2026",
+      "posun1": "23. 3. 2026",
+      "posun2": "10. 4. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Dokončení layoutu přijmu CZLC4",
+      "pm": "Brejchová Lucie",
+      "deadline": "10. 4. 2026",
+      "originalTermin": "16. 3. 2026",
+      "posun1": "10. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Dokončení a schválení layoutu LCZ",
+      "pm": "Brejchová Lucie",
+      "deadline": "13. 5. 2026",
+      "originalTermin": "15. 4. 2026",
+      "posun1": "22. 4. 2026",
+      "posun2": "30. 4. 2026",
+      "posun3": "13. 5. 2026",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Vyčíslení nákladů na úpravu ploch podle schválených layoutů",
+      "pm": "Brejchová Lucie",
+      "deadline": "24. 4. 2026",
+      "originalTermin": "10. 4. 2026",
+      "posun1": "24. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Dokončení layoutu pro BPO stanice a dodání cílového počtu stanic + HW",
+      "pm": "Brejchová Lucie",
+      "deadline": "13. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Příprava infrastruktury a přesun BPO stanic",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Rozhodnutí o potřebě pevného pracoviště u trojportů + případný HW",
+      "pm": "Brejchová Lucie",
+      "deadline": "20. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Rozhodnutí o řešení ergonomie na příjmových portech",
+      "pm": "Brejchová Lucie",
+      "deadline": "20. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Vyhodnocení testování RS scanneru",
+      "pm": "Brejchová Lucie",
+      "deadline": "10. 5. 2026",
+      "originalTermin": "30. 4. 2026",
+      "posun1": "10. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Nasazení IT úprav",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Rozhodnutí posunu výtahu",
+      "pm": "Brejchová Lucie",
+      "deadline": "20. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "Vytvoření nákupního seznamu pro nový HW",
+      "pm": "Brejchová Lucie",
+      "deadline": "10. 5. 2026",
+      "originalTermin": "30. 4. 2026",
+      "posun1": "10. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Navýšení kapacity příjmu 2026",
+      "milnik": "GO-LIVE (příjem ready ve všech LC)",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Stavební příprava hotovo (elektro, data…)",
+      "pm": "Mežibridskij Filip",
+      "deadline": "29. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Nákup materiálu HW (dopravníky, rollery…)",
+      "pm": "Mežibridskij Filip",
+      "deadline": "29. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Předmontáž HW hotovo",
+      "pm": "Mežibridskij Filip",
+      "deadline": "12. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Stavba TC (HW) hotovo",
+      "pm": "Mežibridskij Filip",
+      "deadline": "17. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Stavba přítah beden hotovo",
+      "pm": "Mežibridskij Filip",
+      "deadline": "24. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Stavba přítah beden hotovo",
+      "pm": "Mežibridskij Filip",
+      "deadline": "24. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Oživení TC + přítah beden + 2D stroje",
+      "pm": "Mežibridskij Filip",
+      "deadline": "28. 8. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "Testování dokončeno",
+      "pm": "Mežibridskij Filip",
+      "deadline": "25. 9. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Oživení a zapojení JZ TC nebo conveyorů",
+      "milnik": "GO-LIVE",
+      "pm": "Mežibridskij Filip",
+      "deadline": "28. 9. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Začátek přesunu AUKRA do LCZ",
+      "pm": "Šrámková Tereza",
+      "deadline": "4. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Poslední příjem XPO v CZLC4",
+      "pm": "Šrámková Tereza",
+      "deadline": "7. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "První příjem XPO v LCU",
+      "pm": "Šrámková Tereza",
+      "deadline": "9. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Kolaudace",
+      "pm": "Šrámková Tereza",
+      "deadline": "16. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Probíhá expedice XPO výhradně z CZLC4, cross z LCU do - není dořešeno DPO",
+      "pm": "Šrámková Tereza",
+      "deadline": "22. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Probíhá expedice XPO z CZLC3 i LCU = LCU 24/7, zároveň probíhá výprodej skladu XPO v CZLC4",
+      "pm": "Šrámková Tereza",
+      "deadline": "23. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "GO-LIVE",
+      "pm": "Šrámková Tereza",
+      "deadline": "23. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Expedice XPO již jen z LCU (tzn. přesun zbývající zásoby XPO z CZLC4)",
+      "pm": "Šrámková Tereza",
+      "deadline": "13. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Provoz LCU 24/7 (PROJ26328)",
+      "milnik": "Přesunuty PET + bazar z CZLC4 do LCU",
+      "pm": "Šrámková Tereza",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "30. 4. 2026",
+      "posun1": "31. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Harmonogramu přesunu procesů RLOG",
+      "pm": "Gottwald Michael",
+      "deadline": "25. 3. 2026",
+      "originalTermin": "13. 3. 2026",
+      "posun1": "25. 3. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Layout RLOG CZTC1",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 3. 2026",
+      "originalTermin": "20. 3. 2026",
+      "posun1": "31. 3. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Finální infrastruktura - schválení rozpočtu",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "25. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "31. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "BDQ (must have IT úpravy)",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "17. 4. 2026",
+      "posun2": "30. 4. 2026",
+      "posun3": "31. 5. 2026",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Připraven návrh nastavení nových tras zpětného toku (redelivery zůstává v CZLC4)",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "22. 4. 2026",
+      "posun2": "24. 4. 2026",
+      "posun3": "31. 5. 2026",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Příprava harmonogramu přesunu",
+      "pm": "Gottwald Michael",
+      "deadline": "1.5.-31.5.2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Zaučení adminů",
+      "pm": "Gottwald Michael",
+      "deadline": "1.5.-31.5.2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "Dokončení DWG dokumentace pro REVLOG layout",
+      "pm": "Gottwald Michael",
+      "deadline": "13. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "REV LOG mimo CZLC4",
+      "milnik": "GO-LIVE",
+      "pm": "Gottwald Michael",
+      "deadline": "1. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Dokončení harmonogramu přesunu",
+      "pm": "Gottwald Michael",
+      "deadline": "13. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Příprava layoutu RMAHQ LCZ",
+      "pm": "Gottwald Michael",
+      "deadline": "20. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Finální infrastruktura - schválení rozpočtu a známý DOD",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "25. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "31. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Spuštění zpracování AVRA v LCZ (ukončení crossování do CZLC4 pro tuto část)",
+      "pm": "Gottwald Michael",
+      "deadline": "8. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Dokončení DWG dokumentace pro RMA layout",
+      "pm": "Gottwald Michael",
+      "deadline": "13. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Připraven návrh nastavení nových tras zpětného toku (redelivery zůstává v CZLC4)",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "22. 4. 2026",
+      "posun2": "24. 4. 2026",
+      "posun3": "31. 5. 2026",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Finál FTE, kdo se přesune do LCZ",
+      "pm": "Gottwald Michael",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Příprava harmonogramu přesunu",
+      "pm": "Gottwald Michael",
+      "deadline": "1.5.-31.5.2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Vybavování pracovišť",
+      "pm": "Gottwald Michael",
+      "deadline": "1.5.-30.5.2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "GO-LIVE",
+      "pm": "Gottwald Michael",
+      "deadline": "1. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "RMAHQCZ do LCZ",
+      "milnik": "Stabilizace a uzavření projektu",
+      "pm": "Gottwald Michael",
+      "deadline": "31. 7. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "Potvrzení potřebného objemu do SKLC3",
+      "pm": "Mežibridskij Filip",
+      "deadline": "6. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "Výkon jednoho robota 280 ks/hod (220 SJL/hod).",
+      "pm": "Mežibridskij Filip",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "Kvalita dokončení picku robotem 99%.",
+      "pm": "Mežibridskij Filip",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "Availabilita 99%",
+      "pm": "Mežibridskij Filip",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "Výkon 100% (231 SJL/hod)",
+      "pm": "Mežibridskij Filip",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "80% všech SKU skladovatelných v AS je robotpickable",
+      "pm": "Mežibridskij Filip",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "GO-LIVE",
+      "pm": "Mežibridskij Filip",
+      "deadline": "tbd",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "4. 5. 2026",
+      "posun2": "tbd",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Robopick CZLC4 2025",
+      "milnik": "Potvrzení nákupů dalších ramen",
+      "pm": "Mežibridskij Filip",
+      "deadline": "7. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Systémová příprava 2. depa Vratimov (lokace, role, gates).",
+      "pm": "Medlenová Martina",
+      "deadline": "10. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Delivery Matrix: generování tras LC → depo → AB.",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 6. 2026",
+      "originalTermin": "13. 3. 2026",
+      "posun1": "30. 6. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "GEM Brno musí být plně technicky připraveno (AP + konektivita + rack).",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "PoC: první systémový svoz na depo + LIVE TEST depo Brno–Slatina.",
+      "pm": "Medlenová Martina",
+      "deadline": "18. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "SK podklady (varianty, objemy, trasy, školení) → pro výběr varianty.",
+      "pm": "Medlenová Martina",
+      "deadline": "15. 5. 2026",
+      "originalTermin": "27. 3. 2026",
+      "posun1": "17. 4. 2026",
+      "posun2": "15. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "GEM Brno - 1. depo v produkci jako systémový logistický uzel (vč. trasování, trackingu a základního reportingu)",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 6. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "8. 4. 2026",
+      "posun2": "30. 4. 2026",
+      "posun3": "14. 5. 2026",
+      "posun4": "30. 6. 2026",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Live Test – 2. Systémové Depo Hosín",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "16. 4. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Vratimov - 4. systémové depo live test (plán)",
+      "pm": "Medlenová Martina",
+      "deadline": "29. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Nový Bydžov - 3. depo připraven k produkčnímu provozu",
+      "pm": "Medlenová Martina",
+      "deadline": "22. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Hosín / ČB - 2. depo  je v produkčním provozu",
+      "pm": "Medlenová Martina",
+      "deadline": "14. 5. 2026",
+      "originalTermin": "21. 4. 2026",
+      "posun1": "30. 4. 2026",
+      "posun2": "14. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Výběr trasy/tras pro připravovaný live test 4. depa (Nový Bydžov / Drivecool)",
+      "pm": "Medlenová Martina",
+      "deadline": "21. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "Depo Rakovník - konec - go Live depa 30/09",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 9. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Systémové pokrytí třídících dep",
+      "milnik": "GO-LIVE",
+      "pm": "Medlenová Martina",
+      "deadline": "30. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "Dodání RFID tagů od Aimtecu + jejich přeposlání výrobcům palet (Stabilplastik a Plasgad)",
+      "pm": "Mežibridskij Filip",
+      "deadline": "6. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "Matice tagů vs palety",
+      "pm": "Mežibridskij Filip",
+      "deadline": "11. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "Příprava nástroje k datovému zpracování (tag vs. info z konzole).",
+      "pm": "Mežibridskij Filip",
+      "deadline": "4. 5. 2026",
+      "originalTermin": "20. 3. 2026",
+      "posun1": "4. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "Hotová stavební příprava",
+      "pm": "Mežibridskij Filip",
+      "deadline": "4. 5. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "4. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "Výroba + dodání zkompletovaných palet",
+      "pm": "Mežibridskij Filip",
+      "deadline": "2. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "2. 4. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "RFID brány dodány a nainstalovány",
+      "pm": "Mežibridskij Filip",
+      "deadline": "15. 5. 2026",
+      "originalTermin": "1. 4. 2026",
+      "posun1": "4. 5. 2026",
+      "posun2": "15. 5. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Vratné palety a RFID komunikace",
+      "milnik": "GO-LIVE",
+      "pm": "Mežibridskij Filip",
+      "deadline": "18. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Schválit si nákup robotů a portů AS",
+      "pm": "Brejchová Lucie",
+      "deadline": "6. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Stabilizovat servisní podmínky s Elementem",
+      "pm": "Brejchová Lucie",
+      "deadline": "15. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Zpracovat ROI pro BINResQ robota",
+      "pm": "Brejchová Lucie",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "15. 4. 2026",
+      "posun2": "30. 4. 2026",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Dokončení nového UI modulu porty - continuous",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "31. 3. 2026",
+      "posun1": "31. 5. 2026",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": true,
+      "stav": "Posun"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Dokončit analýzu počtu baterek k nákupu pro rok 2026",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 3. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Provoz kontroluje HW",
+      "pm": "Brejchová Lucie",
+      "deadline": "17. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Referenční návštěva v Německu - BINresQ",
+      "pm": "Brejchová Lucie",
+      "deadline": "21. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Zhodnocení posunu z hlediska výpadků AS",
+      "pm": "Brejchová Lucie",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Objednán HW na pracoviště portů",
+      "pm": "Brejchová Lucie",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Zahájena příprava stavební připravenosti pro porty",
+      "pm": "Brejchová Lucie",
+      "deadline": "30. 4. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Doladění harmonogramu a parametrů prací s Elementem",
+      "pm": "Brejchová Lucie",
+      "deadline": "11. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Hotovo"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "BINResQ robot zapůjčení kickoff",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "První nákupy HW a umisťování HW",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Schválení rozpočtu pro stavební přípravu",
+      "pm": "Brejchová Lucie",
+      "deadline": "18. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Odstraňovací práce v tunelu",
+      "pm": "Brejchová Lucie",
+      "deadline": "31. 5. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Předání připraveného prostoru Promanu pro vytvoření prostupů",
+      "pm": "Brejchová Lucie",
+      "deadline": "1. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "Stavební práce hotovo",
+      "pm": "Brejchová Lucie",
+      "deadline": "29. 6. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    },
+    {
+      "projekt": "Výtlak 310k SJL z AS (PROJ26401)",
+      "milnik": "GO-LIVE",
+      "pm": "Brejchová Lucie",
+      "deadline": "1. 9. 2026",
+      "originalTermin": "",
+      "posun1": "",
+      "posun2": "",
+      "posun3": "",
+      "posun4": "",
+      "shifted": false,
+      "stav": "Probíhá"
+    }
+  ],
+  "kpi": [
+    {
+      "name": "Kvalita doručení [%]",
+      "target": 0.99,
+      "value": 0.9534,
+      "unit": "",
+      "cw": "CW18",
+      "trend": 0.016,
+      "history": [
+        {
+          "cw": "CW6",
+          "value": 0.9491
+        },
+        {
+          "cw": "CW7",
+          "value": 0.9336
+        },
+        {
+          "cw": "CW8",
+          "value": 0.9399
+        },
+        {
+          "cw": "CW9",
+          "value": 0.9243
+        },
+        {
+          "cw": "CW10",
+          "value": 0.9552
+        },
+        {
+          "cw": "CW11",
+          "value": 0.9596
+        },
+        {
+          "cw": "CW12",
+          "value": 0.9674
+        },
+        {
+          "cw": "CW13",
+          "value": 0.9629
+        },
+        {
+          "cw": "CW14",
+          "value": 0.9575
+        },
+        {
+          "cw": "CW15",
+          "value": 0.9054
+        },
+        {
+          "cw": "CW16",
+          "value": 0.8965
+        },
+        {
+          "cw": "CW17",
+          "value": 0.937
+        },
+        {
+          "cw": "CW18",
+          "value": 0.9534
+        }
+      ]
+    },
+    {
+      "name": "Kvalita expedice na čas svozu [%]",
+      "target": 0.98,
+      "value": 0.9403,
+      "unit": "",
+      "cw": "CW18",
+      "trend": -0.008,
+      "history": [
+        {
+          "cw": "CW6",
+          "value": 0.9375
+        },
+        {
+          "cw": "CW7",
+          "value": 0.9125
+        },
+        {
+          "cw": "CW8",
+          "value": 0.9278
+        },
+        {
+          "cw": "CW9",
+          "value": 0.9068
+        },
+        {
+          "cw": "CW10",
+          "value": 0.9155
+        },
+        {
+          "cw": "CW11",
+          "value": 0.9343
+        },
+        {
+          "cw": "CW12",
+          "value": 0.9562
+        },
+        {
+          "cw": "CW13",
+          "value": 0.9042
+        },
+        {
+          "cw": "CW14",
+          "value": 0.9462
+        },
+        {
+          "cw": "CW15",
+          "value": 0.8907
+        },
+        {
+          "cw": "CW16",
+          "value": 0.8784
+        },
+        {
+          "cw": "CW17",
+          "value": 0.9481
+        },
+        {
+          "cw": "CW18",
+          "value": 0.9403
+        }
+      ]
+    },
+    {
+      "name": "CZLC4 - Produktivita [SJL/hod]",
+      "target": 43,
+      "value": 38.54,
+      "unit": "",
+      "cw": "CW18",
+      "trend": -2.09,
+      "history": [
+        {
+          "cw": "CW6",
+          "value": 39.49
+        },
+        {
+          "cw": "CW7",
+          "value": 40.14
+        },
+        {
+          "cw": "CW8",
+          "value": 39.11
+        },
+        {
+          "cw": "CW9",
+          "value": 37.5
+        },
+        {
+          "cw": "CW10",
+          "value": 38.39
+        },
+        {
+          "cw": "CW11",
+          "value": 40.88
+        },
+        {
+          "cw": "CW12",
+          "value": 39.92
+        },
+        {
+          "cw": "CW13",
+          "value": 39.17
+        },
+        {
+          "cw": "CW14",
+          "value": 39.63
+        },
+        {
+          "cw": "CW15",
+          "value": 43.46
+        },
+        {
+          "cw": "CW16",
+          "value": 42.28
+        },
+        {
+          "cw": "CW17",
+          "value": 40.63
+        },
+        {
+          "cw": "CW18",
+          "value": 38.54
+        }
+      ]
+    },
+    {
+      "name": "LCU Produktivita [SJL/hod]",
+      "target": 13,
+      "value": 10.57,
+      "unit": "",
+      "cw": "CW18",
+      "trend": -1.83,
+      "history": [
+        {
+          "cw": "CW6",
+          "value": 10.91
+        },
+        {
+          "cw": "CW7",
+          "value": 10.72
+        },
+        {
+          "cw": "CW8",
+          "value": 10.92
+        },
+        {
+          "cw": "CW9",
+          "value": 10.47
+        },
+        {
+          "cw": "CW10",
+          "value": 10.57
+        },
+        {
+          "cw": "CW11",
+          "value": 11.63
+        },
+        {
+          "cw": "CW12",
+          "value": 11.06
+        },
+        {
+          "cw": "CW13",
+          "value": 10.54
+        },
+        {
+          "cw": "CW14",
+          "value": 10.18
+        },
+        {
+          "cw": "CW15",
+          "value": 11.51
+        },
+        {
+          "cw": "CW16",
+          "value": 12.42
+        },
+        {
+          "cw": "CW17",
+          "value": 12.4
+        },
+        {
+          "cw": "CW18",
+          "value": 10.57
+        }
+      ]
+    }
+  ],
+  "schuzky": [
+    {
+      "datum": "2026-05-06",
+      "ucastnici": [
+        "Václav Jiránek",
+        "Martina Medlenová",
+        "Filip Mežibridskij",
+        "Ondra Kreml",
+        "Michael Gottwald",
+        "Michal Tomek",
+        "Tereza Šrámková",
+        "David Kupec"
+      ],
+      "projekty": [
+        {
+          "nazev": "Systémové pokrytí dep",
+          "pm": "Martina Medlenová",
+          "stav_ze_schuzky": "Diskuse o kvalitě expedice, problémech s GPS záznamem, výkonem v distribučních linkách. Zmínka o lokalitách Chrášťany (LCU) - kapacita kolísá mezi 51-57%, poslední měsíc kolísavý. Hovoříno o expedičních jogech na 89-90%.",
+          "klicove_body": [
+            "Kvalita expedice - problém s GPS záznamy",
+            "Výkon distribučních linek - 4% trvání",
+            "Chrášťany/LCU - kapacita kolem 55-57%",
+            "Expediční výkony na 89-90%",
+            "Hosín spuštění příští týden",
+            "Nový Bydžov: slabé pokrytí třídit, nutna lepší cenovka",
+            "Vratimov: plán na příští měsíc, slabé pokrytí",
+            "Byly nastavené špatně trasy",
+            "Milníky posunuly se na příští měsíc"
+          ],
+          "akce": [
+            {
+              "co": "Zajistit odpovědnost za kontrolu Chrášťan - přeřadit z Martiny Drábé na [nejasné] nebo Horáčka",
+              "kdo": "[nejasné]",
+              "do": null
+            },
+            {
+              "co": "Spustit Hosín",
+              "kdo": "[nejasné]",
+              "do": "příští týden"
+            },
+            {
+              "co": "Spustit Vratimov",
+              "kdo": "[nejasné]",
+              "do": "příští měsíc"
+            },
+            {
+              "co": "Vyřešit nastavení tras v depech",
+              "kdo": "[nejasné]",
+              "do": null
+            }
+          ],
+          "rizika": [
+            "Kvalita expedice - nejednotné procesy",
+            "Kapacita v Chrášťanech je kolísavá",
+            "Slabé pokrytí v Novém Bydžově a Vratimově"
+          ],
+          "podarilo_se": [],
+          "sledovat": [
+            "Kapacita Chrášťan/LCU",
+            "Kvalita expedice",
+            "Spuštění Hosína",
+            "Spuštění Vratimova"
+          ]
+        },
+        {
+          "nazev": "Provoz LCU 24/7",
+          "pm": "Tereza Šrámková",
+          "stav_ze_schuzky": "Projekt je nasazený, probíhá provoz. Byla diskuse o cloudovém řešení a rizicích.",
+          "klicove_body": [],
+          "akce": [],
+          "rizika": [
+            "Nejasná opatření ohledně cloudového řešení"
+          ],
+          "podarilo_se": [
+            "Nasazení provozu 24/7"
+          ],
+          "sledovat": []
+        },
+        {
+          "nazev": "Destrukce technologií a materiálu",
+          "pm": "Michal Tomek",
+          "stav_ze_schuzky": "Stroje a materiál se dávají do aukce. Pracuje se se společností Surplex na smlouvě. Probíhá fotografování zboží profesionálním způsobem. Termín spuštění aukce je cíleně v polovině května s vyprázdněním do konce července.",
+          "klicove_body": [
+            "Smlouva se Surplex má připomínky, čeká se na podpis",
+            "Fotografie materiálu na aukci",
+            "Cena vyvolávací a garance",
+            "Určení co se bude prodávat vs. vyhazovat"
+          ],
+          "akce": [
+            {
+              "co": "Podpis smlouvy se Surplex (německá verze/česká verze)",
+              "kdo": "Michal Tomek",
+              "do": "2026-05-15"
+            },
+            {
+              "co": "Zahájení aukce",
+              "kdo": "Michal Tomek / Surplex",
+              "do": "2026-06-01"
+            },
+            {
+              "co": "Vyprázdnění skladu",
+              "kdo": "Michal Tomek",
+              "do": "2026-07-31"
+            }
+          ],
+          "rizika": [
+            "Nejasná vyvolávací cena a garantovaný rozsah",
+            "Potřeba odhadnout cenu pro aukci",
+            "Materiál roztroušený po více lokacích"
+          ],
+          "podarilo_se": [],
+          "sledovat": []
+        },
+        {
+          "nazev": "RMAHQCZ do LCZ",
+          "pm": "Michael Gottwald",
+          "stav_ze_schuzky": "Probíhá příprava infrastruktury (elektřina, internet, kamery). HR personál je zajištěn (jednotky zaměstnanců, podepsáno). Zpětný tok je částečně vyřešen (DPD v Zdibicích). Rozpočet schválený. Příprava tras pro Miricom. Diskuse o instalaci kabeláže (spodní vedení) a harmonogramu kolidující s reverzem. Start instalace náročný - čeká se na potvrzení termínu 17.5.",
+          "klicove_body": [
+            "Infrastruktura: elektřina, internet, kamery schváleny",
+            "HR zajištěno (jednotky zaměstnanců)",
+            "Zpětný tok: DPD bude v Zdibicích, ostatní volné",
+            "Rozpočet schválený, Miricom schválí trasy",
+            "Kabeláž vedena spodem pod podlahou",
+            "Připravenost bez I (bez infrastruktury během instalace)",
+            "Kolize s reverzem - rozplánování potřebné"
+          ],
+          "akce": [
+            {
+              "co": "Potvrzení termínu startu instalace od dodavatele/Miricom",
+              "kdo": "Michael Gottwald",
+              "do": "2026-05-17"
+            },
+            {
+              "co": "Příprava tras a označení podlahy pro Miricom",
+              "kdo": "Michael Gottwald / Miricom",
+              "do": [
+                null
+              ]
+            },
+            {
+              "co": "Rozplánování instalace s ohledem na kolize s reverzem",
+              "kdo": "Michael Gottwald / Miricom",
+              "do": [
+                null
+              ]
+            }
+          ],
+          "rizika": [
+            "Kolize s instalací reverzu - oba projekty potřebují prostory současně",
+            "Nejasný přesný start instalace",
+            "Potřeba zastavení provozu během prací",
+            "Složitost vedení kabeláže bez přerušení provozu"
+          ],
+          "podarilo_se": [
+            "Schválení infrastruktury",
+            "Zabezpečení HR",
+            "Schválení rozpočtu"
+          ],
+          "sledovat": [
+            "Termín startu instalace",
+            "Harmonogram prací vs. reverz",
+            "Vedení kabeláže"
+          ]
+        },
+        {
+          "nazev": "REV LOG mimo CZLC4",
+          "pm": "Michael Gottwald",
+          "stav_ze_schuzky": "[Nejasné - část textu velmi těžko rozumět. Zmiňuje se v kontextu RMA, kolize s instalací, ale konkrétní detaily nejsou jasné.]",
+          "klicove_body": [],
+          "akce": [],
+          "rizika": [
+            "Kolize s instalací RMA - oba projekty se překrývají časově a prostorově"
+          ],
+          "podarilo_se": [],
+          "sledovat": []
+        },
+        {
+          "nazev": "Depo Plzeň",
+          "pm": "Martina Medlenová",
+          "stav_ze_schuzky": "Layout odsouhlasený, spuštění testovacího provozu plánováno na 18. května. Všechno je v procesu. Vyskytla se otázka ohledně rozpočtu a rizika.",
+          "klicove_body": [
+            "Layout odsouhlasený",
+            "Testovací provoz plánován na 18. května",
+            "Rozpočtové riziko k diskusi s Ondrou"
+          ],
+          "akce": [
+            {
+              "co": "Prodiskutovat řešení rozpočtového rizika",
+              "kdo": "Vasil, Ondra",
+              "do": null
+            }
+          ],
+          "rizika": [
+            "Rozpočtové riziko"
+          ],
+          "podarilo_se": [],
+          "sledovat": []
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-22",
+      "ucastnici": [
+        "David Kupec",
+        "Tereza Šrámková",
+        "Michal Tomek",
+        "Lucie Brejchová",
+        "Martin Kiss",
+        "Václav Jiránek",
+        "Michael Gottwald",
+        "Filip Mežibridskij",
+        "Ondra Kreml",
+        "Martina Medlenová",
+        "Lukáš Smetana",
+        "Martin Čech"
+      ],
+      "projekty": [
+        {
+          "nazev": "Destrukce technologií a materiálu",
+          "pm": "Michal Tomek",
+          "stav_ze_schuzky": "Informování Surplexu o akci. Řešení s právníky. Domluvena schůzka se Surplexem na 24. 4. Cíl: posunout se k příjmové sezóně. Řešení s Inotechem ohledně dodávky dílů.",
+          "klicove_body": [
+            "Surplex bude zabývat akcí",
+            "Řešení právních otázek",
+            "Materiál od Inotechu",
+            "Schůzka se Surplexem 24. 4.",
+            "Termín: do začátku příjmové sezóny"
+          ],
+          "akce": [
+            {
+              "co": "Schůzka se Surplexem",
+              "kdo": "Michal Tomek",
+              "do": "2026-04-24"
+            },
+            {
+              "co": "Zajistit skladové technologie ze Zdibic se zálohami a lehkou revizí",
+              "kdo": "Michal Tomek",
+              "do": "2026-07-01"
+            }
+          ],
+          "rizika": [],
+          "podarilo_se": [],
+          "sledovat": []
+        },
+        {
+          "nazev": "Výtlak 310k SJL z AS",
+          "pm": "Lucie Brejchová",
+          "stav_ze_schuzky": "Bez změny oproti minulému statusu. Čekání na uvolnění místa. Čekání u Pavla na možnost doprogramování zbytku. Schůzka s Vaškem Burgerem bude dávat výstup. Probíhá řešení prostoru pro robota s Filipem. Element měl vyznačit prostory minulý týden, nebo to bude příští pondělí. Měli by mít dostatečnou kapacitu.",
+          "klicove_body": [
+            "Čekání na uvolnění místa",
+            "Element měl vyznačit prostory",
+            "Nedostatek prostoru pro robota - zjišťování detailů s Filipem",
+            "Schůzka s Vaškem Burgerem",
+            "Software: domluveny další kroky ohledně API a automatického stahování dat",
+            "Velká údržba proběhla, report existuje, údržba pracuje na odstranění nedostatků",
+            "Objednávání hardwaru",
+            "Nástroj pro sledování: vztahuje data z výkonu, vedoucím se ukazují hodnoty"
+          ],
+          "akce": [
+            {
+              "co": "Schůzka s Vaškem Burgerem - výstup",
+              "kdo": "Lucie Brejchová",
+              "do": null
+            },
+            {
+              "co": "Zjišťování prostoru s Filipem",
+              "kdo": "Lucie Brejchová, Filip Mežibridskij",
+              "do": null
+            },
+            {
+              "co": "Element vyznačit prostory",
+              "kdo": "Element",
+              "do": "2026-04-28"
+            }
+          ],
+          "rizika": [
+            "Nedostatek prostoru pro robota (zatím možnost, ne potvrzené riziko)"
+          ],
+          "podarilo_se": [
+            "Velká údržba proběhla"
+          ],
+          "sledovat": [
+            "Čekání u Pavla na uvolnění místa",
+            "Řešení prostoru s Filipem",
+            "Objednávání hardwaru"
+          ]
+        },
+        {
+          "nazev": "Provoz LCU 24/7",
+          "pm": "Tereza Šrámková",
+          "stav_ze_schuzky": "Přesun probíhá postupně. XPO small přesunuto přibližně 89%. Milník: postup do 30. dne. Riziko se řeší. Hledá se řešení s účastí Honzy, Hynka a dalších. Poznámečka na rizikovost.",
+          "klicove_body": [
+            "XPO small ~89% přesunuto",
+            "Postup do 30. dne",
+            "Milník přesunu",
+            "Řešení rizika v přípravě"
+          ],
+          "akce": [
+            {
+              "co": "Hledání řešení rizika - přizvedení lidí",
+              "kdo": "Tereza Šrámková",
+              "do": null
+            }
+          ],
+          "rizika": [
+            "Riziko na přesunutí (zatím se řeší)"
+          ],
+          "podarilo_se": [],
+          "sledovat": [
+            "Postup přesunu - cíl do 30. dne"
+          ]
+        },
+        {
+          "nazev": "REV LOG mimo CZLC4",
+          "pm": "Michael Gottwald",
+          "stav_ze_schuzky": "Diskuse o infrastruktuře reverse logistiky. Potvrzeno s Michalem Tomkem skladové technologie ve Zdibicích od prodeje. Plánované prevzetí asi 1. července. Řeší se infrastruktura (zásuvky, stlačený vzduch, voda, odpad). Diskutuje se o finálním návrhu zpětného toku v Chrášťanech. Řeší se processní aspekty a testování distribuce.",
+          "klicove_body": [
+            "Infrastruktura reverse logistiky ve Zdibicích - zásuvky, stlačený vzduch, voda, odpad",
+            "Finální návrh zpětného toku v Chrášťanech potřebuje vizualizaci",
+            "Testování chování distribuce na třídírně",
+            "Procesní optimalizace - vrácené balíky bez dokladu, efektivnost převozů",
+            "Risk: infrastruktura a objem služeb agentury"
+          ],
+          "akce": [
+            {
+              "co": "Potvrzit skladové technologie a podpisy na nákup ze Zdibic od prodeje",
+              "kdo": "Michal Tomek",
+              "do": "2026-07-01"
+            },
+            {
+              "co": "Finální návrh zpětného toku v Chrášťanech - vizualizace, bezpečnost otáčení vozidel",
+              "kdo": "[nejasné]",
+              "do": "během týdne"
+            },
+            {
+              "co": "Rozpočet na realizaci infrastruktury",
+              "kdo": "[nejasné]",
+              "do": "[nejasné]"
+            }
+          ],
+          "rizika": [
+            "Infrastruktura není připravena včas",
+            "Vyšší náklady na agentury a služby",
+            "Personální zajištění reverse logistiky - řešení zajístění lidí",
+            "Zpětný tok v Chrášťanech - bezpečnost otáčení kamionu"
+          ],
+          "podarilo_se": [
+            "Potvrzení dostupnosti technologií ve Zdibicích"
+          ],
+          "sledovat": [
+            "Zpětný tok v Chrášťanech",
+            "Infrastruktura - voda, odpad, elektřina",
+            "Procesní optimalizace vrácených balíků"
+          ]
+        },
+        {
+          "nazev": "Vratné palety a RFID komunikace",
+          "pm": "Filip Mežibridskij",
+          "stav_ze_schuzky": "Testování párování vratek na přepravní obal. Testování na třídírně probíhá. Spolupráce s programem. Diskuse o efektivnosti převozu mezi lokalitami. Řeší se funkcionality a optimalizace procesu.",
+          "klicove_body": [
+            "Testování párování vratek na přepravní obal",
+            "Testování na třídírně s analýzou chování distribuce",
+            "Optimalizace efektivnosti převozu",
+            "Procesní zlepšení - podněty ke zlepšení z testování"
+          ],
+          "akce": [
+            {
+              "co": "Pokračovat v testování párování na třídírně a dokumentovat podněty ke zlepšení",
+              "kdo": "[nejasné]",
+              "do": "[nejasné]"
+            }
+          ],
+          "rizika": [],
+          "podarilo_se": [
+            "Zahájeno testování na třídírně"
+          ],
+          "sledovat": [
+            "Výsledky testování párování vratek",
+            "Funkcionality a optimalizace"
+          ]
+        },
+        {
+          "nazev": "Depo Plzeň",
+          "pm": "Martina Medlenová",
+          "stav_ze_schuzky": "Čekání na smlouvu, která je kritická pro dvě důležité akce (nová provozovna a nahlášení na úřad kvůli lidem). Zajištěn papír AA na XL odpad a potvrzená doprava. Plánován harmonogram s Lukášem Smetanou pro trasy přes Chrášťany, Zdibice. Plánované otevření od 1. června, spuštění 6. června. IT běh plánován od 8. června. Instalace ASRO v místě. Domluveno 4.-5. května na vylaďování. Martin Čech má doinstalovat do 8. května. Termín obsazení 30. dubna. Podklady do 17. dubna. Čekání na dopravy ohledně strategie a budovy.",
+          "klicove_body": [
+            "Kritická smlouva vázející 2 důležité akce",
+            "Harmonogram tras přes Chrášťany, Zdibice, Nový Bydžov",
+            "Spuštění 6. června, otevření 1. června",
+            "IT hotovo do 8. května",
+            "Instalace ASRO",
+            "Obsazení do 30. dubna",
+            "Čekání na strategii od doprav ohledně Plzně"
+          ],
+          "akce": [
+            {
+              "co": "Doladit plán spuštění a instalace ASRO",
+              "kdo": "Martina Medlenová a tým",
+              "do": "2026-05-04"
+            },
+            {
+              "co": "Doinstalovat IT řešení",
+              "kdo": "Martin Čech",
+              "do": "2026-05-08"
+            },
+            {
+              "co": "Zajistit obsazení a nahlášení lidí",
+              "kdo": "Martina Medlenová",
+              "do": "2026-04-30"
+            },
+            {
+              "co": "Předat podklady",
+              "kdo": "Martina Medlenová",
+              "do": "2026-04-17"
+            },
+            {
+              "co": "Poskytnut strategii a řešení budovy",
+              "kdo": "Dopravci",
+              "do": null
+            }
+          ],
+          "rizika": [
+            "Chybějící smlouva zpomaluje plánování",
+            "Nejasnost ohledně budovy a strategie doprav",
+            "Termín obsazení (30. dubna) je velmi blízko"
+          ],
+          "podarilo_se": [
+            "Zajištěna doprava na XL odpad (papír AA)",
+            "Domluveno s Lukášem Smetanou na harmonogram"
+          ],
+          "sledovat": [
+            "Doručení smlouvy",
+            "Potvrzení strategie doprav",
+            "Potvrzení budovy"
+          ]
+        },
+        {
+          "nazev": "Systémové pokrytí dep",
+          "pm": "Martina Medlenová",
+          "stav_ze_schuzky": "Infrastruktura v Hosíně se stále připravuje a je zpožděna. Řešení s oatrysk se změnilo. Plánován retest na příští týden (po 2026-04-22). Problém se signálem čteček - Ondra měřil signál v různých místech haly a zjistil pokles. Signál je nyní v pořádku, ale infrastruktura vyžaduje ověření. Plán: nastavení tras, lokací a připojení s Martinuszem Čechem. Slovenská strategie byla zaznamenána 17. dubna.",
+          "klicove_body": [
+            "Infrastruktura v Hosíně zatím není hotova",
+            "Změna řešení s oatrysk",
+            "Měření signálu čteček - signál kolísá v jednotlivých místech haly",
+            "Ondra změřil signál na různých místech",
+            "Potřeba ověření infrastruktury",
+            "Test připojení čteček",
+            "Slovenská komponenta - strategie od 17. dubna",
+            "Nasazení v depech Hosín a dalších",
+            "Nejasné termíny realizace"
+          ],
+          "akce": [
+            {
+              "co": "Domluvit se s Martinuszem Čechem na doplnění AP a připojení",
+              "kdo": "Martina Medlenová",
+              "do": null
+            },
+            {
+              "co": "Ověřit signál v Hosíně - měřit na dálku",
+              "kdo": "Ondra Kreml",
+              "do": null
+            },
+            {
+              "co": "Nasadit infrastrukturu a ověřit",
+              "kdo": "Technický tým",
+              "do": null
+            },
+            {
+              "co": "Nastavit trasy a lokace",
+              "kdo": "Systémoví pracovníci",
+              "do": null
+            },
+            {
+              "co": "Retest na příští týden",
+              "kdo": "Tým",
+              "do": "2026-04-29"
+            },
+            {
+              "co": "Potvrdit realizační harmonogram nasazení",
+              "kdo": "Martina Medlenová",
+              "do": "[nejasné]"
+            }
+          ],
+          "rizika": [
+            "Infrastruktura v Hosíně není hotova",
+            "Signál čteček kolísá v některých místech haly",
+            "Vázanost na Plzeň a její termíny",
+            "Nejasnost ohledně Slovenské strategie"
+          ],
+          "podarilo_se": [
+            "Signál v pořádku - infrastruktura je funkční"
+          ],
+          "sledovat": [
+            "Dokončení infrastruktury v Hosíně",
+            "Výsledky retestování příští týden",
+            "Potvrzení Slovenské strategie",
+            "Harmonogram nasazení v depech"
+          ]
+        },
+        {
+          "nazev": "Nákup MT a HW 2026",
+          "pm": "Lucie Brejchová",
+          "stav_ze_schuzky": "Míra vrátil ve čtvrtek zprávu, že se mu nelíbí nákup 3 strojů. Minimálně 1 ze 3 bude muset být vyměněn (problém s převodovkou). Schválení bude pouze 1, maximálně 2 stroje. Ambice nechávat na konci měsíce na schválení. Urgentní pro Plzeň - potřeba vykopávat co nejdřív.",
+          "klicove_body": [
+            "Míra vrátil negativní zprávu na 3 stroje",
+            "Problém s převodovkou na jednom stroji",
+            "Očekávaný nákup: 1-2 stroje místo 3",
+            "Vázanost na harmonogram Plzně"
+          ],
+          "akce": [
+            {
+              "co": "Vykopat schválení MT co nejdřív",
+              "kdo": "Lucie Brejchová",
+              "do": null
+            },
+            {
+              "co": "Finalizovat schválení nákupu",
+              "kdo": "Lucie Brejchová",
+              "do": "2026-04-30"
+            }
+          ],
+          "rizika": [
+            "Technické problémy se stroji (převodovka)",
+            "Snížení počtu schválených strojů z 3 na 1-2",
+            "Časový tlak z důvodu Plzně"
+          ],
+          "podarilo_se": [],
+          "sledovat": [
+            "Schválení MT nákupu",
+            "Dostupnost schválených strojů"
+          ]
+        },
+        {
+          "nazev": "Navýšení kapacity příjmu 2026",
+          "pm": "Lucie Brejchová",
+          "stav_ze_schuzky": "Tendr připravený, může se změnit počet VN áček ze 3 na 2. Byly zbourány regály, příprava na přesun batohů. Potřeba dotáhnout infrastrukturu. Dodání skeneru od Inteku - odeslání dnes, dovoz v pátek. Zdi jsou v procesu. Layout se protahuje. Stres test se nebude dělat standardně, přístup ke kapacitám a organizaci práce. Příjmová sezóna začíná 1.8.",
+          "klicove_body": [
+            "Tendr s možnou změnou počtu jednotek",
+            "Příprava infrastruktury pokračuje",
+            "Skener od Inteku - testování v pátek",
+            "Layout se posouvá, není to blokující",
+            "Stres test: měřit organizaci práce, ne technické limity",
+            "Příjmová sezóna 1.8. - nutné dodržet harmonogram"
+          ],
+          "akce": [
+            {
+              "co": "Dojet skener od Inteku a otestovat",
+              "kdo": "Lucie Brejchová",
+              "do": "2026-04-25"
+            },
+            {
+              "co": "Schválit náklady na opravy plotů",
+              "kdo": "Lucie Brejchová",
+              "do": "2026-04-24"
+            },
+            {
+              "co": "Vyhodnotit testování RS scanneru",
+              "kdo": "Lucie Brejchová",
+              "do": "2026-05-10"
+            },
+            {
+              "co": "Začít úpravy infrastuktury na depu",
+              "kdo": "Lucie Brejchová",
+              "do": "2026-05-15"
+            }
+          ],
+          "rizika": [
+            "Zpoždění dodání od Inteku",
+            "Layout se protahuje - možný vliv na příjmovou sezónu",
+            "Zkomplikování počtu jednotek"
+          ],
+          "podarilo_se": [],
+          "sledovat": [
+            "Harmonogram layoutu",
+            "Testování scanneru",
+            "Termín příjmové sezóny 1.8."
+          ]
+        },
+        {
+          "nazev": "Dopravníková síť v CZLC4",
+          "pm": "Filip Mežibridskij",
+          "stav_ze_schuzky": "Stavební příprava běží podle plánu. Úprava plošin probíhá. Výstavba dopravníkové sítě - nový jižní sjezd na levé lodi. Kapacitní obavy - původní předpoklady se mění. Akční plán: přidání nových členů týmu, spolupráce na nasazení v rámci třídění. Budou dělány jen projektový supervizing, ne úpravy. Vrácení k Bangladéši později. Posun termínu je drastický - 22.5., ale termíny 27.4. a 19.6. stále platí.",
+          "klicove_body": [
+            "Stavební příprava běží podle plánu",
+            "Úprava plošin podle plánu",
+            "Kapacitní obavy - skutečná čísla se budou lišit od původních předpokladů",
+            "Nový jižní sjezd - táhne se implementace",
+            "Přidávání nových členů týmu pro řešení",
+            "Změna přístupu - projektový supervizing, ne fyzické úpravy",
+            "Drastický posun některých termínů, ale klíčové termíny 27.4. a 19.6. zůstávají"
+          ],
+          "akce": [
+            {
+              "co": "Potvrdit potřeby stavební přípravy",
+              "kdo": "Filip Mežibridskij",
+              "do": "2026-04-25"
+            },
+            {
+              "co": "Přidat nové členy týmu a řešit nasazení",
+              "kdo": "Filip Mežibridskij",
+              "do": "2026-05-22"
+            }
+          ],
+          "rizika": [
+            "Kapacitní nesoulad - skutečná čísla se liší od původních předpokladů",
+            "Zpoždění nového jižního sjezdu",
+            "Nejasná kapacita na sítě Bangladéš"
+          ],
+          "podarilo_se": [
+            "Stavební příprava běží podle plánu",
+            "Schválení stavby dle plánu"
+          ],
+          "sledovat": [
+            "Termín 27.4.",
+            "Termín 19.6.",
+            "Kapacitní řešení",
+            "Nasazení nových členů týmu"
+          ]
+        },
+        {
+          "nazev": "Robopick CZLC4 2025",
+          "pm": "Filip Mežibridskij",
+          "stav_ze_schuzky": "Pokračuje podle plánu. Primární zaměření na poslední vlnu testů a ladění. Spolupráce s analytikem (analýza všech chyb mezi rameny). Vyřešeny falešné shortpicky na straně Pavla. Tento týden zaměření na poslední vlnu testů. Příští týden velká alfa - pouštění obou stanic na celých 24 hodin úterý a středu. Testování s poznámkami a porovnáváním výsledků. Finální sezení s Honzou Linhartem - předávání do provozu. Kvalita robota 80 procent - výsledky ovlivněny začátkem práce robota.",
+          "klicove_body": [
+            "Na trati podle plánu",
+            "Poslední vlna testů a ladění v této chvíli",
+            "Spolupráce s analytikem - řešení chyb",
+            "Falešné shortpicky již vyřešeny",
+            "Velká alfa příští týden - plný provoz obou stanic",
+            "Testování úterý a středu",
+            "Finální sezení a předávání do provozu",
+            "Kvalita robota 80 procent",
+            "Oficiální go-live v termínu",
+            "Pondělí až čtvrtek označeno jako klíčové dny"
+          ],
+          "akce": [
+            {
+              "co": "Provést poslední vlnu testů a ladění",
+              "kdo": "Filip Mežibridskij",
+              "do": "2026-04-25"
+            },
+            {
+              "co": "Spustit velkou alfu - plný provoz obou stanic 24h",
+              "kdo": "Filip Mežibridskij",
+              "do": "2026-04-30"
+            },
+            {
+              "co": "Testování a sběr poznatků úterý a středu",
+              "kdo": "Filip Mežibridskij",
+              "do": "2026-04-30"
+            },
+            {
+              "co": "Finální sezení s Honzou Linhartem",
+              "kdo": "Filip Mežibridskij",
+              "do": "[nejasné]"
+            },
+            {
+              "co": "Předání robota do provozu",
+              "kdo": "Filip Mežibridskij",
+              "do": "[nejasné]"
+            }
+          ],
+          "rizika": [
+            "Kvalita robota 80 procent - vliv na počátek provozu",
+            "Výsledky testování mohou být ovlivněny začátkem provozu robota"
+          ],
+          "podarilo_se": [
+            "Postupuje dle plánu",
+            "Vyřešeny falešné shortpicky",
+            "Spolupráce s analytikem funguje"
+          ],
+          "sledovat": [
+            "Velká alfa příští týden",
+            "Testování obou stanic",
+            "Kvalita robota před finálním předáním",
+            "Jak bude komunikace fungovat během go-live"
+          ]
+        }
+      ]
+    }
+  ]
+}
