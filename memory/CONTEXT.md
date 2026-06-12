@@ -88,6 +88,28 @@
 
 ---
 
+### Depo Teplice (nově přidáno)
+- Přidán do WF1 (nodes: Filtruj projekty, Parsuj milníky, Sestav data.json)
+- Je v Asaně portfoliu, má status update
+- Dashboard se přegeneruje při příštím spuštění WF1
+
+---
+
+## Schůzka 10. 6. 2026 — klíčová zjištění
+
+- **Pokles produktivity** v týdnu 22 — vysoký příjem, nízká expedice, stahování zboží
+- **Kvalita expedice** — změny nastavení svozů (Praha, střední Čechy), odpovídá Michal Gottwald a Michaela
+- **Systémové třídění dep** — problémy se shozeny štítky a ručním vkládáním, plánuje se sjednocení postupů
+- **Depo Hosín** — Ondra Chudoba + Vít projdou problémové body
+- **Systémová depa** — schválena nabídka Cepena pro nové depo, testy v Radimi, jednání s Lidlem (SK)
+- **Autostore** — USB tlačítka pro porty (prototyp hotov, testování v Chrášťanech), aktualizace SW do konce června
+- **BPO stanice** — schválen hardware, natahování kabelů, po dokončení stres test příjmu
+- **Destrukce technologií** — změna odpovědné osoby: nově pan Vozár, schůzka k projití seznamu pro Atlas
+- **Manipulační technika** — 2 poruchy vozíků, dodací lhůty až 4 měsíce, probíhá výběrové řízení
+- **Kapacita skladů** — problém s přesunem XPO a PETU z Chrášťan do Úžic
+
+---
+
 ## Klíčové termíny
 
 | Datum | Událost |
@@ -150,6 +172,19 @@
 - `CLAUDE.md` a `AGENTS.md` byly upraveny tak, aby oba asistenti na začátku četli `memory/WORKFLOW.md`, `memory/CONTEXT.md` a podle potřeby `memory/DASHBOARD.md`.
 - Na konci každé práce se má aktualizovat `memory/CONTEXT.md`; při změně dashboardu také `memory/DASHBOARD.md`; při významné změně konkrétního projektu soubor v `memory/projects/`.
 - Krátká instrukce pro nový chat: když uživatel napíše „pokračuj podle paměti“, asistent má nejdříve přečíst `memory/CONTEXT.md` a `memory/WORKFLOW.md`.
+
+---
+
+## GitHub přístup v Codexu (2026-06-12)
+
+- Uživatel instaloval GitHub CLI.
+- Codex nyní vidí `gh` v `/opt/homebrew/bin/gh`, verze 2.94.0.
+- `gh auth status` hlásí účet `jiranekvaclav`, ale uložený token je neplatný.
+- Volání `gh repo view jiranekvaclav/400K-SJL-MREG1` a `gh api .../memory/CONTEXT.md` zatím selhalo na připojení k `api.github.com`.
+- Další krok: v běžném terminálu znovu spustit `gh auth login -h github.com`, případně restartovat Codex po úspěšné autentizaci.
+- Po opětovném testu Codex stále nevidí token: `~/.config/gh/hosts.yml` obsahuje uživatele `jiranekvaclav`, ale neobsahuje `oauth_token`.
+- DNS v Codex sandboxu stále neřeší `github.com`, `api.github.com` ani `raw.githubusercontent.com`.
+- Praktický stav: Claude může být napojený na GitHub zvlášť, ale Codex v této relaci zatím čte spolehlivě jen lokální OneDrive/GitHub sync kopii.
 
 ---
 
