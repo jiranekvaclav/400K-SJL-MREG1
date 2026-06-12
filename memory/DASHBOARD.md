@@ -27,7 +27,16 @@
 
 - **Cloudflare:** chat webhook v dashboardu
 - **n8n:** automatizace (workflow)
-- **Data:** aktuálně hardcoded v HTML, plánovaná změna na dynamická data přes n8n
+- **GitHub CLI:** nainstalován, napojený na repozitář jiranekvaclav/400K-SJL-MREG1
+- **Repozitář naklonován:** `~/Documents/400K-SJL-MREG1`
+
+## n8n Webhooky
+
+| Workflow | URL | Spuštění |
+|---|---|---|
+| WF1 - Master Dashboard | `https://n8n.dev.gcp.alza.cz/webhook/f5014ea1-ca4b-4562-b921-0c1a70de7f89` | POST |
+| WF2 - Zpracování přepisů | `https://n8n.dev.gcp.alza.cz/webhook/90e0b07d-641d-4f12-b650-144d45c1a4f9` | POST |
+| WF3 - Chat Hynek | Cloudflare webhook (vždy aktivní) | automaticky |
 
 ## Historie změn
 
