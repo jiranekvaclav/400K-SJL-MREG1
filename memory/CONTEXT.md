@@ -88,10 +88,10 @@
 
 ---
 
-### Depo Teplice (nově přidáno)
+### Depo Teplice
 - Přidán do WF1 (nodes: Filtruj projekty, Parsuj milníky, Sestav data.json)
-- Je v Asaně portfoliu, má status update
-- Dashboard se přegeneruje při příštím spuštění WF1
+- Fix `.trim()` aplikován — Asana vrací název s trailing mezerou `"Depo Teplice "`
+- WF1 proběhl úspěšně, Depo Teplice je v data.json i index.html na GitHubu (stav k 2026-06-12)
 
 ---
 
