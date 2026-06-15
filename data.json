@@ -3965,12 +3965,8 @@
         {
           "nazev": "Navýšení kapacity příjmu 2026",
           "pm": "Lucie Brejchová",
-          "stav_ze_schuzky": "Diskuse o výkonu příjmu v Plzni. Produktivita 30% horší při stejném výkonu. Zmíněno zvýšení objem a automatizace (robot). Bufr palet na víkend zvýšen z 750-800 na přes 900.",
+          "stav_ze_schuzky": "Schválen nákup hardwaru pro 4 nové BPO stanice; hardware interně stažen, čeká se na dodání PC od IT. Layout finalizován, probíhá elektro. IT vývoj pro prioritizaci palet je hlavním rizikem, cíl: procesní test do konce června.",
           "klicove_body": [
-            "Produktivita příjmu nižší o 30% při stejném výkonu",
-            "Objem se zvýšil",
-            "Bufr palet zvýšen z 750-800 na přes 900",
-            "Робот manipuluje balíky zpomaluje pracovníky",
             "4 nové BPO stanice",
             "Hardware interně stažený",
             "IT plánování do konce týdne",
@@ -4004,8 +4000,6 @@
             }
           ],
           "rizika": [
-            "Produktivita nižší než očekáváno",
-            "Více faktorů ovlivňuje výkon",
             "IT vývoj",
             "IZ test",
             "Chybějí počítače pro BPO stanice",
@@ -4027,10 +4021,18 @@
         {
           "nazev": "Depo Plzeň",
           "pm": "Martina Medlenová",
-          "stav_ze_schuzky": "[nejasné - zmíněny pouze marginálně v souvislosti se svozy a dispečerem]",
-          "klicove_body": [],
+          "stav_ze_schuzky": "Produktivita příjmu v Plzni je o 30 % nižší než očekávaná. Objem se zvýšil, robot manipuluje balíky a zpomaluje pracovníky. Bufr palet na víkend zvýšen z 750–800 na přes 900.",
+          "klicove_body": [
+            "Produktivita příjmu nižší o 30 % při stejném výkonu",
+            "Objem se zvýšil",
+            "Bufr palet zvýšen z 750–800 na přes 900",
+            "Robot manipuluje balíky a zpomaluje pracovníky"
+          ],
           "akce": [],
-          "rizika": [],
+          "rizika": [
+            "Produktivita nižší než očekáváno",
+            "Více faktorů ovlivňuje výkon (robotická manipulace, objem)"
+          ],
           "podarilo_se": [],
           "sledovat": []
         },
