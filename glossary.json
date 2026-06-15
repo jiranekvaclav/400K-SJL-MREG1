@@ -3,17 +3,24 @@
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
-      "vstup": "Roman",
-      "vystup": "PROMAN (dodavatelská firma)",
+      "vstup": "VoBa",
+      "vystup": "Vojta Balcárek (je to osoba).",
       "kontext": ""
     },
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
       "vstup": "Roman",
-      "vystup": "PROMAN (dodavatelskÃ¡ firma, ne osoba)",
-      "kontext": "AS, Autostore, VÃ½tlak 310k SJL"
+      "vystup": "PROMAN (dodavatelskÃ¡ firma)",
+      "kontext": ""
+    },
+    {
+      "zdroj": "pamatuj si",
+      "datum": "2026-06-15",
+      "vstup": "Roman",
+      "vystup": "PROMAN (dodavatelskÃÂ¡ firma, ne osoba)",
+      "kontext": "AS, Autostore, VÃÂ½tlak 310k SJL"
     }
   ],
-  "_info": "GlosÃ¡Å korekcÃ­ pro WF2. PÅidÃ¡vej zÃ¡znamy pÅes chat Hynek pÅÃ­kazem 'pamatuj si: ...'."
+  "_info": "GlosÃÂ¡ÃÂ korekcÃÂ­ pro WF2. PÃÂidÃÂ¡vej zÃÂ¡znamy pÃÂes chat Hynek pÃÂÃÂ­kazem 'pamatuj si: ...'."
 }
