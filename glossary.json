@@ -3,17 +3,10 @@
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
-      "vstup": "SKLC3",
-      "vystup": "Autostore sklad v Chrášťanech",
-      "kontext": ""
-    },
-    {
-      "zdroj": "pamatuj si",
-      "datum": "2026-06-15",
       "vstup": "Roman",
-      "vystup": "PROMAN (dodavatelskÃ¡ firma, ne osoba)",
-      "kontext": "AS, Autostore, VÃ½tlak 310k SJL"
+      "vystup": "PROMAN (dodavatelská firma, ne osoba)",
+      "kontext": "AS, Autostore, Výtlak 310k SJL"
     }
   ],
-  "_info": "GlosÃ¡Å korekcÃ­ pro WF2. PÅidÃ¡vej zÃ¡znamy pÅes chat Hynek pÅÃ­kazem 'pamatuj si: ...'."
+  "_info": "Glosář korekcí pro WF2. Přidávej záznamy přes chat Hynek příkazem 'pamatuj si: ...'."
 }
