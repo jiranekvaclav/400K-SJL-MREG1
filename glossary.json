@@ -3,31 +3,38 @@
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
-      "vstup": "DPD svozy budou probíhat standardně do zdi",
-      "vystup": "\"zdi\" znamená LCZ (Zdib).",
+      "vstup": "Roman",
+      "vystup": "PROMAN",
+      "kontext": ""
+    },
+    {
+      "zdroj": "pamatuj si",
+      "datum": "2026-06-15",
+      "vstup": "DPD svozy budou probÃ­hat standardnÄ do zdi",
+      "vystup": "\"zdi\" znamenÃ¡ LCZ (Zdib).",
       "kontext": ""
     },
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
       "vstup": "VoBa",
-      "vystup": "Vojta BalcÃ¡rek (je to osoba).",
+      "vystup": "Vojta BalcÃÂ¡rek (je to osoba).",
       "kontext": ""
     },
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
       "vstup": "Roman",
-      "vystup": "PROMAN (dodavatelskÃÂ¡ firma)",
+      "vystup": "PROMAN (dodavatelskÃÂÃÂ¡ firma)",
       "kontext": ""
     },
     {
       "zdroj": "pamatuj si",
       "datum": "2026-06-15",
       "vstup": "Roman",
-      "vystup": "PROMAN (dodavatelskÃÂÃÂ¡ firma, ne osoba)",
-      "kontext": "AS, Autostore, VÃÂÃÂ½tlak 310k SJL"
+      "vystup": "PROMAN (dodavatelskÃÂÃÂÃÂÃÂ¡ firma, ne osoba)",
+      "kontext": "AS, Autostore, VÃÂÃÂÃÂÃÂ½tlak 310k SJL"
     }
   ],
-  "_info": "GlosÃÂÃÂ¡ÃÂÃÂ korekcÃÂÃÂ­ pro WF2. PÃÂÃÂidÃÂÃÂ¡vej zÃÂÃÂ¡znamy pÃÂÃÂes chat Hynek pÃÂÃÂÃÂÃÂ­kazem 'pamatuj si: ...'."
+  "_info": "GlosÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ korekcÃÂÃÂÃÂÃÂ­ pro WF2. PÃÂÃÂÃÂÃÂidÃÂÃÂÃÂÃÂ¡vej zÃÂÃÂÃÂÃÂ¡znamy pÃÂÃÂÃÂÃÂes chat Hynek pÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­kazem 'pamatuj si: ...'."
 }
