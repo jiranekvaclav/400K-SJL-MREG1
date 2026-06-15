@@ -1,0 +1,12 @@
+{
+  "korekce": [
+    {
+      "zdroj": "pamatuj si",
+      "datum": "2026-06-15",
+      "vstup": "Roman",
+      "vystup": "PROMAN (dodavatelská firma, ne osoba)",
+      "kontext": "AS, Autostore, Výtlak 310k SJL"
+    }
+  ],
+  "_info": "Glosář korekcí pro WF2. Přidávej záznamy přes chat Hynek příkazem 'pamatuj si: ...'."
+}
